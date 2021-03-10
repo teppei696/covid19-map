@@ -17,7 +17,38 @@
     },
     mounted() {
       this.createMap()
-      this.setMarker()
+      this.map.on('load', () => {
+        this.map.addSource('places', {
+          'type': 'geojson',
+          'data': Data
+        });
+        // Add a layer showing the places.
+        this.map.addLayer({
+          'id': 'places',
+          'type': 'symbol',
+          'source': 'places',
+          'layout': {
+            'icon-image': '{icon}-15',
+            'icon-allow-overlap': true
+          }
+        });
+        this.map.on('click', 'places', function (e) {
+          var coordinates = e.features[0].geometry.coordinates.slice();
+          var name = e.features[0].properties.name;
+          var address = e.features[0].properties.address;
+          var html = '<p>' + name + '<br>' + address + '</p>'
+          while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+            coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+          }
+          new mapboxgl.Popup().setLngLat(coordinates).setHTML(html).addTo(this);
+        });
+        this.map.on('mouseenter', 'places', () => {
+          this.map.getCanvas().style.cursor = 'pointer';
+        });
+        this.map.on('mouseleave', 'places', () => {
+          this.map.getCanvas().style.cursor = '';
+        });
+      });
     },
     methods: {
       createMap() {
@@ -31,23 +62,12 @@
         var nav = new mapboxgl.NavigationControl();
         this.map.addControl(nav, "top-left");
       },
-      setMarker() {
-        var marker = null;
-        for (var i = 0; i < Data.data.length; i++) {
-          var monument = Data.data[i].latlng;
-          var popup = new mapboxgl.Popup({ offset: 25 }).setText(Data.data[i].name);
-          marker = new mapboxgl.Marker()
-            .setLngLat(monument)
-            .setPopup(popup)
-            .addTo(this.map);
-        }
+      setLayer() {
       }
     }
   }
 </script>
 <style>
-#map{
-   width: 100%;
-   height: 100vh;
-}
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
 </style>
