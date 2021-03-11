@@ -55,7 +55,7 @@
         mapboxgl.accessToken = this.access_token
         this.map = new mapboxgl.Map({
           container: 'map',
-          style: 'mapbox://styles/teppei696/cklc6ue2g1y1q17s0d5068j1q',
+          style: 'mapbox://styles/code4osaka/ckm3bbsyd0dqp17tgsq4mpbb1',
           zoom: 11,
           center: [135.5193174, 34.6862456]
         })
