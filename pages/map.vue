@@ -1,6 +1,7 @@
 <template>
   <div>
     <div id='map'></div>
+    <nav id="filter-group" class="filter-group"></nav>
   </div>
 </template>
 
@@ -16,22 +17,59 @@
       }
     },
     mounted() {
+      var filterGroup = document.getElementById('filter-group');
       this.createMap()
       this.map.on('load', () => {
         this.map.addSource('places', {
           'type': 'geojson',
           'data': Data
         });
-        // Add a layer showing the places.
-        this.map.addLayer({
-          'id': 'places',
-          'type': 'symbol',
-          'source': 'places',
-          'layout': {
-            'icon-image': '{icon}-15',
-            'icon-allow-overlap': true
+        Data.features.forEach((feature) => {
+          var symbol = feature.properties['icon'];
+          var munic = feature.properties['munic'];
+          var layerID = 'poi-' + munic;
+          // Add a layer for this symbol type if it hasn't been added already.
+          if (!this.map.getLayer(layerID)) {
+            this.map.addLayer({
+              'id': layerID,
+              'type': 'symbol',
+              'source': 'places',
+              'layout': {
+                'icon-image': symbol + '-15',
+                'icon-allow-overlap': true
+              },
+              'filter': ['==', 'munic', munic]
+            });
+            // Add checkbox and label elements for the layer.
+            var input = document.createElement('input');
+            input.type = 'checkbox';
+            input.id = layerID;
+            input.checked = true;
+            filterGroup.appendChild(input);
+            var label = document.createElement('label');
+            label.setAttribute('for', layerID);
+            label.textContent = munic;
+            filterGroup.appendChild(label);
+            // When the checkbox changes, update the visibility of the layer.
+            input.addEventListener('change', (e) => {
+              this.map.setLayoutProperty(
+                layerID,
+                'visibility',
+                e.target.checked ? 'visible' : 'none'
+              );
+            });
           }
         });
+        // Add a layer showing the places.
+        // this.map.addLayer({
+        //   'id': 'places',
+        //   'type': 'symbol',
+        //   'source': 'places',
+        //   'layout': {
+        //     'icon-image': '{icon}-15',
+        //     'icon-allow-overlap': true
+        //   }
+        // });
         this.map.on('click', 'places', function (e) {
           var coordinates = e.features[0].geometry.coordinates.slice();
           var name = e.features[0].properties.name;
@@ -68,6 +106,46 @@
   }
 </script>
 <style>
-body { margin: 0; padding: 0; }
-#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+  body { margin: 0; padding: 0; }
+	#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+  .filter-group {
+    font: 12px/20px 'MS PGothic', 'UmePlus P Gothic', 'VL PGothic', sans-serif;
+    font-weight: 600;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1;
+    border-radius: 3px;
+    width: 120px;
+    color: #fff;
+  }
+  .filter-group input[type='checkbox']:first-child + label {
+    border-radius: 3px 3px 0 0;
+  }
+  .filter-group label:last-child {
+    border-radius: 0 0 3px 3px;
+    border: none;
+  }
+  .filter-group input[type='checkbox'] {
+    display: none;
+  }
+  .filter-group input[type='checkbox'] + label {
+    background-color: #3386c0;
+    display: block;
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+  }
+  .filter-group input[type='checkbox'] + label {
+    background-color: #3386c0;
+    text-transform: capitalize;
+  }
+  .filter-group input[type='checkbox'] + label:hover,
+  .filter-group input[type='checkbox']:checked + label {
+    background-color: #4ea0da;
+  }
+  .filter-group input[type='checkbox']:checked + label:before {
+    content: '✔';
+    margin-right: 5px;
+  }
 </style>

@@ -6,7 +6,8 @@
             "properties": {
                 "name": "Geee!!",
                 "address": "大阪府大阪市北区堂山町10-7ステージジュエルビル5F",
-                "icon": "restaurant"
+                "icon": "restaurant",
+                "munic": "大阪市北区"
             },
             "geometry": {
                 "type": "Point",
@@ -21,7 +22,8 @@
             "properties": {
                 "name": "BAR JURA",
                 "address": "大阪府大阪市北区兎我野町12-15丸一ビル１階",
-                "icon": "restaurant"
+                "icon": "restaurant",
+                "munic": "大阪市西区"
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +38,8 @@
             "properties": {
                 "name": "End point",
                 "address": "大阪府大阪市北区堂山町16-4 307",
-                "icon": "restaurant"
+                "icon": "restaurant",
+                "munic": "大阪市西成区"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +54,8 @@
             "properties": {
                 "name": "ザ・ベストテン Part1",
                 "address": "大阪府大阪市北区曽根崎新地1-2-9 新鈴木ビル3F",
-                "icon": "restaurant"
+                "icon": "restaurant",
+                "munic": "豊中市"
             },
             "geometry": {
                 "type": "Point",
