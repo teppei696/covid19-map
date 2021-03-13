@@ -40,6 +40,22 @@
               },
               'filter': ['==', 'munic', munic]
             });
+            this.map.on('click', layerID, function (e) {
+              var coordinates = e.features[0].geometry.coordinates.slice();
+              var name = e.features[0].properties.name;
+              var address = e.features[0].properties.address;
+              var html = '<p>' + name + '<br>' + address + '</p>'
+              while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+              }
+              new mapboxgl.Popup().setLngLat(coordinates).setHTML(html).addTo(this);
+            });
+            this.map.on('mouseenter', layerID, () => {
+              this.map.getCanvas().style.cursor = 'pointer';
+            });
+            this.map.on('mouseleave', 'places', () => {
+              this.map.getCanvas().style.cursor = '';
+            });
             // Add checkbox and label elements for the layer.
             var input = document.createElement('input');
             input.type = 'checkbox';
@@ -61,31 +77,17 @@
           }
         });
         // Add a layer showing the places.
-        // this.map.addLayer({
-        //   'id': 'places',
-        //   'type': 'symbol',
-        //   'source': 'places',
-        //   'layout': {
-        //     'icon-image': '{icon}-15',
-        //     'icon-allow-overlap': true
-        //   }
-        // });
-        this.map.on('click', 'places', function (e) {
-          var coordinates = e.features[0].geometry.coordinates.slice();
-          var name = e.features[0].properties.name;
-          var address = e.features[0].properties.address;
-          var html = '<p>' + name + '<br>' + address + '</p>'
-          while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-            coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+        /*
+        this.map.addLayer({
+          'id': 'places',
+          'type': 'symbol',
+          'source': 'places',
+          'layout': {
+            'icon-image': '{icon}-15',
+            'icon-allow-overlap': true
           }
-          new mapboxgl.Popup().setLngLat(coordinates).setHTML(html).addTo(this);
         });
-        this.map.on('mouseenter', 'places', () => {
-          this.map.getCanvas().style.cursor = 'pointer';
-        });
-        this.map.on('mouseleave', 'places', () => {
-          this.map.getCanvas().style.cursor = '';
-        });
+        */
       });
     },
     methods: {
