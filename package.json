@@ -7,7 +7,8 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "test": "echo 'skip tests (there is no test)'"
+    "test": "echo 'skip tests (there is no test)'",
+    "generate:deploy": "nuxt generate"
   },
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.12.1",
