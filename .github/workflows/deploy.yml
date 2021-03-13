@@ -25,7 +25,8 @@ jobs:
             ${{ runner.os }}-yarn-
 
       - run: echo "TOKEN = ${MAPBOX_TOKEN}" > .env
-      - run: cat .env
+        env:
+          MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
       - run: yarn install --frozen-lockfile
       - run: yarn run test
       - run: yarn run generate:deploy --fail-on-page-error
