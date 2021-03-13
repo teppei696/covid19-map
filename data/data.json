@@ -64,6 +64,22 @@
                     34.6984565
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1000円焼肉　298梅田1号店",
+                "address": "大阪府大阪市北区堂山町10-2",
+                "icon": "restaurant",
+                "munic": "茨木市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.50446080246087,
+                    34.703241049360344
+                ]
+            }
         }
     ]
 }
