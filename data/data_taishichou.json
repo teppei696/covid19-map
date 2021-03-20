@@ -1,0 +1,465 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RESTAURANT　SAKURA",
+                "address": "太子町葉室８００－１",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "http://www.taishi-cc.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "レストラン",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.65327,
+                    34.5034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "太子カントリー倶楽部",
+                "address": "太子町葉室８００－１",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "http://www.taishi-cc.co.jp/",
+                "industry": "その他",
+                "type": "ゴルフ場",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.65327,
+                    34.5034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ATELIER globe",
+                "address": "太子町太子８－５",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63055,
+                    34.52019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "懐食　吉田",
+                "address": "太子町太子７－５",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食店",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63055,
+                    34.52019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高齢者交流サロン",
+                "address": "太子町太子１６５５",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63937,
+                    34.51741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カインズ太子店",
+                "address": "太子町太子２８０",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "https://map.cainz.com/map/843",
+                "industry": "生活必需サービス",
+                "type": "ホームセンター",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63206,
+                    34.52015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "配食のふれ愛　太子店",
+                "address": "太子町春日９９－１",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "https://haishokunofureai.com",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "高齢者向け配食",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64217,
+                    34.5259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "公文式　太子春日教室",
+                "address": "太子町春日９２－３",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64417,
+                    34.52486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ・スナック　リサ",
+                "address": "太子町春日８２－３",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64375,
+                    34.52629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "フルーツパーラ　オレンジ",
+                "address": "太子町春日８１",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64375,
+                    34.52629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "整体院　楽壽",
+                "address": "太子町春日１４６－１６",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "http://rakujyu.sisyou.com",
+                "industry": "個人向けサービス",
+                "type": "整体院",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64546,
+                    34.52306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶　マーガレット",
+                "address": "太子町春日１７９－９",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6425,
+                    34.52692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "寿喜菜の会",
+                "address": "太子町春日１７３３",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "集会・展示施設",
+                "type": "集会場",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64563,
+                    34.51859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "すし処　幸",
+                "address": "太子町春日１４２１－１",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6472,
+                    34.52459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "奏",
+                "address": "太子町春日１１３　山産ビル１　Ａ",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64375,
+                    34.52629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "すずらん整骨鍼灸院",
+                "address": "太子町大字春日１０８－１２　Ｋ．Ｒ．ガーデンハウス１０２",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "その他",
+                "type": "整骨院",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64217,
+                    34.5259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "髪道楽やま",
+                "address": "太子町春日１０３－４９",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "その他",
+                "type": "理容業",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64217,
+                    34.5259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "サロン・ド・ミー",
+                "address": "太子町山田８２３－４８",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "リラクゼーションサロン",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64958,
+                    34.52035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万葉の森",
+                "address": "太子町山田２０６７－１",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64835,
+                    34.518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "蛸屋本店太子店",
+                "address": "太子町山田６４３－５",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64958,
+                    34.52035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "フィッシングセンター竹の内",
+                "address": "太子町山田２０２１－１",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66441,
+                    34.51966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "太子温泉",
+                "address": "太子町山田１１３１",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.65598,
+                    34.51956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ふくべ",
+                "address": "太子町山田１０７",
+                "icon": "restaurant",
+                "munic": "太子町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "taishichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64723,
+                    34.51833
+                ]
+            }
+        }
+    ]
+}

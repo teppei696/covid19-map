@@ -1,0 +1,6745 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スワロウ",
+                "address": "高石市東羽衣２－２０－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://www.bees-hagoromo.com",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44402,
+                    34.53098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ワークスペース　パーティールーム　羽衣",
+                "address": "高石市東羽衣７－１－５６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "集会・展示施設",
+                "type": "貸会議室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43932,
+                    34.52759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "理容　稲井",
+                "address": "高石市東羽衣４－４－２６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44803,
+                    34.53006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "night Lounge 舞",
+                "address": "高石市東羽衣３－８－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "ラウンジ",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44209,
+                    34.53328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NIGHT.IN　Santa　fe",
+                "address": "高石市東羽衣３－８－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44209,
+                    34.53328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "サザンクロス",
+                "address": "高石市東羽衣３－４－４４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "カラオケ喫茶　スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44341,
+                    34.53391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万菜",
+                "address": "高石市東羽衣３－４－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44341,
+                    34.53391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　弥助",
+                "address": "高石市東羽衣３－３－５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44257,
+                    34.53413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋弥助",
+                "address": "高石市東羽衣３－３ー１５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44257,
+                    34.53413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丸幸水産　羽衣店",
+                "address": "高石市東羽衣３－２－２２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "たこ焼き屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44234,
+                    34.5344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "croquette",
+                "address": "高石市東羽衣３－２－１７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "コロッケ屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44234,
+                    34.5344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "羽衣テラス",
+                "address": "高石市東羽衣３－１－１　２０１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.sakura-coffee.jp/hagoromo_terrace.html",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェダイニング",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44211,
+                    34.53456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "銀装＆cafe羽衣",
+                "address": "高石市東羽衣３－１－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44211,
+                    34.53456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋 藤",
+                "address": "高石市東羽衣３－１７－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44191,
+                    34.53136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金香楼",
+                "address": "高石市東羽衣３－１７－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44191,
+                    34.53136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中華料理　金華楼",
+                "address": "高石市東羽衣３－１７－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44191,
+                    34.53136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックあかり",
+                "address": "高石市東羽衣３－１７－１９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44191,
+                    34.53136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉　味楽",
+                "address": "高石市東羽衣３－１５－７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44115,
+                    34.53279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石市立東羽衣公民館",
+                "address": "高石市東羽衣３－１５－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "集会場、公会堂",
+                "type": "公民館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44115,
+                    34.53279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "grace",
+                "address": "高石市東羽衣３－１５－２６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "放課後等デイサービス",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44115,
+                    34.53279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "旬の彩　ゆめや",
+                "address": "高石市東羽衣３－１５－２６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44115,
+                    34.53279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丸隆亭",
+                "address": "高石市東羽衣３－１５－２　２Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44115,
+                    34.53279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鶏酒家　チキンハート",
+                "address": "高石市東羽衣３－１５－２　２Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44115,
+                    34.53279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "食酒家キッチンハート",
+                "address": "高石市東羽衣３－１５－２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44115,
+                    34.53279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "京乃地ざけ",
+                "address": "高石市東羽衣５－３－８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44196,
+                    34.53028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "いち輪 羽衣",
+                "address": "高石市東羽衣３－１５－２　７０１０ＢＬＤＧ　２Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44395,
+                    34.52896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "萩鮨",
+                "address": "高石市東羽衣１－１８－３５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "すし屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44267,
+                    34.53513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "soigne（ソアネ）",
+                "address": "高石市東羽衣１－１６－１９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "エステティックサロン",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44412,
+                    34.53472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "羽衣学園　給品部",
+                "address": "高石市東羽衣１－１１－５７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "学内売店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44562,
+                    34.53454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "音色カフェ　一子",
+                "address": "高石市千代田６－４－２２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42363,
+                    34.52174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hair art ASA",
+                "address": "高石市千代田６－１－８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "美容室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42607,
+                    34.52031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "あっとくぅ～II",
+                "address": "高石市千代田６－１３－８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42448,
+                    34.51819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NANSEN食堂",
+                "address": "高石市千代田６－１２－５３　南海福祉看護専門学校内",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42188,
+                    34.51932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南海福祉看護専門学校",
+                "address": "高石市千代田６－１２－５３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "専門学校",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42188,
+                    34.51932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "千代田庵",
+                "address": "高石市千代田６－１２－１９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42188,
+                    34.51932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶　ZERO",
+                "address": "高石市千代田６－１０－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42442,
+                    34.5187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OHARA",
+                "address": "高石市千代田２－１１－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "卸売市場",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42752,
+                    34.5241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミスタータイヤマン高石",
+                "address": "高石市千代田４－７－１３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.mr-tireman.jp/shop/takaishi/",
+                "industry": "その他",
+                "type": "自動車用タイヤ販売",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42657,
+                    34.5208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和み料理 夢酒房",
+                "address": "高石市千代田４－６－１１　岡本ビル１Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42725,
+                    34.52146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "コミュニティセンター",
+                "address": "高石市千代田４－５－２５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "集会場、公会堂",
+                "type": "コミュニティセンター",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42653,
+                    34.522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石市コミュニティセンター",
+                "address": "高石市千代田４－５－２５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "集会場、公会堂",
+                "type": "高石市コミュニティセンター",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42653,
+                    34.522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "もつ鍋屋かっさん",
+                "address": "高石市千代田４－１－７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "もつ鍋屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42793,
+                    34.52215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "びゅーてい千裕",
+                "address": "高石市千代田３－８－６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容・美容業",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43022,
+                    34.5203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ｂａｒ　ひびき",
+                "address": "高石市千代田３－６－２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43114,
+                    34.52089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヘアーメイクフロム30's",
+                "address": "高石市千代田３－６－２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43114,
+                    34.52089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "やすらぎ処　ひと味",
+                "address": "高石市千代田３－４－３４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42979,
+                    34.52153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "三井化学　千代田クラブ",
+                "address": "高石市千代田３－２－５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "企業内社員食堂、社員クラブ",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4283,
+                    34.52171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大津屋高石店",
+                "address": "高石市千代田３－２－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "精肉店、焼肉屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4283,
+                    34.52171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石メモリアルホール",
+                "address": "高石市千代田３－１－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "冠婚葬祭",
+                "type": "葬儀会館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4288,
+                    34.52226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "さぬきうどんの店　美麺",
+                "address": "高石市千代田３－１３－３１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "うどん屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42825,
+                    34.52073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "花みずき",
+                "address": "高石市千代田５－２０－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42424,
+                    34.51581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶  荻野目",
+                "address": "高石市千代田５－２０－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42424,
+                    34.51581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶 荻野目",
+                "address": "高石市千代田５－２０－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42424,
+                    34.51581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "放課後等デイサービスPOPO",
+                "address": "高石市千代田５－１－３６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://treepopok9.wixsite.com/mysite",
+                "industry": "その他",
+                "type": "障がい児通所支援事業所",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42572,
+                    34.51923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉】一番",
+                "address": "高石市千代田１－８－１７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43352,
+                    34.52305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉一番",
+                "address": "高石市千代田１－８－１７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43352,
+                    34.52305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鶴橋粉舗てこや　高石駅前店",
+                "address": "高石市千代田１－８－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://tekoya.com/",
+                "industry": "飲食料品供給",
+                "type": "たこ焼き屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43352,
+                    34.52305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "立み処オオマエ",
+                "address": "高石市千代田１－７－５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43231,
+                    34.52313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉ホルモン焼き　松力",
+                "address": "高石市千代田１－７－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43231,
+                    34.52313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　とみちゃん",
+                "address": "高石市千代田１－６－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43233,
+                    34.52379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石市立千代田公民館",
+                "address": "高石市千代田１－４－１５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "集会場、公会堂",
+                "type": "公民館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43173,
+                    34.52378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vifasa ビファーサ",
+                "address": "高石市千代田１－２７－５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.instagram.com/vifasa.jp",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "レストラン",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4292,
+                    34.52271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新極真会大阪神戸湾岸支部　高石道場",
+                "address": "高石市千代田１－２７－２２　キャピタルビル２Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "カラテ道場",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4292,
+                    34.52271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シティホール高石　和食の羽衣",
+                "address": "高石市千代田１－２７－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "冠婚葬祭",
+                "type": "葬儀業",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4292,
+                    34.52271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "酒房なか",
+                "address": "高石市千代田１－２３－２３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43123,
+                    34.52154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "めし処酒場夏陽",
+                "address": "高石市千代田１－２２－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43192,
+                    34.52162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "夏陽",
+                "address": "高石市千代田１－２２－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "うどん　ラーメン　居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43192,
+                    34.52162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "花朋",
+                "address": "高石市千代田１－１－２６　ペンシルビル３Ｆ　３０１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4312,
+                    34.52482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "いよや",
+                "address": "高石市千代田１－１１－１１　１０７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43253,
+                    34.52233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックお花",
+                "address": "高石市千代田１－１０の３０　ニューアメリカンビル２階",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック　クールランド",
+                "address": "高石市千代田１－１０－３２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック　カサブランカ",
+                "address": "高石市千代田１－１０－３０　ニューアメリカンプラザビル６階",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ まぁ～♪こ",
+                "address": "高石市千代田１－１０－３０　ニューアメリカンプラザビル　６Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "綾",
+                "address": "高石市千代田１－１０－３０　ニュ－アメリカンプラザⅦ号４Ｆ　Ｃ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たこ焼きBar　TurquoiseBlue",
+                "address": "高石市千代田１－１０－３０　アメリカンプラザビル３Ｆｃ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "バー",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉はぐれ雲",
+                "address": "高石市千代田１－１０－３０　アメリカンプラザビル１Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "酒楽　真こころ",
+                "address": "高石市千代田１－１０－３０　アメリカンビル５Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "エテルノバーセ",
+                "address": "高石市千代田１－１０－３０　アメリカンビル４－Ｄ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR GARDEN",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "バー、ラーメン",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR☆DIA2",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Espoir",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "Snack",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sho-chiku ",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ酒場　中村家",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケバー",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックカサブランカ",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックしのぶ",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックバー23twentythree",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "スナックバー",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックベティ",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たこ焼きbar Turquoise Blue",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "たこ焼きbar",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "呑喰処　ぎん",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "snack Eldorad",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "地下スナック　misumi",
+                "address": "高石市千代田１－１０－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ちょい呑みどらごん",
+                "address": "高石市千代田１－１０ー３０　３　Ｄ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOLE",
+                "address": "高石市千代田１－１０ー３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "BAR",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43335,
+                    34.5222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "チャイナテーブル喜心",
+                "address": "高石市西取石６－６－７１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44301,
+                    34.51693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ちゃんこ鍋　力士料理　天籟山",
+                "address": "高石市西取石６－６－７１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://www.tenraiyama.com",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ちゃんこ鍋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44301,
+                    34.51693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丸源ラーメン　高石店",
+                "address": "高石市西取石６－６－５８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44301,
+                    34.51693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丸源ラーメン　高石店　",
+                "address": "高石市西取石６－６－５８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.syodai-marugen.jp/index.html",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ラーメンチェーン店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44301,
+                    34.51693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "びっくりドンキー高石店",
+                "address": "高石市西取石６－６－５２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ハンバーグレストラン",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44301,
+                    34.51693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "第二阪和高石店",
+                "address": "高石市西取石６－６－４９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44301,
+                    34.51693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石店",
+                "address": "高石市西取石６－６－４８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "とんかつ業態",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44301,
+                    34.51693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カモンたかいし",
+                "address": "高石市西取石６－５－６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://information.konamisportsclub.jp/trust/takaishi_shiritsu/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "体育館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44327,
+                    34.52028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "㈱バイク王＆カンパニー　堺店",
+                "address": "高石市西取石６－１－３６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "バイク屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4462,
+                    34.51966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ユーポス高石店",
+                "address": "高石市西取石８－８－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.u-pohs.co.jp/takaishi",
+                "industry": "その他",
+                "type": "中古自動車買取",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4393,
+                    34.51463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国料理 北京 西取石店",
+                "address": "高石市西取石８－８－１　１０３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4393,
+                    34.51463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ジョーシン 高石店",
+                "address": "高石市西取石８－４－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "家電量販店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44061,
+                    34.51549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "餃子の王将 国道高石店",
+                "address": "高石市西取石８－４－１４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://map.ohsho.co.jp/b/ohsho/info/1316/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華料理レストラン",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44061,
+                    34.51549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "くら寿司高石店",
+                "address": "高石市西取石７－６－４０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.kurasushi.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "回転寿司",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44261,
+                    34.51589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪ダイハツ販売（株）高石店",
+                "address": "高石市西取石７－６－３１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://osaka-daihatsu.co.jp/",
+                "industry": "個人向けサービス",
+                "type": "自動車販売店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44261,
+                    34.51589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "サーティワンアイスクリーム高石ロードサイド店",
+                "address": "高石市西取石７－２０－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44359,
+                    34.51499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "しゃぶしゃぶどん亭 高石店",
+                "address": "高石市西取石７－１１－３７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.don-tei.jp/shop_detail.html?snum=124",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "しゃぶしゃぶ・すき焼",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44109,
+                    34.51495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "日産大阪販売株式会社　高石店",
+                "address": "高石市西取石７－１１－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "自動車ディーラー",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44109,
+                    34.51495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪王将高石店",
+                "address": "高石市西取石７－１１－２８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://www.tcbn.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華料理屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44109,
+                    34.51495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "すき家　26号高石店",
+                "address": "高石市西取石７－１１－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "牛丼屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44109,
+                    34.51495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック　ラーク",
+                "address": "高石市西取石３－９－２６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "遊興施設",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44644,
+                    34.52156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋 よりみち",
+                "address": "高石市西取石３－９－２３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44644,
+                    34.52156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック ジュン",
+                "address": "高石市西取石３－９－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44644,
+                    34.52156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海鮮工房 中川",
+                "address": "高石市西取石３－９－１６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44644,
+                    34.52156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼鳥　鳥まさ",
+                "address": "高石市西取石３－５－２４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44577,
+                    34.52304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "立ちみあわじや",
+                "address": "高石市西取石３－５－２２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44577,
+                    34.52304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MESHI無双",
+                "address": "高石市西取石３－５－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44577,
+                    34.52304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たんぽぽ",
+                "address": "高石市西取石３－５－１２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44577,
+                    34.52304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ととやセントラルキッチン",
+                "address": "高石市西取石３－５－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品製造業",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44577,
+                    34.52304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARBERグッチ",
+                "address": "高石市西取石３－３－４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "理容業",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44818,
+                    34.52223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "立呑み処　ふるかわ",
+                "address": "高石市西取石３－３－４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44818,
+                    34.52223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼　秀月",
+                "address": "高石市西取石３－１６－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お好み焼屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44781,
+                    34.52011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "竹香",
+                "address": "高石市西取石３－１４－１９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44846,
+                    34.52105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ステーキ宮 高石店",
+                "address": "高石市西取石５－７－２１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.miya.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ステーキ＆ハンバーグレストラン",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44554,
+                    34.51776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ビッグボーイ　高石店",
+                "address": "高石市西取石５－５－１１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44646,
+                    34.51751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ゴルフ５ 高石店",
+                "address": "高石市西取石５－４－２３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://store.alpen-group.jp/golf5/shop_search/detail.php?shopid=0757",
+                "industry": "その他",
+                "type": "スポーツ用品店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44632,
+                    34.51848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "やよい軒高石店",
+                "address": "高石市西取石５－２－２４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.yayoiken.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44693,
+                    34.51933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ごちそう村高石店",
+                "address": "高石市西取石５－１１－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://gochimura.com/takaishi/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "和食ダイニング",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44426,
+                    34.51692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ごちそう村　高石店",
+                "address": "高石市西取石５－１１－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://gochimura.com/takaishi/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44426,
+                    34.51692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "みぃーの食卓",
+                "address": "高石市西取石５－１１－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44426,
+                    34.51692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "やきとり響。",
+                "address": "高石市西取石５－１１－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "焼き鳥屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44426,
+                    34.51692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ワールド動物病院",
+                "address": "高石市西取石１－９－９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://world-ah.com/pc/index.html",
+                "industry": "生活必需サービス",
+                "type": "動物病院",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44835,
+                    34.52412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "68ダンススクール",
+                "address": "高石市西取石１－２２－１　３０１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "ダンス教室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44711,
+                    34.52351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "讃岐うどん なか川",
+                "address": "高石市取石６－２４－１２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44687,
+                    34.51177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　殿来",
+                "address": "高石市取石２－２－１９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.45091,
+                    34.52167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "立飲酒場　ＩＣＯ家",
+                "address": "高石市取石２－２－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.45091,
+                    34.52167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶ドール",
+                "address": "高石市取石２－２－１７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.45091,
+                    34.52167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ASA インド料理",
+                "address": "高石市取石２－１３－１２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.45682,
+                    34.52076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ　じゅり",
+                "address": "高石市取石７－４－２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.45668,
+                    34.5193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "八剣伝富木店",
+                "address": "高石市取石７－４－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.45668,
+                    34.5193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ホームセンターコーナン高石富木店",
+                "address": "高石市取石７－１－６４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.hc-kohnan.com/",
+                "industry": "生活必需物資供給",
+                "type": "ホームセンター",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.45827,
+                    34.52006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石市立老人福祉センター　菊寿苑",
+                "address": "高石市取石３－７－３３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "老人福祉センター",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.45619,
+                    34.51801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケハウスまりも",
+                "address": "高石市取石４－８－２２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "遊興施設",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44969,
+                    34.51583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "滝の流れるカフェ ら・さぼうる",
+                "address": "高石市取石４－１５－２８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://sabouru.com",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44635,
+                    34.5159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶オリーブ",
+                "address": "高石市取石４－１４－１２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44711,
+                    34.51542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石市立図書館分館",
+                "address": "高石市取石３－９－８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://takaishi-lib.jp/",
+                "industry": "博物館、美術館、図書館",
+                "type": "図書館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4529,
+                    34.5178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "複合コミュニティセンター",
+                "address": "高石市取石３－９－８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "集会場、公会堂",
+                "type": "複合コミュニティセンター・公民館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4529,
+                    34.5178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋すずらん",
+                "address": "高石市取石３－９－５３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4529,
+                    34.5178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "やきとりの扇屋　高石店",
+                "address": "高石市西取石３－１７－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.45436,
+                    34.51871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶・カラオケ ハーモニー",
+                "address": "高石市西取石８－３－２１　西取石ハイツ１階",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44913,
+                    34.51886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "クリーム本舗　高石店",
+                "address": "高石市西取石５－１１－３９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44344,
+                    34.51228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洋麺屋五右衛門　高石店",
+                "address": "高石市西取石５－１１－４６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.n-rs.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "パスタ屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44646,
+                    34.51352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AOKI　高石店",
+                "address": "高石市西取石５－１１－３６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "小売店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44646,
+                    34.51352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南海ケータリングサービス株式会社",
+                "address": "高石市取石５－２－４０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://www.nankai-cs.co.jp",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "パーティオードブル・お弁当他",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44604,
+                    34.51434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "くるみ屋",
+                "address": "高石市取石１－８－２３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼鳥",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.45235,
+                    34.52342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Family Bal Rhyme",
+                "address": "高石市取石１－８－１６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.45235,
+                    34.52342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪府立臨海スポーツセンター",
+                "address": "高石市高師浜丁６－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "スケートリンク　体育室　会議室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.429,
+                    34.52863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "夢一喜羽衣店",
+                "address": "高石市高師浜２－７－１５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ステーキハウス",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43408,
+                    34.5289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "友泉",
+                "address": "高石市高師浜２－７－１１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "麺処",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43408,
+                    34.5289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋 あっちゃん",
+                "address": "高石市高師浜２－３ー３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43202,
+                    34.53056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bague　hair",
+                "address": "高石市高師浜２－１０－２４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43248,
+                    34.52916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炭火焼肉備",
+                "address": "高石市高師浜４－１－３２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43246,
+                    34.52736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉備",
+                "address": "高石市高師浜４－１－３２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43246,
+                    34.52736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カットハウスほうれんそう",
+                "address": "高石市高師浜４－１５－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42906,
+                    34.52663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "安源",
+                "address": "高石市高師浜４－１１－１５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43178,
+                    34.52617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶　みやび",
+                "address": "高石市高師浜３－６－７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "カラオケ喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43518,
+                    34.52512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "紀州街道まるあ",
+                "address": "高石市高師浜３－１６－２５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43253,
+                    34.5252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "さい藤",
+                "address": "高石市高師浜３－１２－１４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43398,
+                    34.52443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "理容　イマダ",
+                "address": "高石市高師浜１－２－７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容業",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43567,
+                    34.5285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "呑み食い処　風",
+                "address": "高石市高師浜１－２　井倉ビル１Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43567,
+                    34.5285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石ケミカル株式会社",
+                "address": "高石市高砂２－２－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.nrsgroup.co.jp",
+                "industry": "その他",
+                "type": "倉庫業",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.41121,
+                    34.53049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "もぐら",
+                "address": "高石市加茂２－３１－２１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "たこ焼き屋、居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43761,
+                    34.52126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "すし兆",
+                "address": "高石市加茂４－８－２８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44246,
+                    34.51754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "えいきちうどん加茂店",
+                "address": "高石市加茂４－８－１２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44246,
+                    34.51754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鉄板焼専門のお店　脇田",
+                "address": "高石市加茂４－５－６　阪和第５ビル１Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "鉄板焼店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44051,
+                    34.52008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケスタジオ ジュン",
+                "address": "高石市加茂４－５－２５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44051,
+                    34.52008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お食事処　加茂",
+                "address": "高石市加茂４－１－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "食堂",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44165,
+                    34.52111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鳥工房ほっかい屋",
+                "address": "高石市加茂４－１１－３４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4397,
+                    34.51933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石市立中央公民館",
+                "address": "高石市加茂１－５－７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "集会場、公会堂",
+                "type": "公民館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43939,
+                    34.52441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "クリーニングルビー　関西スーパー高石駅前店",
+                "address": "高石市加茂１－２１－２３　",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://www.rby.jp/shop/osaka/ta-column/takaishi/20170227-173/",
+                "industry": "生活必需サービス",
+                "type": "クリーニング",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4355,
+                    34.5231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ダイソー関西スーパー高石駅前店",
+                "address": "高石市加茂１－２１－２３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "ディスカウントストア",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4355,
+                    34.5231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヌーベル美容室高石店",
+                "address": "高石市加茂１－２０－２　１０２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.436,
+                    34.52263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "御和菓子司　壽屋",
+                "address": "高石市加茂１－２０－２　１０１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://wagashi-kotobukiya.com",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "和菓子製造販売小売り業　イートイン喫茶スペース",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.436,
+                    34.52263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ホテルステージ",
+                "address": "高石市加茂１－１９－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://hotel-stage.com",
+                "industry": "その他",
+                "type": "ホテル/旅館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43639,
+                    34.52188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M I S T",
+                "address": "高石市加茂１－１９－１９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "バー",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43639,
+                    34.52188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ラウンジ ソワレ",
+                "address": "高石市加茂１－１９－１９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "ナイトクラブ",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43639,
+                    34.52188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ラウンジソワレ",
+                "address": "高石市加茂１－１９－１９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "ラウンジ",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43639,
+                    34.52188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "晩酌 万",
+                "address": "高石市加茂１－１９－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43639,
+                    34.52188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炭火やきとり風見鶏",
+                "address": "高石市加茂１ー１９ー１７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43639,
+                    34.52188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "寿し仁",
+                "address": "高石市加茂１－１３－２４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "寿司",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4371,
+                    34.52438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "小林美術館",
+                "address": "高石市羽衣２－２－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.kobayashi-bijutsu.com/",
+                "industry": "博物館、美術館、図書館",
+                "type": "美術館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4398,
+                    34.53778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "クレープハウス　タバサ",
+                "address": "高石市羽衣２－１－１１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44077,
+                    34.53909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石市立総合保健センター",
+                "address": "高石市羽衣４－４－２６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "保健施設",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43538,
+                    34.53188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　ひげじい",
+                "address": "高石市羽衣４－２－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43724,
+                    34.53318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "山中栄一",
+                "address": "高石市羽衣４－２－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43724,
+                    34.53318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "盛",
+                "address": "高石市東羽衣３－１３－３３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44058,
+                    34.53228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "羽衣屋",
+                "address": "高石市東羽衣３－７－１２　１０４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44,
+                    34.53238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美容室　いろは",
+                "address": "高石市東羽衣３－７－１２　１０３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "美容室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44,
+                    34.53238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "トータルファッションうらら",
+                "address": "高石市東羽衣３ー１５ー２１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "服屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43854,
+                    34.53248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック　来夢",
+                "address": "高石市東羽衣３－１５－２１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43854,
+                    34.53248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スター美容室",
+                "address": "高石市東羽衣３－１５－２１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43854,
+                    34.53248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "きのすら",
+                "address": "高石市羽衣５－９－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://www.eonet.ne.jp/~cestlavie/index.html",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "おにぎり店頭販売",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43752,
+                    34.52926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le lien",
+                "address": "高石市東羽衣５－２６－２４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "まつげエクステサロン",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.438,
+                    34.53021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "のなか鍼灸整骨院",
+                "address": "高石市羽衣５－１９－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://nonaka-shinkyu-seikotsuin.com",
+                "industry": "その他",
+                "type": "鍼灸整骨院",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43835,
+                    34.52808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIZZA FREE",
+                "address": "高石市羽衣５－１７－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://instagram.com/pizzafree.37?igshid=1iz4xtar0mdr",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.438,
+                    34.52834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "おもや",
+                "address": "高石市羽衣５－１７－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.438,
+                    34.52834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "羽衣工場売店",
+                "address": "高石市羽衣５－１５－１３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43629,
+                    34.52866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ふくじゅう",
+                "address": "高石市羽衣５－１５－１２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43629,
+                    34.52866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "介護タクシーゆうゆう倶楽部",
+                "address": "高石市羽衣５－１２－３６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://kaigo-youyouclub.com/index.html",
+                "industry": "その他",
+                "type": "介護タクシー",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43602,
+                    34.52987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　義経　羽衣店",
+                "address": "高石市羽衣１－６－１　ルネ羽衣１階２８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://r.gnavi.co.jp/32e2yuf50000",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44075,
+                    34.53644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "d'or",
+                "address": "高石市羽衣１－６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44075,
+                    34.53644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "羽衣そろばん教室",
+                "address": "高石市羽衣１－２１－５　",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "自動車教習所、学習塾等",
+                "type": "そろばん教室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44032,
+                    34.53373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "理容パレス",
+                "address": "高石市羽衣１－２１－１６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "理容業",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44032,
+                    34.53373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヌーベル美容室　羽衣店",
+                "address": "高石市羽衣１－２１－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "美容室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44032,
+                    34.53373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "串カツそのだ",
+                "address": "高石市羽衣１－２０－５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44101,
+                    34.53384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国料理　令和",
+                "address": "高石市羽衣１－１９－１６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44046,
+                    34.53407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D・ROXY",
+                "address": "高石市羽衣１－１８－２７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43929,
+                    34.5345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "エターナルムーン",
+                "address": "高石市羽衣１－１８－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43929,
+                    34.5345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Member's Bar Lana",
+                "address": "高石市羽衣１－１６－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://bar2017lana.amebaownd.com/",
+                "industry": "遊興施設",
+                "type": "バー",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44119,
+                    34.53449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼き鳥屋　鳥楽",
+                "address": "高石市羽衣１－１４－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44127,
+                    34.53489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "楽庵",
+                "address": "高石市羽衣１－１４－２３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44127,
+                    34.53489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼き　めりけん亭",
+                "address": "高石市羽衣１－１４－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お好み焼き店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44127,
+                    34.53489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケすなっく味音",
+                "address": "高石市羽衣１－１４－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケすなっく",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44127,
+                    34.53489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鉄板居酒屋　あいま",
+                "address": "高石市羽衣１－１２－３　サザンコースト羽衣",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44046,
+                    34.53542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　デン助",
+                "address": "高石市羽衣１－１２－３　サザンコースト１０１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44046,
+                    34.53542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石市立羽衣公民館",
+                "address": "高石市羽衣１－１１－２２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "集会場、公会堂",
+                "type": "公民館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4406,
+                    34.53583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石市立老人福祉センター　慶翠苑",
+                "address": "高石市羽衣１－１１－２２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://takaishi-shakyo.com/",
+                "industry": "その他",
+                "type": "老人福祉センター",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4406,
+                    34.53583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和洋バルえびす",
+                "address": "高石市羽衣１－１０－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44144,
+                    34.53571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ホテルルートイン大阪高石－羽衣駅前－",
+                "address": "高石市羽衣１－１０－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.route-inn.com/stays/rinn/takaishihagoromo-st/reservation/ent.html?bc=646249",
+                "industry": "その他",
+                "type": "ホテル",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44144,
+                    34.53571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鶴橋粉舗てこや　羽衣駅前店",
+                "address": "高石市羽衣１－１０－１６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://tekoya.com/",
+                "industry": "飲食料品供給",
+                "type": "たこ焼き屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44144,
+                    34.53571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "まさちゃん",
+                "address": "高石市綾園６－７－８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43752,
+                    34.51669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックニュー由美",
+                "address": "高石市綾園６－７ー７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "カラオケスナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43752,
+                    34.51669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックゆみ",
+                "address": "高石市綾園６－７－７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43752,
+                    34.51669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鉄板居酒屋まさちゃん",
+                "address": "高石市綾園６－７－７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43752,
+                    34.51669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石市立清高公民館",
+                "address": "高石市綾園６－５－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "集会場、公会堂",
+                "type": "公民館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43889,
+                    34.51713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "清高公民館",
+                "address": "高石市綾園６－５－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "集会場、公会堂",
+                "type": "公民館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43889,
+                    34.51713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOーNAME",
+                "address": "高石市綾園６ー３ー２８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43675,
+                    34.5176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NO-NAME",
+                "address": "高石市綾園６－３－２８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43675,
+                    34.5176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SaQ hair",
+                "address": "高石市綾園２ー９ー７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://www.saqhair.com",
+                "industry": "生活必需サービス",
+                "type": "理容業",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43898,
+                    34.51854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SaQ hair",
+                "address": "高石市綾園２ー９ー７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://www.saqhair.com/",
+                "industry": "生活必需サービス",
+                "type": "理容室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43898,
+                    34.51854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "旨肴楽酔るっこら",
+                "address": "高石市綾園２－６－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43941,
+                    34.519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cafe Regalo",
+                "address": "高石市綾園２－１８－２８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43558,
+                    34.5186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Caf　Regalo",
+                "address": "高石市綾園２－１８－２８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43558,
+                    34.5186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪信用金庫　高石南支店",
+                "address": "高石市綾園２－１８－１６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "信用金庫",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43558,
+                    34.5186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "izakayaざわわ",
+                "address": "高石市綾園２－１６－４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43486,
+                    34.51933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ビーナスプラス高石",
+                "address": "高石市綾園２－１４－２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "通所型デイサービス",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43588,
+                    34.51973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "hope",
+                "address": "高石市綾園２－１２－２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "カラオケバー",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43663,
+                    34.51934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ＳＡＮＴＡＳＡＮ",
+                "address": "高石市綾園２－１２－２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43663,
+                    34.51934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "chott bar",
+                "address": "高石市綾園７－８－４１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "バー",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42444,
+                    34.51514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "High Stone",
+                "address": "高石市綾園５－７－５７　千萩マンションＢ棟　１０７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42502,
+                    34.51455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋ダイニング　くろかわ",
+                "address": "高石市綾園７－６－１９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42534,
+                    34.5148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リセット",
+                "address": "高石市綾園７－６－１１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42534,
+                    34.5148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶カラオケ千早",
+                "address": "高石市綾園７－５－６０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "カラオケ喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42607,
+                    34.51382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "千早食堂",
+                "address": "高石市綾園７－５－６０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "食堂",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42607,
+                    34.51382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "酒菜　わるん",
+                "address": "高石市綾園７－４－８１　仁井川文化北助松店舗北側",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42819,
+                    34.51453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR kaya",
+                "address": "高石市綾園５－７－５７　１０４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "BAR",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42819,
+                    34.51453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "旬花ＪＵＮ屋",
+                "address": "高石市綾園５－７－５７　チハギマンション１Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42622,
+                    34.51652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スポラたかいし",
+                "address": "高石市綾園４－５－２８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://information.konamisportsclub.jp/trust/takaishi/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "体育館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4332,
+                    34.5175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "障がい者ふれあいプラザ",
+                "address": "高石市綾園４－５－２８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "障がい者施設",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4332,
+                    34.5175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "おやこカフェmamarest",
+                "address": "高石市綾園３－７－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "親子カフェ",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43277,
+                    34.51859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dining わくら",
+                "address": "高石市綾園３－６－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43306,
+                    34.51884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DaM",
+                "address": "高石市綾園３－５－１２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4335,
+                    34.51925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カフェ　マルキ",
+                "address": "高石市綾園３－５－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4335,
+                    34.51925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岸和田屋果実店",
+                "address": "高石市綾園３－５－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "卸売市場",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4335,
+                    34.51925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "きちんとチキン",
+                "address": "高石市綾園３－２－５　マスターズ綾園１Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43272,
+                    34.52005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "陽だまり整骨院",
+                "address": "高石市綾園３－２－５　１０６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "商業施設",
+                "type": "整骨院",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43272,
+                    34.52005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マスターズ",
+                "address": "高石市綾園７－３－３５　２０１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "小売業",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43179,
+                    34.52031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "うま辛鍋あみ焼き鶏かしわ",
+                "address": "高石市綾園３－１－２７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43179,
+                    34.52031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "家庭料理かかし",
+                "address": "高石市綾園３－１ー２７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "カラオケ居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43179,
+                    34.52031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Re楽xs",
+                "address": "高石市綾園３－１０－４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "Bar、カラオケ",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43236,
+                    34.51817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宮崎じとっこ　みさ",
+                "address": "高石市綾園５－８－１４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42892,
+                    34.51516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "旨いもん屋　漁火",
+                "address": "高石市綾園１－９－１　アプラ高石",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43385,
+                    34.52119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "魚民 高石駅前店",
+                "address": "高石市綾園１－９－１　アプラたかいし２階",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43385,
+                    34.52119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カーブスアプラ高石",
+                "address": "高石市綾園１－９－１　アプラたかいし２階",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.curves.co.jp/search/kansai/osaka/cat-2145/91179.php",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "スポーツクラブ",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43385,
+                    34.52119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ハニーズ高石アプラ店",
+                "address": "高石市綾園１－９－１　アプラたかいし　２Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "アパレル",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43385,
+                    34.52119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "All day dining Hikari",
+                "address": "高石市綾園１－９－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://alldaydininghikari.owst.jp",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43385,
+                    34.52119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アプラたかいし",
+                "address": "高石市綾園１－９－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43385,
+                    34.52119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アプラ高石店",
+                "address": "高石市綾園１－９－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "物販",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43385,
+                    34.52119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カフェ工房亜麻色",
+                "address": "高石市綾園１－９－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43385,
+                    34.52119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たかいし市民文化会館",
+                "address": "高石市綾園１－９－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://www.appla-hall.jp/",
+                "industry": "集会場、公会堂",
+                "type": "文化会館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43385,
+                    34.52119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ハグッドたかいし",
+                "address": "高石市綾園１－９－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://www.appla-hall.jp/hugood/",
+                "industry": "その他",
+                "type": "子育て支援施設",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43385,
+                    34.52119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "パン工房ボングー",
+                "address": "高石市綾園１－９－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "小売業",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43385,
+                    34.52119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高石市立図書館",
+                "address": "高石市綾園１－９－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://takaishi-lib.jp/",
+                "industry": "博物館、美術館、図書館",
+                "type": "図書館",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43385,
+                    34.52119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "まごころ料理　花れんこん",
+                "address": "高石市綾園１－６－８　さつきマンション１階",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43513,
+                    34.52039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カフェピアチェーレ",
+                "address": "高石市綾園１－６－２０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://m.facebook.com/CafePiacere.Takaishi/?locale2=ja_JP",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43513,
+                    34.52039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "人情家浜ちゃん酒場",
+                "address": "高石市綾園１－６－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43513,
+                    34.52039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR OLIORI",
+                "address": "高石市綾園１－６－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43513,
+                    34.52039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "人情家　浜ちゃん酒場",
+                "address": "高石市綾園１－６－１８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43513,
+                    34.52039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋じゃん",
+                "address": "高石市綾園１－６－１４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.hotpepper.jp/strJ000466910/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43513,
+                    34.52039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック有希子",
+                "address": "高石市綾園１－４－４４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43584,
+                    34.52105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黒毛和牛　梅乃里",
+                "address": "高石市綾園１－４－４３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43584,
+                    34.52105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美容室 えん",
+                "address": "高石市綾園１－４－３６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43584,
+                    34.52105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "なないろの森歯科クリニック",
+                "address": "高石市綾園１－４－３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://www.nanaironomori.jp",
+                "industry": "その他",
+                "type": "歯科医院",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43584,
+                    34.52105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "楽しや",
+                "address": "高石市綾園１－４－１５　",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43584,
+                    34.52105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "酒楽亭　楽しや",
+                "address": "高石市綾園１－４－１５　",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43584,
+                    34.52105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック暁",
+                "address": "高石市綾園１－４－１５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43584,
+                    34.52105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "笑",
+                "address": "高石市綾園１－４－１５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43584,
+                    34.52105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洒落亭　楽しや",
+                "address": "高石市綾園１－４－１５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43584,
+                    34.52105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋",
+                "address": "高石市綾園１－４－１５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43584,
+                    34.52105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケスナックゆうみん",
+                "address": "高石市綾園１－１－２６　ペンシルビル４Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "遊興施設",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43584,
+                    34.52105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶　来歌",
+                "address": "高石市綾園１－３－１　明勝第１ビル１Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4352,
+                    34.52174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アクア高石",
+                "address": "高石市綾園１－３－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "その他",
+                "type": "スナック",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4352,
+                    34.52174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和食・中華dining 彩",
+                "address": "高石市綾園１－２－１９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ダイニング",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43494,
+                    34.52193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mite",
+                "address": "高石市綾園１－２－１７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容業",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43494,
+                    34.52193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "太炉寧",
+                "address": "高石市綾園１－２－１５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43494,
+                    34.52193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bar＃92",
+                "address": "高石市綾園１－１－２６　ペンシルビル５０２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43494,
+                    34.52193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ティアラ",
+                "address": "高石市綾園１－１－２６　２０２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43494,
+                    34.52193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "割烹お惣菜ととや",
+                "address": "高石市綾園１－１－５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "小売業",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43454,
+                    34.52221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR W.COYOTE",
+                "address": "高石市綾園１－１－２６　２０１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "バー",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43454,
+                    34.52221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ペンシルビル201",
+                "address": "高石市綾園１－１－２６　２０１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43454,
+                    34.52221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　加茂路",
+                "address": "高石市綾園１－１－２６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43454,
+                    34.52221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶花水木",
+                "address": "高石市綾園１－１－２６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43454,
+                    34.52221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ピーズボックス高石店",
+                "address": "高石市綾園１－１－２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "パチンコ店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43454,
+                    34.52221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "イング高石校",
+                "address": "高石市綾園１－１１－２２　サンマルイビル１Ｆ",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.ing-school.jp/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43454,
+                    34.52221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "げんせん",
+                "address": "高石市綾園１－１１－２０　１０１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43454,
+                    34.52221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶フロイライン",
+                "address": "高石市綾園１－１４－９",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43417,
+                    34.51984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海鮮居酒家すし竜",
+                "address": "高石市綾園１－１４－７",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "寿し屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43417,
+                    34.51984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "いち輪 綾園",
+                "address": "高石市綾園１－１４－３８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43417,
+                    34.51984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋中繁",
+                "address": "高石市綾園１－１４－３０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43417,
+                    34.51984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ふらっと",
+                "address": "高石市綾園１－１４－１３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43417,
+                    34.51984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "とりせん　本店",
+                "address": "高石市綾園１－１４－１２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43417,
+                    34.51984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "本店",
+                "address": "高石市綾園１－１４－１２",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.hotpepper.jp/strJ000466910/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43417,
+                    34.51984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "酒と肴　櫻井",
+                "address": "高石市綾園１－１４－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43417,
+                    34.51984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MASTER４９",
+                "address": "高石市綾園１－１３－６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43364,
+                    34.52028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スタンドバイミー",
+                "address": "高石市綾園１－１３－１６",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43364,
+                    34.52028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "癒し空間うたた寝",
+                "address": "高石市綾園１－１２－８",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "リラクゼーションサロン",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43329,
+                    34.52056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "はごろも卓球スタジオ",
+                "address": "高石市綾園１－１２－３　２階",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "http://hagoromo-tt.jp",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "卓球場・卓球教室",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43329,
+                    34.52056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケpeace",
+                "address": "高石市綾園１－１１－２５　",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43285,
+                    34.52087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "おねえ",
+                "address": "高石市綾園１－１１－２５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43285,
+                    34.52087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "立呑み処　おねぇ",
+                "address": "高石市綾園１－１１－２５",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "立呑み",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43285,
+                    34.52087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶蘭",
+                "address": "高石市綾園１－１１－２４",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43285,
+                    34.52087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鳥貴族　高石店",
+                "address": "高石市綾園１－１１－２３",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "https://www.torikizoku.co.jp/shops/detail/222",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43285,
+                    34.52087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "家庭料理　ながた",
+                "address": "高石市綾園１－１０－１",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43314,
+                    34.52166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "餃子の王将南海高石店",
+                "address": "高石市綾園１－１０",
+                "icon": "restaurant",
+                "munic": "高石市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "中華料理",
+                "url": "takaishishi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43314,
+                    34.52166
+                ]
+            }
+        }
+    ]
+}

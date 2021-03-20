@@ -1,0 +1,965 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Head ReIease Co",
+                "address": "岬町望海坂１－２４－３",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "https://bcp-headrelease.com/",
+                "industry": "個人向けサービス",
+                "type": "リラクゼーションサロン",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.18668,
+                    34.32818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美食酒屋 HiroYAN",
+                "address": "岬町淡輪９１２－３",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.18056,
+                    34.3327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶カラオケ　サンリーベ",
+                "address": "岬町淡輪８７８－２",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.17867,
+                    34.33339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "龍宮館",
+                "address": "岬町淡輪８３８－８",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "http://ryugukan.sakura.ne.jp",
+                "industry": "その他",
+                "type": "旅館",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.17812,
+                    34.33491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "淡輪ハウス",
+                "address": "岬町淡輪８３０",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "http://www.aplis-net.co.jp/facility/facility.html",
+                "industry": "生活必需サービス",
+                "type": "旅館",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.17867,
+                    34.33339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪泉南酒店",
+                "address": "岬町淡輪５７４６－２７",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "ホテル",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.16537,
+                    34.32483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "産直市場　よってって道の駅　みさき店",
+                "address": "岬町淡輪５６５４－３",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "その他",
+                "type": "道の駅",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.17435,
+                    34.32567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seaside Cafe SNAFKIN",
+                "address": "岬町淡輪４８８７－２０８",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.17812,
+                    34.33491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ゆる風",
+                "address": "岬町淡輪４８１７",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "https://yurukaze.exblog.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.17662,
+                    34.32954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼き　梟",
+                "address": "岬町淡輪４５２３",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.17172,
+                    34.33362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "陶芸 たがい まさお",
+                "address": "岬町淡輪４２４７",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "https://tagai-masao.jimdofree.com/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "陶芸教室",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.18214,
+                    34.33663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ギャラリー猫亀屋",
+                "address": "岬町淡輪４１９３－２",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "http://www.nekogameya.com",
+                "industry": "展示場",
+                "type": "アートギャラリー",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.16647,
+                    34.33155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "おしゃれサロンアート",
+                "address": "岬町淡輪３７０８－４",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容室",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.16563,
+                    34.32583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケスタジオ海岬",
+                "address": "岬町淡輪３７０８－４",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.16563,
+                    34.32583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "村田接骨院",
+                "address": "岬町淡輪３５０８－１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "その他",
+                "type": "接骨院",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.16495,
+                    34.32885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岬高校食堂",
+                "address": "岬町淡輪３２４６　府立岬高校内",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "高校食堂",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.17067,
+                    34.32309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国飯店紀淡",
+                "address": "岬町淡輪３２１４－２",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1691,
+                    34.32721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "トヨタカローラ南海株式会社　岬店",
+                "address": "岬町淡輪３２１４－１　",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "https://nankai.corolla-dealer.jp/store/misaki",
+                "industry": "個人向けサービス",
+                "type": "自動車ディーラ",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1691,
+                    34.32721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ひろしげ珈琲倶楽部",
+                "address": "岬町淡輪１４７８－１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "http://hiroshige-coffee.com",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "自家焙煎珈琲豆販売、喫茶",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.17657,
+                    34.33284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼鶏　酉",
+                "address": "岬町淡輪１２７７",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.17407,
+                    34.33489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "淡輪駅前整体院",
+                "address": "岬町淡輪１１９９－２　南海淡輪ビル１Ｆ",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "整体院",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1786,
+                    34.33165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岬町健康ふれあいセンター",
+                "address": "岬町多奈川谷川４９５－１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "https://www.asreet.com/osaka/piazza5/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "スポーツクラブ、カラオケ、会議室",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.11159,
+                    34.31808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋南風",
+                "address": "岬町多奈川谷川３４６４－１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.13736,
+                    34.31614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "まちづくり交流館",
+                "address": "岬町多奈川谷川３４００－１８４",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "集会・展示施設",
+                "type": "まちづくり交流館",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.13525,
+                    34.31533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "魚てつ",
+                "address": "岬町多奈川谷川２３２６－８",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.13492,
+                    34.31648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "なご弥",
+                "address": "岬町多奈川谷川３８２１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お食事処",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.11223,
+                    34.32162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "民宿　ほうらくや",
+                "address": "岬町多奈川谷川２１３１－１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "ホテルまたは旅館",
+                "type": "ホテルまたは旅館",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.12581,
+                    34.32287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岬町商工会館",
+                "address": "岬町深日７４６－７４８",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "その他",
+                "type": "商工会",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.15164,
+                    34.32141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お食事処　朝日亭",
+                "address": "岬町深日３４９４－５",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1411,
+                    34.31763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "かどや旅館・食堂",
+                "address": "岬町深日３４９４－２６",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1411,
+                    34.31763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪ゴルフクラブレストラン",
+                "address": "岬町深日３１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "http://www.nankaiosaka-golf.co.jp/restaurant.html",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "レストラン",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.15176,
+                    34.32452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶ロータリー",
+                "address": "岬町深日１４３１－２",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.15176,
+                    34.32452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉 じゃりン子",
+                "address": "岬町深日２２４０－６",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1396,
+                    34.31663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "多賀井 優也",
+                "address": "岬町深日２２４０－６",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1396,
+                    34.31663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "キッサ赤マンマ",
+                "address": "岬町深日２２４０－５",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1396,
+                    34.31663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ハレルヤ",
+                "address": "岬町深日２２４０－２２",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.1396,
+                    34.31663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "酒ショップますだ",
+                "address": "岬町深日２００２－３９",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.14247,
+                    34.31642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケスタジオ　な　み",
+                "address": "岬町深日２０００－２１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "その他",
+                "type": "カラオケ喫茶",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.14108,
+                    34.31674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　心",
+                "address": "岬町深日１８７３－２",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.14445,
+                    34.31675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カフェバ－オリーブ",
+                "address": "岬町深日１８４７－１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品卸売物流業",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.14545,
+                    34.3144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "千扇",
+                "address": "岬町深日１８４７－１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.14545,
+                    34.3144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "恋夜",
+                "address": "岬町深日１８４７－１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.14545,
+                    34.3144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和好すし",
+                "address": "岬町深日１８４７－１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.14545,
+                    34.3144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "パソコン教室かるん♪　オークワ岬教室",
+                "address": "岬町深日１８２８－１　オークワ岬店　１Ｆ",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "https://karunchan.com/map/misaki.html",
+                "industry": "個人向けサービス",
+                "type": "パソコン教室",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.14555,
+                    34.31754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼 伴",
+                "address": "岬町深日１５４４",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.14708,
+                    34.31692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "久保整骨院",
+                "address": "岬町深日１５２２－１",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "https://www.kubo-seikotsuin.com/",
+                "industry": "その他",
+                "type": "整骨院・鍼灸マッサージ",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.14763,
+                    34.31751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼きサザンテイスト",
+                "address": "岬町淡輪２７１３",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.182571,
+                    34.313828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "コロポックル",
+                "address": "岬町深日１８９５ー１８",
+                "icon": "restaurant",
+                "munic": "岬町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "misakichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.156281,
+                    34.314705
+                ]
+            }
+        }
+    ]
+}

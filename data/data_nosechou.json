@@ -1,0 +1,445 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ディアエヌズキッチン",
+                "address": "能勢町野間出野７１－２",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "http://nskitchen.net/",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44403,
+                    34.94894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "村やん",
+                "address": "能勢町野間出野２１９－１",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.43611,
+                    34.94461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "けやき",
+                "address": "能勢町野間稲地６１３－２",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.45251,
+                    34.94706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "牛福",
+                "address": "能勢町片山５４４－１",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.41046,
+                    34.95979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "写楽",
+                "address": "能勢町片山２１１－８　ハヤミビル　３階",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40311,
+                    34.95242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "博多地どり市右ヱ門　大阪本店",
+                "address": "能勢町片山２１１－７",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "https://www.ichiemon.jp/",
+                "industry": "飲食料品供給",
+                "type": "からあげ屋",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40311,
+                    34.95242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "能勢町観光物産センター　道の駅能勢くりの郷",
+                "address": "能勢町平野５３５－１",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "http://www.facebook.com/mitinoekiNOSE/",
+                "industry": "飲食料品供給",
+                "type": "農産物直売所、道の駅",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40103,
+                    34.95652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新橋亭",
+                "address": "能勢町平野１２４－１",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "https://nose-kuroushi.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉店",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40216,
+                    34.9544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "メナードフェイシャルサロン　美のほほえみ",
+                "address": "能勢町平通６３－１１",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "フェイシャルサロン",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.41539,
+                    34.9533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炭火ダイニングバー　ハラミちゃん",
+                "address": "能勢町大里４１４－１",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.41063,
+                    34.96756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "農家Cafe「門家」",
+                "address": "能勢町大里４００",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "https://nosemon.jimdofree.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食店",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.41042,
+                    34.9672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お食事処　あじ彩",
+                "address": "能勢町大里１７９－１の２",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食店",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.41328,
+                    34.97152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "汐の湯温泉",
+                "address": "能勢町森上３１７－１",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "http://www.shionoyu.co.jp",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶・レストラン",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39749,
+                    34.96187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "びゅ～てぃはうす Ｒ・coco",
+                "address": "能勢町宿野１７１－１４３",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4158,
+                    34.97335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "トリイワ　岸本精肉店",
+                "address": "能勢町今西１９９２",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食肉販売店",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.38599,
+                    34.97012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "うを福",
+                "address": "能勢町今西１８４",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.38968,
+                    34.9716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "観光センターくるす",
+                "address": "能勢町栗栖１２の１",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "https://www.udon-kurusu.org/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "一般食堂",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.399,
+                    34.97311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "観光センター　くるす",
+                "address": "能勢町栗栖１２－１",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "https://www.udon-kurusu.org/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食店",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.399,
+                    34.97311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ぶどう直売所 あさひファーム（有）",
+                "address": "能勢町下田２８５",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "http://farm-asahi.com",
+                "industry": "個人向けサービス",
+                "type": "農産物直売所",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40427,
+                    34.94843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和風スナック一千鶴",
+                "address": "能勢町下田２６２－１",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4066,
+                    34.94825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉と居酒屋　能勢路",
+                "address": "能勢町下田２６２",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉・居酒屋",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4066,
+                    34.94825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ジャパン　能勢店",
+                "address": "能勢町下田１２４",
+                "icon": "restaurant",
+                "munic": "能勢町",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "ドラッグストア",
+                "url": "nosechou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40746,
+                    34.95284
+                ]
+            }
+        }
+    ]
+}

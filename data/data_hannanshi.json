@@ -1,0 +1,4785 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ　きこ",
+                "address": "阪南市和泉鳥取９２５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.26288,
+                    34.3452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックH.Y",
+                "address": "阪南市和泉鳥取１０６４－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.26283,
+                    34.34315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "武田中華そば",
+                "address": "阪南市和泉鳥取１０６４－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.26283,
+                    34.34315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "創作珈琲WITH　阪南店",
+                "address": "阪南市舞５－１０－１５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品製造業",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23326,
+                    34.33869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "創作珈琲WITH　阪南舞店",
+                "address": "阪南市舞１－３１－１９",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品卸売物流業",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.22916,
+                    34.34663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "遊花",
+                "address": "阪南市舞１－２－１０",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "ハンドメイド雑貨販売",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23203,
+                    34.34735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "メガネだいすき王国　阪南ゲート",
+                "address": "阪南市舞１－２９－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.lunetier.co.jp/",
+                "industry": "生活必需物資供給",
+                "type": "眼鏡店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.22887,
+                    34.34782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アイティーコーポレーション",
+                "address": "阪南市舞１－１９－７",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "寝具宝石小売業",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.22966,
+                    34.34816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "理容サービス　阪南店",
+                "address": "阪南市舞１－１８－２０",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.waka-matsu.jp/",
+                "industry": "生活必需サービス",
+                "type": "理容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23024,
+                    34.34842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "shaka shaka",
+                "address": "阪南市尾崎町２－６－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23982,
+                    34.36232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "とり屋　藤平",
+                "address": "阪南市尾崎町２－４－２０",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24104,
+                    34.36341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "（一社）阪南市観光協会",
+                "address": "阪南市尾崎町２－２－１１　２０１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://hannan-tb.jp",
+                "industry": "その他",
+                "type": "観光協会・観光案内所",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24052,
+                    34.36219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "サンエス温水プール",
+                "address": "阪南市尾崎町５３２－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://ozaki-swimming.com/3s/wp/amuse/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "スポーツクラブ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24101,
+                    34.36194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "やきとり大吉尾崎店",
+                "address": "阪南市尾崎町１１２－１１　大吉",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "焼き鳥屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24014,
+                    34.36306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヘアーサロン森本",
+                "address": "阪南市尾崎町１１２－１１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24014,
+                    34.36306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vi a RAY",
+                "address": "阪南市尾崎町４－１８－１５　１０３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24289,
+                    34.36529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "彩食献味　粋込",
+                "address": "阪南市尾崎町４－１８－１５　１０２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24289,
+                    34.36529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "あんくるの店",
+                "address": "阪南市尾崎町４－１８－１５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24289,
+                    34.36529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "いちごジャム",
+                "address": "阪南市尾崎町４－１５－７",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "ペット服",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24417,
+                    34.36615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "串かつ　くいしんぼう",
+                "address": "阪南市尾崎町３－３－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24219,
+                    34.36351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たこ亭",
+                "address": "阪南市尾崎町３－３－１０",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "たこ焼き屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24219,
+                    34.36351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶　結加里",
+                "address": "阪南市尾崎町３－１７２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24281,
+                    34.36348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中華工房五色園",
+                "address": "阪南市尾崎町３－１７２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24281,
+                    34.36348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "尾崎スイミングスクール尾崎校",
+                "address": "阪南市尾崎町５－３１－１８",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.ozaki-swimming.com/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "スイミングスクール",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24716,
+                    34.36888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋あみこ",
+                "address": "阪南市尾崎町１－９－２０",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23907,
+                    34.3612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ふるさと",
+                "address": "阪南市尾崎町１－４－６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23758,
+                    34.35964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和の郷 祭歌",
+                "address": "阪南市尾崎町１－４－６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ喫茶",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23758,
+                    34.35964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "３46ファミリー",
+                "address": "阪南市尾崎町１－４－５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケスタジオ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23758,
+                    34.35964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "啓'S Born",
+                "address": "阪南市尾崎町８５－１－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "バー",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23769,
+                    34.35897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ドミナス",
+                "address": "阪南市尾崎町１－３－７　福田ビル　１０５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23769,
+                    34.35897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "チャンピオン",
+                "address": "阪南市尾崎町１－３－７　福田ビル",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23769,
+                    34.35897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックのんこ",
+                "address": "阪南市尾崎町１－３－５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23769,
+                    34.35897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックさりぃ",
+                "address": "阪南市尾崎町１－２－８",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23885,
+                    34.36031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お食事処 みかわ",
+                "address": "阪南市尾崎町１－２－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23885,
+                    34.36031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケスナック一番星",
+                "address": "阪南市尾崎町１－２－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "カラオケスナック",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23885,
+                    34.36031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ふぇろ~亭",
+                "address": "阪南市尾崎町１－２－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23885,
+                    34.36031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "呑み処　ひかる",
+                "address": "阪南市尾崎町１－２－１０",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23885,
+                    34.36031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お食事処 みかわ",
+                "address": "阪南市尾崎町１ー２ー４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お食事処",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23885,
+                    34.36031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炭火焼肉煙八",
+                "address": "阪南市尾崎町１－１－７",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23981,
+                    34.3611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "四川料理　蘭梅　尾崎店",
+                "address": "阪南市尾崎町９１－３　木下ビル１階",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24141,
+                    34.36135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Purity",
+                "address": "阪南市尾崎町８５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "美容院",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24208,
+                    34.35982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "元気家",
+                "address": "阪南市尾崎町８０－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://genkiya.com",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24249,
+                    34.35882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ナビ個別指導学院　阪南校",
+                "address": "阪南市尾崎町５３－１　ＭＫビル　３階　３０１室",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.navi-school.com/school/osaka/hannan/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24019,
+                    34.36037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "広島焼き むげん",
+                "address": "阪南市尾崎町５２－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お好み焼き屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24019,
+                    34.36037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "酒菜工房 想",
+                "address": "阪南市尾崎町５２－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24019,
+                    34.36037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アンジュ",
+                "address": "阪南市尾崎町５２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24019,
+                    34.36037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新極真会大阪神戸湾岸支部　阪南道場",
+                "address": "阪南市尾崎町５１１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "カラテ道場",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24886,
+                    34.35626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "はんなん産業フェア 株式会社ヤマト",
+                "address": "阪南市尾崎町３５－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "展示場",
+                "type": "健康機器体験",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23975,
+                    34.35946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "阪南ブランド十四匠",
+                "address": "阪南市尾崎町３５－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "経済団体",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23975,
+                    34.35946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "阪南市商工会",
+                "address": "阪南市尾崎町３５－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.hannan-sci.jp/",
+                "industry": "その他",
+                "type": "経済団体",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23975,
+                    34.35946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "あすな郞",
+                "address": "阪南市尾崎町１６９",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24348,
+                    34.36334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "コンシェルジュ阪南店",
+                "address": "阪南市尾崎町１６９",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24348,
+                    34.36334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "寿司　割烹　仕出し　会席料理　みやもと",
+                "address": "阪南市尾崎町１２７ー７",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.instagram.com/sushikappo_miyamoto/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "寿司　割烹",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2438,
+                    34.36018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "寿司割烹みやもと",
+                "address": "阪南市尾崎町１２７－７",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "寿司屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2438,
+                    34.36018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J and J",
+                "address": "阪南市尾崎町１２６－９",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24396,
+                    34.35991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ｍ＆A",
+                "address": "阪南市尾崎町１２６－８",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24396,
+                    34.35991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ラ、ベルメール",
+                "address": "阪南市尾崎町１２６－７",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24396,
+                    34.35991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J.S family",
+                "address": "阪南市尾崎町１２６－６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24396,
+                    34.35991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cafe&kitchen cayuite",
+                "address": "阪南市尾崎町１２６－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24396,
+                    34.35991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "For Tune",
+                "address": "阪南市尾崎町１２６－１５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24396,
+                    34.35991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "るびぃ",
+                "address": "阪南市尾崎町１２６－１５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24396,
+                    34.35991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "るびぃ～",
+                "address": "阪南市尾崎町１２６－１５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24396,
+                    34.35991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Da bere",
+                "address": "阪南市尾崎町１２６－１３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24396,
+                    34.35991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIRD",
+                "address": "阪南市尾崎町１０５－６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "美容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24112,
+                    34.36168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鶏のジョージ 尾崎東口駅前店",
+                "address": "阪南市尾崎町１０５－５　池田ビル　１階",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24112,
+                    34.36168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ラーメン生島家",
+                "address": "阪南市箱作４９ー６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.21561,
+                    34.34278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お食事処　味楽",
+                "address": "阪南市箱作３５２０－１３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.21413,
+                    34.34138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "餃子の王将 阪南箱作店",
+                "address": "阪南市箱作３５２０－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://map.ohsho.co.jp/b/ohsho/info/1444/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華料理レストラン",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.21413,
+                    34.34138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bloom",
+                "address": "阪南市箱作３５０１－８",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "美容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.21324,
+                    34.34032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ひなたぼっこカフェ",
+                "address": "阪南市箱作３０７",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.21217,
+                    34.34151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IDEAL nail salon",
+                "address": "阪南市箱作２８７５－２１４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://ideal-nail.com",
+                "industry": "個人向けサービス",
+                "type": "ネイルサロン",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.20775,
+                    34.33054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "プレインターナショナル",
+                "address": "阪南市箱作２５０５－７",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "事務所",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.20018,
+                    34.33429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "モモピラティススタジオ",
+                "address": "阪南市箱作２４１－５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://mo-pilates.com",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "ピラティススタジオ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.21297,
+                    34.34261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "プチボヌール",
+                "address": "阪南市箱作２３０",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.21399,
+                    34.34185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中華料理鹵菜専門店　施順泰鹵菜工房",
+                "address": "阪南市箱作２３０６－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品製造業",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.20544,
+                    34.33764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "もちゃもちゃ",
+                "address": "阪南市箱作２２７６－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "食堂",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.20544,
+                    34.33764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ工房ソロ",
+                "address": "阪南市箱作２０３３－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.20775,
+                    34.33054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼きつくしんぼ",
+                "address": "阪南市箱作１６６１－６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.20645,
+                    34.33979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "割烹寿司はな",
+                "address": "阪南市箱作１４９４－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.20975,
+                    34.33722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Bluesky-sea",
+                "address": "阪南市箱の浦９９８－３２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "民泊",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.19035,
+                    34.33316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mind coffee",
+                "address": "阪南市南山中４８３－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.19281,
+                    34.33096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ぱぁ～まや Desse～",
+                "address": "阪南市南山中２－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www2.hp-ez.com/hp/desse/",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.19574,
+                    34.3305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "はんなん産業フェア・ナカイ製菓株式会社",
+                "address": "阪南市桃の木台２－４－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.nakai-seika.com/",
+                "industry": "その他",
+                "type": "クッキー",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.21637,
+                    34.33143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ma-lek",
+                "address": "阪南市桃の木台４－１０－８",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "美容系",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.22217,
+                    34.32743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "髪結床",
+                "address": "阪南市鳥取中６３２－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "理容",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25775,
+                    34.35572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "平野台の湯 安庵",
+                "address": "阪南市鳥取中６３２－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.yasuda-kousan.com",
+                "industry": "生活必需サービス",
+                "type": "浴場業",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25775,
+                    34.35572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "平野台の湯 安庵　お食事処",
+                "address": "阪南市鳥取中６３２－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.yasuda-kousan.com",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25775,
+                    34.35572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "株式会社 マックスオート ",
+                "address": "阪南市鳥取中６２２－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "自動車販売店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.26041,
+                    34.35229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新車市場阪南店",
+                "address": "阪南市鳥取中６２２－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "自動車販売店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.26041,
+                    34.35229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ビッグボーイ　泉南店",
+                "address": "阪南市鳥取中５８２－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25949,
+                    34.35178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "割烹いとう",
+                "address": "阪南市鳥取中４８９－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25177,
+                    34.35183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "salon do シエルスラン",
+                "address": "阪南市鳥取中４８１－２　２０６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "エステサロン",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25105,
+                    34.35319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "草竹農園",
+                "address": "阪南市鳥取中３８２－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "泉州特産水なす浅漬け屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25018,
+                    34.355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "だんぷ",
+                "address": "阪南市鳥取中３２９－２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ喫茶",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24953,
+                    34.35044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　りん",
+                "address": "阪南市鳥取中２５２－１２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24979,
+                    34.35401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新生寿司",
+                "address": "阪南市鳥取中１５９－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "寿司屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24658,
+                    34.35328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "〇家　阪南市鳥取",
+                "address": "阪南市鳥取１０９２－２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "宿泊施設",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23236,
+                    34.35517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケスタジオ彩歌",
+                "address": "阪南市鳥取７７５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.228,
+                    34.34915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "漁師の家めし　英進丸　名倉",
+                "address": "阪南市鳥取７０１－９",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "食堂　居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.22992,
+                    34.35293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉・ホルモン　マルキ精肉阪南店",
+                "address": "阪南市鳥取６１４－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://den-hannan.owst.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23134,
+                    34.34974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "画廊国際工芸株式会社",
+                "address": "阪南市鳥取４６５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.kokusaikougei.co.jp/",
+                "industry": "その他",
+                "type": "絵画美術商",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23332,
+                    34.34971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "山吉",
+                "address": "阪南市鳥取４４１－２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://sushiyamayoshi.com",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "寿司割烹",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23383,
+                    34.35115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉ハウス　ころころ亭",
+                "address": "阪南市鳥取中４３２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23383,
+                    34.35115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼き鳥　かじ平",
+                "address": "阪南市鳥取４３０－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼き鳥屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23383,
+                    34.35115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "やきとりコートハウス",
+                "address": "阪南市鳥取４２０－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23383,
+                    34.35115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "西村屋",
+                "address": "阪南市鳥取１５９－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23901,
+                    34.35089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAPANA 阪南店",
+                "address": "阪南市鳥取１５０－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23782,
+                    34.35163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼き　おかん",
+                "address": "阪南市鳥取１１８－５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23415,
+                    34.35452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOUTH",
+                "address": "阪南市鳥取１０６２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.south-fishing.com/",
+                "industry": "その他",
+                "type": "遊漁船",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.22887,
+                    34.35242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "手造りパンの店マノン",
+                "address": "阪南市石田７１６－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "パン屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2486,
+                    34.34198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鮨ぎん泉",
+                "address": "阪南市石田５８１－３　武輪ビル",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24623,
+                    34.3521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たこ焼きあいうえお",
+                "address": "阪南市石田２５４－８",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24443,
+                    34.3469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中華料理　清華園",
+                "address": "阪南市石田１８５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://chinesedining-seikaen.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華料理",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24625,
+                    34.34534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケこころ",
+                "address": "阪南市石田１０１２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24835,
+                    34.3471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美容室オリーブ",
+                "address": "阪南市新町９７－１　成子ビル１階",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23528,
+                    34.35698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶アップル",
+                "address": "阪南市新町９７－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23528,
+                    34.35698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケスナックふれんず",
+                "address": "阪南市新町７１－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "カラオケスナック",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23582,
+                    34.35846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ふれんず",
+                "address": "阪南市新町７１－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "スナック",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23582,
+                    34.35846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "創作弁当　一帆",
+                "address": "阪南市新町１４５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "創作弁当",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23555,
+                    34.35949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "横田水産",
+                "address": "阪南市新町１８８－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.yokotasuisan.com/",
+                "industry": "その他",
+                "type": "水産物販売",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23366,
+                    34.35717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ドミノ・ピザ阪南鳥取店",
+                "address": "阪南市新町１１９－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.dominos.jp/store/87209",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ピザデリバリー",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23799,
+                    34.35233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "一休　阪南店",
+                "address": "阪南市自然田３８９１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.26041,
+                    34.35111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和歌山の中華そば　泉善",
+                "address": "阪南市自然田８３４－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25964,
+                    34.34197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "餃子専門店 ぎょうざ太郎",
+                "address": "阪南市自然田８３２－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25964,
+                    34.34197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "イル　ピアット",
+                "address": "阪南市自然田８２０－２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "イタリア料理店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25865,
+                    34.34276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "魚ダイニング光",
+                "address": "阪南市自然田８２０－２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://sakana-dining-hikari.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "和食飲食店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25865,
+                    34.34276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "阪南洋風食堂クゥクゥ",
+                "address": "阪南市自然田８２０－２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "洋食レストラン",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25865,
+                    34.34276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "パーフェクトネイルyunakata",
+                "address": "阪南市自然田８１６－５　４０５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "ネイルサロン",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25865,
+                    34.34276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シークレットⅡ",
+                "address": "阪南市自然田８１６－５　２０５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25865,
+                    34.34276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炉ばた地車",
+                "address": "阪南市自然田８１６－５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25865,
+                    34.34276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ご馳走や鮨でん",
+                "address": "阪南市自然田７８４－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25774,
+                    34.34235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カメラのキタムラ　阪南／和泉鳥取店",
+                "address": "阪南市自然田７７９－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "専門店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25774,
+                    34.34235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "かぶら",
+                "address": "阪南市自然田７７８－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25774,
+                    34.34235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヘアープリンク",
+                "address": "阪南市自然田７７０－３　１０２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25763,
+                    34.34041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "まるはちうどん",
+                "address": "阪南市自然田７６９－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25687,
+                    34.34116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ゆうまオート",
+                "address": "阪南市自然田７６８－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "自動車販売業",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25687,
+                    34.34116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "さしみ屋",
+                "address": "阪南市自然田７４２－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25586,
+                    34.34189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "おむすび処 にんに -ninni-",
+                "address": "阪南市自然田７２４－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "おむすび販売",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2561,
+                    34.34367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ルアー船　剣",
+                "address": "阪南市自然田　６２９－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.osakabay.jp/",
+                "industry": "個人向けサービス",
+                "type": "遊漁船",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25417,
+                    34.34336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "「想い出の味」ひので",
+                "address": "阪南市自然田５５７－２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25769,
+                    34.34418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ赤とんぼ",
+                "address": "阪南市自然田５３７－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25937,
+                    34.34332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ赤とんぼ",
+                "address": "阪南市自然田５３７－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25937,
+                    34.34332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アミューズメントホテル　クルーガーランド",
+                "address": "阪南市自然田４１９",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.krugerrand-hotel.com/",
+                "industry": "その他",
+                "type": "ホテル",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2598,
+                    34.34462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケBanBan　阪南店",
+                "address": "阪南市自然田３１５－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25923,
+                    34.34839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大谷マリン",
+                "address": "阪南市自然田２１６－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://ootani-marine.com/",
+                "industry": "個人向けサービス",
+                "type": "船舶マリンショップ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25923,
+                    34.34839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "チャオ",
+                "address": "阪南市自然田２０７２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2581,
+                    34.34819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ラーメン 石松",
+                "address": "阪南市自然田２０７２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2581,
+                    34.34819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋おふく",
+                "address": "阪南市自然田１７４７－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24983,
+                    34.34846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和食居酒屋　雅",
+                "address": "阪南市自然田１４８５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25186,
+                    34.34885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARアジト",
+                "address": "阪南市自然田１４８３－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "バー",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25186,
+                    34.34885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "草竹ガレージ",
+                "address": "阪南市自然田１４８３－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "バー",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25186,
+                    34.34885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "特殊メイクスタジオ　キッズカンパニー",
+                "address": "阪南市自然田１４６８－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.smfxkids.com",
+                "industry": "その他",
+                "type": "特殊メイクスタジオ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24751,
+                    34.35108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "緑の館",
+                "address": "阪南市自然田１３６－２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2581,
+                    34.34819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ダイニング　かづやん",
+                "address": "阪南市自然田１３６－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2581,
+                    34.34819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boy,s女神",
+                "address": "阪南市自然田１３６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケバー",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2581,
+                    34.34819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sato",
+                "address": "阪南市自然田１３６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2581,
+                    34.34819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "エナ",
+                "address": "阪南市自然田１３６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2581,
+                    34.34819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "からおけ家",
+                "address": "阪南市自然田１３６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2581,
+                    34.34819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　エナ",
+                "address": "阪南市自然田１３６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2581,
+                    34.34819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たこ安",
+                "address": "阪南市自然田１２９３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25208,
+                    34.34316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋",
+                "address": "阪南市自然田１０５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25856,
+                    34.3508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋きらく",
+                "address": "阪南市自然田１０５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25856,
+                    34.3508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "髪かざり　阪南店",
+                "address": "阪南市黒田７０８－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23717,
+                    34.35242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ジョリーパスタ　阪南店",
+                "address": "阪南市黒田７０５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.jolly-pasta.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "パスタ・ピッツァ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23975,
+                    34.35182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "吉野家　２６号線阪南店",
+                "address": "阪南市黒田７０５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "牛丼店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23975,
+                    34.35182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MUKU　no　KI　（ムクノキ）",
+                "address": "阪南市黒田５６７－９",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "雑貨販売",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24092,
+                    34.35786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カフェあらむくるくる",
+                "address": "阪南市黒田５３－１３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "カフェ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23807,
+                    34.35812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "かふぇあらむくるくる",
+                "address": "阪南市黒田５３－１３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23807,
+                    34.35812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Factory-1＋",
+                "address": "阪南市黒田５２－６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "バー",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23807,
+                    34.35812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "阪南市立児童発達支援センターたんぽぽ園",
+                "address": "阪南市黒田４６８－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://wincnpo.wixsite.com/kokoro",
+                "industry": "その他",
+                "type": "児童福祉施設",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24394,
+                    34.35577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "コメダ珈琲店阪南店",
+                "address": "阪南市黒田４２６－８",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.komeda.co.jp/search/shopdetail.php?id=495",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24486,
+                    34.35566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ケンタッキーフライドチキン阪南黒田",
+                "address": "阪南市黒田４２５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24513,
+                    34.35433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "プランタン",
+                "address": "阪南市黒田３４５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24101,
+                    34.35375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "香港大飯店",
+                "address": "阪南市黒田３０１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.23975,
+                    34.35182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼き 竹",
+                "address": "阪南市黒田９８－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お好み焼き",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24026,
+                    34.35626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "優",
+                "address": "阪南市黒田１－３－８",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24026,
+                    34.35626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋善zen　",
+                "address": "阪南市光陽台１－１６－１５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2355,
+                    34.34716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国料理やぐら",
+                "address": "阪南市光陽台１－１６－１２　１０３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2355,
+                    34.34716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ちぇりぃあん",
+                "address": "阪南市光陽台１－１６－１２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2355,
+                    34.34716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　喜楽人",
+                "address": "阪南市光陽台１－１６－１０　２階２０１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2355,
+                    34.34716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岡野屋",
+                "address": "阪南市光陽台１－１６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2355,
+                    34.34716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪ダイハツ販売（株）泉南店",
+                "address": "阪南市貝掛６２９－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://osaka-daihatsu.co.jp/",
+                "industry": "個人向けサービス",
+                "type": "自動車販売店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.22502,
+                    34.34632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "べるでキッチン",
+                "address": "阪南市下出９９－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24495,
+                    34.35931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D i n i nｇ Y aN aＧi",
+                "address": "阪南市下出８０－２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24371,
+                    34.35875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dining YaNaGi",
+                "address": "阪南市下出８０－２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24371,
+                    34.35875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "きく",
+                "address": "阪南市下出８０－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24371,
+                    34.35875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　三平",
+                "address": "阪南市下出８０－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24371,
+                    34.35875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼き鳥ここ家",
+                "address": "阪南市下出８０－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品製造業",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24371,
+                    34.35875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "呑み処日和",
+                "address": "阪南市下出８０－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24371,
+                    34.35875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "煌7",
+                "address": "阪南市下出８０－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品卸売物流業",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24371,
+                    34.35875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋レストラン西村",
+                "address": "阪南市下出７８１－１４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24689,
+                    34.35888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "森並交通有限会社",
+                "address": "阪南市下出７４９",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "貸切バス会社",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24541,
+                    34.36054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "昔造り辻茂本店",
+                "address": "阪南市下出７２８－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "米菓製造販売",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪信用金庫　尾崎支店",
+                "address": "阪南市下出７２７－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "信用金庫",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋 次郎長",
+                "address": "阪南市下出７２０－５　わくわくアベニュー２Ｆ",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://izakaya-jirocho.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉　炭屋　阪南店",
+                "address": "阪南市下出７２０－５　わくわくアベニュー",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マハロ　カフェ",
+                "address": "阪南市下出７２０－５　オークワわくわくアベニュー２Ｆ",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://mahalocafe-desu.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美容室 カルチェ・ラタン",
+                "address": "阪南市下出７２０－５　２Ｆ",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "美容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たこやき　アヤカ",
+                "address": "阪南市下出７２０－５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "たこ焼き屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "モスバーガー尾崎店",
+                "address": "阪南市下出７２０－５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ華",
+                "address": "阪南市下出７１２－６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "カラオケ店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2442,
+                    34.36021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洋食の店　南海",
+                "address": "阪南市下出７０１－６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24425,
+                    34.35994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ビギン",
+                "address": "阪南市下出７０１－１２　ビーリプレスビル１階",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "遊興施設",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24425,
+                    34.35994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "おいらのお店",
+                "address": "阪南市下出７０１－１２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24425,
+                    34.35994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ノマチアキ",
+                "address": "阪南市下出７０１－１２",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "遊興施設",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24425,
+                    34.35994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケスナック24",
+                "address": "阪南市下出７０１－１０",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ酒場",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24425,
+                    34.35994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL BEAUTY PROJECTS OBTERNiR",
+                "address": "阪南市下出６９５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://beauty.hotpepper.jp/slnH000350111",
+                "industry": "生活必需物資供給",
+                "type": "美容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24495,
+                    34.35931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Casual bar secret",
+                "address": "阪南市下出６１ー４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "バー",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24306,
+                    34.35917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "介護ステーション　ぷらす",
+                "address": "阪南市下出６０５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "その他",
+                "type": "行政サービス",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24657,
+                    34.35656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "野菜巻き串バル　ぽっぽ",
+                "address": "阪南市下出６０５－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://tabelog.com/osaka/A2705/A270504/27099439/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋　バル",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24657,
+                    34.35656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SUPER COSMO 尾崎店",
+                "address": "阪南市下出６０４－１４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.p-world.co.jp/osaka/ozaki-mammoth.htm",
+                "industry": "遊興施設",
+                "type": "パチンコ店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24657,
+                    34.35656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シティホール　阪南",
+                "address": "阪南市下出５９１－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "冠婚葬祭",
+                "type": "葬儀業",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24663,
+                    34.35546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼きGENJI",
+                "address": "阪南市下出５３０－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24803,
+                    34.35741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "らぁめん吉兆夢",
+                "address": "阪南市下出５３０－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24803,
+                    34.35741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉あみ　阪南店",
+                "address": "阪南市下出４５１－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25119,
+                    34.35794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "しゃぶ葉阪南下出店",
+                "address": "阪南市下出４３６－１\t",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.skylark.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ファミリーレストラン",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25119,
+                    34.35794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "阪南下出食堂",
+                "address": "阪南市下出４３３－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24995,
+                    34.35899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヘアーサロンノブヒロ",
+                "address": "阪南市下出３９－５",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "理容",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24098,
+                    34.36126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "日産大阪販売株式会社　泉南店",
+                "address": "阪南市下出３９７－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "自動車ディーラー",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25056,
+                    34.35965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居食家 新富",
+                "address": "阪南市下出３８９－３",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24995,
+                    34.35899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "阪南ぶんか村",
+                "address": "阪南市下出３７２－４",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "仏壇仏具販売",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24791,
+                    34.36003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たちより処　きみか",
+                "address": "阪南市下出３６－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24176,
+                    34.36121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "飲食店　弁慶",
+                "address": "阪南市下出３６－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24176,
+                    34.36121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "地魚酒房六尾",
+                "address": "阪南市下出３６－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24176,
+                    34.36121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スポーツクラブ　ラクルス",
+                "address": "阪南市下出３４４－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.rakulth.com/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "スポーツクラブ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24883,
+                    34.36018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "あおい鍼灸整骨院",
+                "address": "阪南市下出２４６－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "整骨院",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24547,
+                    34.36365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ドリーミー",
+                "address": "阪南市下出２３８－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24547,
+                    34.36365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美容室　シーズ",
+                "address": "阪南市下出２３７－６",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.shishair.com",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24547,
+                    34.36365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "㈱グリーンライフ　セブンビュー",
+                "address": "阪南市下出１７",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "レストラン",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2422,
+                    34.36097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カーブス わくわくシティ尾崎",
+                "address": "阪南市下出１６７－１の１　わくわくシティ尾崎店２Ｆ",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.curves.co.jp/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "スポーツクラブ",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "はん・印刷のOTANI　尾崎店",
+                "address": "阪南市下出１６７－１の１　オークワ　わくわくシティ尾崎店内",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "http://www.p-otani.co.jp/",
+                "industry": "その他",
+                "type": "印鑑・ゴム印など",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSMETICSマエダ",
+                "address": "阪南市下出１６７－１　オークワ尾崎店１Ｆ",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.shiseido.co.jp/sw/navi/shopdetail.html?shopCd=521AW4",
+                "industry": "生活必需物資供給",
+                "type": "化粧品専門店",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "パソコン教室わかるとできる　わくわくシティ尾崎校",
+                "address": "阪南市下出１６７－１　オークワわくわくシティ尾崎店１階",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.wakarutodekiru.com/school_map/school/wakadeki-ozaki/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "パソコン教室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hairs Lun Lun",
+                "address": "阪南市下出１６７－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://beauty.hotpepper.jp/slnH000375556/",
+                "industry": "生活必需物資供給",
+                "type": "美容室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "講談社こども教室",
+                "address": "阪南市下出１６７－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://www.kodadnshapal.co.jp",
+                "industry": "自動車教習所、学習塾等",
+                "type": "こども教室",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2435,
+                    34.36176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "manocalda",
+                "address": "阪南市下出１１１－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "リラクゼーション施設",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24281,
+                    34.36227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "極真会館 阪南道場",
+                "address": "阪南市下出１０８－１－７",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "https://hannan-dojo.com/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "空手道場",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24281,
+                    34.36227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミスターカンソ阪南尾崎店",
+                "address": "阪南市下出１０７－７",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "缶詰バー",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24281,
+                    34.36174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "月のうさぎ",
+                "address": "阪南市さつき台１－１－１",
+                "icon": "restaurant",
+                "munic": "阪南市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "hannanshi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.25182,
+                    34.34217
+                ]
+            }
+        }
+    ]
+}
