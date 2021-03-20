@@ -49,7 +49,7 @@
           var munic = e.features[0].properties.munic;
           var url = e.features[0].properties.url;
           var count = e.features[0].properties.count;
-          var html = '<p><a href="./' + url + '">' + munic + '</a><br>' + count + ' 件</p>'
+          var html = '<p><a href="/' + url + '">' + munic + '</a><br>' + count + ' 件</p>'
           while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
             coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
           }
