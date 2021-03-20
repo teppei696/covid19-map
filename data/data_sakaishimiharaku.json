@@ -1,0 +1,2545 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Buono2",
+                "address": "堺市美原区木材通４－１－１６",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://fortyfour.jp",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "イタリア料理店」",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57173,
+                    34.51439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泉北ホーム　美原モデルハウス",
+                "address": "堺市美原区木材通１－７－３３　ＡＢＣハウジング美原住宅公園内",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.senbokuhome.co.jp/showroom/mihara/",
+                "industry": "展示場",
+                "type": "ハウスメーカー",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57114,
+                    34.51674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ナカザワ建販株式会社　美原支店",
+                "address": "堺市美原区木材通１－１３－１０　",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.nakazawa-kenpan.co.jp/",
+                "industry": "その他",
+                "type": "オフィス",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57254,
+                    34.51593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "びっくり食堂",
+                "address": "堺市美原区北余部７９",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54398,
+                    34.53821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anna",
+                "address": "堺市美原区北余部７６－３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54501,
+                    34.53789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "321かふぇ",
+                "address": "堺市美原区北余部７６－１の３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54501,
+                    34.53789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼　（丘）",
+                "address": "堺市美原区北余部６１－９",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54585,
+                    34.53769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック　樹鶴",
+                "address": "堺市美原区北余部６１－７",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54585,
+                    34.53769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カフェ ド ラペ",
+                "address": "堺市美原区北余部６１－１０",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54585,
+                    34.53769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美原キリスト教会",
+                "address": "堺市美原区北余部５９－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "集会・展示施設",
+                "type": "集会場",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54538,
+                    34.53658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "一品料理 美千代",
+                "address": "堺市美原区北余部５６－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54501,
+                    34.53789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヴィトン",
+                "address": "堺市美原区北余部５４－５",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5444,
+                    34.53753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶　美園",
+                "address": "堺市美原区北余部５３－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54398,
+                    34.53757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "イング美原校",
+                "address": "堺市美原区北余部４９２－３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.ing-school.jp/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54991,
+                    34.53701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カフェレストラン　MACHⅢ",
+                "address": "堺市美原区北余部４６９ー６　",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://www.kurocco.com/cgi-bin/mach3/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェレストラン",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54645,
+                    34.53615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カフェレストラン　ＭＡＣＨⅢ",
+                "address": "堺市美原区北余部４６９－６",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://www.kurocco.com/cgi-bin/mach3/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェレストラン",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54645,
+                    34.53615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "まめや",
+                "address": "堺市美原区北余部４６９－６",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54645,
+                    34.53615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "立呑処 酔太郎",
+                "address": "堺市美原区北余部４５－２８",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54332,
+                    34.53714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南海飯店",
+                "address": "堺市美原区北余部４０－７２",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54204,
+                    34.53751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "プリティーウーマン",
+                "address": "堺市美原区北余部４０－６２",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54204,
+                    34.53751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カットハウス　アーガス",
+                "address": "堺市美原区北余部４０－６０",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容業",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54204,
+                    34.53751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WiTH",
+                "address": "堺市美原区北余部４０－５０",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容・美容業",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54204,
+                    34.53751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "メナードフェイシャル 美原北店",
+                "address": "堺市美原区北余部４０－３５　市原壱番館３０７",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "エステサロン",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54204,
+                    34.53751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "メナードフェイシャルサロン美原北店",
+                "address": "堺市美原区北余部４０－３５",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.menard.co.jp/sp/shop/detail/00552224s/",
+                "industry": "個人向けサービス",
+                "type": "エステサロン",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54204,
+                    34.53751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ごはんやさん  ういづ",
+                "address": "堺市美原区北余部３５５－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54744,
+                    34.53952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪トヨペット(株)　美原店",
+                "address": "堺市美原区北余部３４４－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "自動車販売",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54823,
+                    34.54126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ジョーシン 美原店",
+                "address": "堺市美原区北余部１４０－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "家電量販店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54552,
+                    34.53986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "飲食店",
+                "address": "堺市美原区北余部１３１－４",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54568,
+                    34.53898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洋食屋 レストラン とんぼ セブ",
+                "address": "堺市美原区北余部１３１－４",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54568,
+                    34.53898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "堺美原食堂",
+                "address": "堺市美原区北余北４５９－３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "和食",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54637,
+                    34.54092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.tsumiki",
+                "address": "堺市美原区菩提３０－１１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://www.avenir-bs.jp/",
+                "industry": "生活必需サービス",
+                "type": "美容",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54132,
+                    34.54929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炭火焼肉　鶴兆　美原店",
+                "address": "堺市美原区平尾２９８－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57344,
+                    34.53397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "介護タクシー福和",
+                "address": "堺市美原区小平尾６６６",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://www.fukuwa-kaigo.sakura.ne.jp",
+                "industry": "その他",
+                "type": "介護タクシー",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57411,
+                    34.52187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "タイヨーラーメン",
+                "address": "堺市美原区平尾４３４－３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56445,
+                    34.5315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マクドナルド309堺美原店",
+                "address": "堺市美原区平尾４１４－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5661,
+                    34.53295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "津の勢",
+                "address": "堺市美原区平尾４１３－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56485,
+                    34.53312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ファーマーズオリジン",
+                "address": "堺市美原区平尾３３３３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "洋食店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57285,
+                    34.53543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "香の川製麺　美原店",
+                "address": "堺市美原区平尾平尾２９９－３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56296,
+                    34.53599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セーヌ",
+                "address": "堺市美原区平尾町２９６－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "その他",
+                "type": "スナック",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56268,
+                    34.53438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和食さと 堺美原店",
+                "address": "堺市美原区平尾２９５－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ファミリーレストラン",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56268,
+                    34.53438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉特急　美原駅",
+                "address": "堺市美原区平尾２９２－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56296,
+                    34.53599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ＡＲｅｅ",
+                "address": "堺市美原区平尾２８０９－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "美容室",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57018,
+                    34.53193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARee",
+                "address": "堺市美原区平尾２８０９－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57018,
+                    34.53193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "会席料理 花清水",
+                "address": "堺市美原区平尾２７９２－３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57036,
+                    34.53241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶イーグル",
+                "address": "堺市美原区平尾２７７",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56619,
+                    34.53585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "縁家",
+                "address": "堺市美原区平尾２４２９－２",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57169,
+                    34.52906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "山口薬房、岩盤浴ストーン風樂",
+                "address": "堺市美原区平尾２３３０－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "薬店、岩盤浴、マッサージ",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57454,
+                    34.52409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "手打うどん布川",
+                "address": "堺市美原区平尾２２９－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "うどん店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56619,
+                    34.53585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "堺美原店",
+                "address": "堺市美原区南余部１９０－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54655,
+                    34.53555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "理容サービス　美原店",
+                "address": "堺市美原区南余部１９４",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://www.waka-matsu.jp/",
+                "industry": "生活必需サービス",
+                "type": "理容室",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54645,
+                    34.53244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "おばんざい料理おへそ",
+                "address": "堺市美原区南余部１９１－３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54645,
+                    34.53244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "千尋の道",
+                "address": "堺市美原区南余部１６１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://www.dicemanege.com/senpiro/index.html",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54689,
+                    34.53441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美原人酒場",
+                "address": "堺市美原区南余部１６１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "BAR",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54689,
+                    34.53441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ドミノピザ美原店",
+                "address": "堺市美原区南余部１５１－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ピザ屋",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54785,
+                    34.53237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "なんやかん屋 ちとせ",
+                "address": "堺市美原区南余部１４８－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54785,
+                    34.53237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar South or North",
+                "address": "堺市美原区丹南９６－６",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://southornorth.nobody.jp/info.html",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "バー",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55946,
+                    34.55444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "トライアル",
+                "address": "堺市美原区丹上８７－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.trial.co.jp/",
+                "industry": "その他",
+                "type": "自動車用部品小売店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56703,
+                    34.55468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SEASTAR",
+                "address": "堺市美原区丹上４４３－８",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5621,
+                    34.55985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "めだか",
+                "address": "堺市美原区丹上４３６－２",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5621,
+                    34.55985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "介護・サポートタクシー　リライアブル",
+                "address": "堺市美原区丹上３６３－２１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://sakai-reliable.com/index.html",
+                "industry": "その他",
+                "type": "介護タクシー",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56116,
+                    34.5541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丸山製麺所",
+                "address": "堺市美原区丹上２６２－３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "らーめん店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56285,
+                    34.55972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "まんま恵み",
+                "address": "堺市美原区丹上２４８",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56419,
+                    34.55959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鹿児島ラーメン焼肉真琴",
+                "address": "堺市美原区大保２８１－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5547,
+                    34.54895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "境川工業株式会社",
+                "address": "堺市美原区大保２１０－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://sakaigawa.co.jp/",
+                "industry": "その他",
+                "type": "熱交換器製造業",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55588,
+                    34.55319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋",
+                "address": "堺市美原区大保１４－６",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56116,
+                    34.5489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋らくらく",
+                "address": "堺市美原区大保１４－６",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56116,
+                    34.5489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OHX.cafe",
+                "address": "堺市美原区大饗２５４－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.instagram.com/ohx_cafe",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食業",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54359,
+                    34.54825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉銀ちゃん",
+                "address": "堺市美原区大饗２５４－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://yakinikuginchan.owst.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉屋",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54359,
+                    34.54825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "株式会社ユーアイ/ユーアイビークル",
+                "address": "堺市美原区大饗１５８－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://www.ui-vehicle.com/",
+                "industry": "その他",
+                "type": "自動車用品　製造販売",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54388,
+                    34.54409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "吉野家　３０９号線美原店",
+                "address": "堺市美原区太井８１－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "牛丼店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55298,
+                    34.54856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヘアーサロンNAKAGAWA",
+                "address": "堺市美原区太井５４９－３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容室",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55205,
+                    34.5409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "あなば",
+                "address": "堺市美原区太井３４９－９",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼き鳥屋",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5491,
+                    34.54223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "株式会社プロショップ山本金物",
+                "address": "堺市美原区太井１１７－３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "金物店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55298,
+                    34.54856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ラウンジフローレンス",
+                "address": "堺市美原区多治井６５２－４",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "ラウンジ",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57126,
+                    34.54488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丹比会オークション",
+                "address": "堺市美原区多治井２４－４",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://tanpikai.com",
+                "industry": "展示場",
+                "type": "オークションハウス",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56271,
+                    34.54186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶りぼん",
+                "address": "堺市美原区多治井１０－３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "その他",
+                "type": "カラオケ喫茶",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56271,
+                    34.54186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "井上忠久ゴルフスクール",
+                "address": "堺市美原区多治井１０５－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://inoue-tadahisa.golf-hp.com/",
+                "industry": "運動施設・遊戯施設",
+                "type": "スポーツクラブなどの屋内運動施設",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56491,
+                    34.5439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶早苗",
+                "address": "堺市美原区多治井１０５－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56491,
+                    34.5439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ｄｏｇ Ｃａｆｅ ＆ Ｂａｒ　ｍｉｎｔ",
+                "address": "堺市美原区青南台２－５－７",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ＆Ｂａｒ",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56949,
+                    34.51392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dogcaf&Barmint ",
+                "address": "堺市美原区青南台２－５－７",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ドックカフェ",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56949,
+                    34.51392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ABCハウジング美原住宅公園",
+                "address": "堺市美原区青南台２－１－１０",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.abc-housing.co.jp/kinki/park/mihara.html",
+                "industry": "展示場",
+                "type": "住宅展示場",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5705,
+                    34.51404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "パナソニック　ホームズ（株）　美原展示場",
+                "address": "堺市美原区青南台２－１－１０",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://homes.panasonic.com/kyoten/detail/E00020/",
+                "industry": "その他",
+                "type": "住宅展示場",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5705,
+                    34.51404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "活魚回転すしバリュー",
+                "address": "堺市美原区青南台１－１－３３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57024,
+                    34.5147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シャーウッドの森",
+                "address": "堺市美原区菅生８２３－５",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57001,
+                    34.5191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "狭山荘",
+                "address": "堺市美原区菅生６４７－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "食堂",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56021,
+                    34.532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ＣＯＰＡＩＮ de GＯＨＡＮ",
+                "address": "堺市美原区菅生４７",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55971,
+                    34.5282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "インテックス大阪2号館東売店",
+                "address": "堺市美原区菅生１７０９－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56712,
+                    34.5176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "翔華　",
+                "address": "堺市美原区真福寺７７",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56084,
+                    34.55105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "河内庭球倶楽部",
+                "address": "堺市美原区真福寺３－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.vertex-inc.co.jp/",
+                "industry": "運動施設・遊戯施設",
+                "type": "テニススクール",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56212,
+                    34.55127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "花だるまです",
+                "address": "堺市美原区真福寺２０８－１３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55954,
+                    34.5534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RELAIR",
+                "address": "堺市美原区真福寺１４３－１６",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "リラクゼーション",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55914,
+                    34.5495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉さかちゃん",
+                "address": "堺市美原区小平尾７２６－５",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5724,
+                    34.54283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR JOINT美原本店",
+                "address": "堺市美原区小平尾１６－１１Ｆ",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57455,
+                    34.53443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶&郷土料理　美園茶屋",
+                "address": "堺市美原区小平尾１６－１　２Ｆ",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57455,
+                    34.53443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "堺市立美原総合スポーツセンター",
+                "address": "堺市美原区小平尾１１４１－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://information.konamisportsclub.jp/trust/mihara/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "スポーツクラブ",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.57875,
+                    34.53981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美原ロイヤルメモリアルパーク",
+                "address": "堺市美原区小平尾１０５９－２６",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "霊園",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.576,
+                    34.53814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "志乃家",
+                "address": "堺市美原区今井８９－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://tabelog.com/osaka/A270801/27004135/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "うどん屋、すし屋、和食店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55174,
+                    34.55418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ハッピーボックスみはら店",
+                "address": "堺市美原区今井４１－４",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "パチンコ店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55179,
+                    34.55242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ユーアイビークル大阪店",
+                "address": "堺市美原区今井２７－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://www.ui-vehicle.com/",
+                "industry": "その他",
+                "type": "自動車用品　販売取付整備",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55374,
+                    34.55153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "かっぱ寿司　堺美原店",
+                "address": "堺市美原区黒山１６９－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56174,
+                    34.53762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リラクゼーションマッサージほっこり",
+                "address": "堺市美原区黒山８７３－２",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "リラクゼーション",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55728,
+                    34.53638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶カラオケ・サン",
+                "address": "堺市美原区黒山７８１－３",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55676,
+                    34.53863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ケーズデンキ美原店",
+                "address": "堺市美原区黒山７１０－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "家電量販店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5544,
+                    34.54507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "餃子の王将　美原南店",
+                "address": "堺市美原区黒山６４７－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://map.ohsho.co.jp/b/ohsho/info/1407/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華料理レストラン",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55531,
+                    34.54461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "町田商店　美原黒山店",
+                "address": "堺市美原区黒山４８４－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ラーメン屋",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55525,
+                    34.54055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "町田商店美原黒山店",
+                "address": "堺市美原区黒山４８４－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.gift-group.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ラーメン店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55525,
+                    34.54055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美原店",
+                "address": "堺市美原区黒山４４－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.24028.jp/",
+                "industry": "生活必需物資供給",
+                "type": "ベビー・子供用品店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56203,
+                    34.5421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "じゅうじゅうカルビ　美原店",
+                "address": "堺市美原区黒山３９２－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56087,
+                    34.54066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カレーハウスCoCo壱番屋　大阪美原店",
+                "address": "堺市美原区黒山３９１－１１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://tenpo.ichibanya.co.jp/map/1845",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カレー屋",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56087,
+                    34.54066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丸亀製麺堺美原",
+                "address": "堺市美原区黒山３８６－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.marugame-seimen.com/",
+                "industry": "食事提供施設",
+                "type": "うどん",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55855,
+                    34.54065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ｆａインジャンル",
+                "address": "堺市美原区黒山３４４－２",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55914,
+                    34.54228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "じゅうじゅうカルビ美原店",
+                "address": "堺市美原区黒山９８２－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ファミリーレストラン",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56023,
+                    34.53686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黒姫山古墳ガイダンス施設映像展示室",
+                "address": "堺市美原区黒山３０２",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "博物館、美術館、図書館",
+                "type": "ガイダンス施設",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56023,
+                    34.53686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミュージアムカフェ 風遊（ふらり）",
+                "address": "堺市美原区黒山２８１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56004,
+                    34.54775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "堺市立みはら歴史博物館",
+                "address": "堺市美原区黒山２８１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://www.mc-mihara.jp/",
+                "industry": "博物館、美術館、図書館",
+                "type": "歴史博物館",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56004,
+                    34.54775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋すず",
+                "address": "堺市美原区黒山８８１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56174,
+                    34.53762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "桜珈琲　美原店",
+                "address": "堺市美原区黒山５６８－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.sakura-coffee.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56174,
+                    34.53762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "すき家　309号堺黒山店",
+                "address": "堺市美原区黒山１６８－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "牛丼屋",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56174,
+                    34.53762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "クリーニングルビー　オークワ堺美原店",
+                "address": "堺市美原区黒山１４１－１　",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "http://www.rby.jp/shop/osaka/sa-column/sakai/20170227-166/",
+                "industry": "生活必需サービス",
+                "type": "クリーニング",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55975,
+                    34.53778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "びっくりドンキー 境美原店",
+                "address": "堺市美原区黒山１４１－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ハンバーグレストラン",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55975,
+                    34.53778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "びっくりドンキー 堺美原店",
+                "address": "堺市美原区黒山１４１－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "https://www.bms-inc.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ハンバーグレストラン",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55975,
+                    34.53778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cafe pecco",
+                "address": "堺市美原区黒山１３－６",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56172,
+                    34.53883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "株式会社扇活魚",
+                "address": "堺市美原区黒山１０４",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56085,
+                    34.54419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "万寿",
+                "address": "堺市美原区阿弥４８３－５",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55144,
+                    34.5346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KING",
+                "address": "堺市美原区阿弥４６－１０",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "その他",
+                "type": "製造業全般",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55486,
+                    34.53556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヘアーサロンぶんぶん",
+                "address": "堺市美原区さつき野東１－５－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容店",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.58121,
+                    34.53325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美容室Keity",
+                "address": "堺市美原区さつき野東１－５－１",
+                "icon": "restaurant",
+                "munic": "堺市美原区",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "sakaishimiharaku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.58121,
+                    34.53325
+                ]
+            }
+        }
+    ]
+}

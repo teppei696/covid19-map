@@ -1,0 +1,1785 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック　いつ",
+                "address": "忠岡町北出３－９３－２",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "スナック",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4095,
+                    34.48278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "竹とんぼ",
+                "address": "忠岡町北出３－１－２８",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40834,
+                    34.48389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Happy☆Rabbit",
+                "address": "忠岡町北出３－１－２８",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ライブバー",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40834,
+                    34.48389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "猫カフェいかろす",
+                "address": "忠岡町北出１－８－２７",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://nekocafe-ikaros.jimdofree.com",
+                "industry": "展示場",
+                "type": "猫カフェ",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4068,
+                    34.48019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リハビリ訪問看護ステーション ルピナス忠岡",
+                "address": "忠岡町馬瀬３－２－５２０２室",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://www.rupinasu-inc.co.jp/",
+                "industry": "その他",
+                "type": "訪問看護事業所",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40308,
+                    34.48714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "松崎食品",
+                "address": "忠岡町馬瀬２－２－３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品等",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40308,
+                    34.48714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶　笑",
+                "address": "忠岡町馬瀬２－１－１３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40228,
+                    34.48641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "寿美樹",
+                "address": "忠岡町馬瀬２－１６－４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40656,
+                    34.48442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　文月",
+                "address": "忠岡町馬瀬２－１１－２４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40498,
+                    34.48594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鉄板焼 あゆね。",
+                "address": "忠岡町馬瀬２－１１－２３－５",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40498,
+                    34.48594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "studioeNu",
+                "address": "忠岡町馬瀬２－１１－２３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "バー",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40498,
+                    34.48594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鉄板焼き あゆね。",
+                "address": "忠岡町馬瀬２－１１－２３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40498,
+                    34.48594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喰むらおか",
+                "address": "忠岡町馬瀬３－９－２",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40556,
+                    34.48688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cafe pesce gatto",
+                "address": "忠岡町馬瀬３－９－２",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "http://pescegatto.com",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40556,
+                    34.48688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ふくよし",
+                "address": "忠岡町馬瀬３－９－２",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40556,
+                    34.48688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リハこどもデイ　メイフラワー",
+                "address": "忠岡町馬瀬３－２－５",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://ground-ivy.co.jp/kids/",
+                "industry": "個人向けサービス",
+                "type": "障がい児通所支援事業",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40468,
+                    34.48691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "立花酒店",
+                "address": "忠岡町馬瀬１－３－１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品卸売物流業",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40128,
+                    34.48556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "振袖レンタルゆうぜん",
+                "address": "忠岡町馬瀬１－２－３３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://www.furisode-yu-zen.com/",
+                "industry": "その他",
+                "type": "レンタル呉服",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40089,
+                    34.48426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リハこどもデイ　アイビー",
+                "address": "忠岡町馬瀬１－１－８",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "その他",
+                "type": "医療サービス",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39975,
+                    34.48487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ひょうたん屋",
+                "address": "忠岡町馬瀬１－１８－９",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40329,
+                    34.48293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "笑屋",
+                "address": "忠岡町馬瀬１－１４－１９",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40359,
+                    34.48453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "韓国風食堂 富味",
+                "address": "忠岡町忠岡北２－９－３３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39516,
+                    34.49421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "やきにくや",
+                "address": "忠岡町忠岡北２－８６７さつき３３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39449,
+                    34.49413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ありあけ",
+                "address": "忠岡町忠岡北２－７－２１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39449,
+                    34.49413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たくみ",
+                "address": "忠岡町忠岡北２－７－２１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ふぐ、季節料理、酒類提供",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39449,
+                    34.49413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "レストラン　ホルン",
+                "address": "忠岡町忠岡北２－６－３６",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39337,
+                    34.49512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "きなりCafe",
+                "address": "忠岡町忠岡北１－８－１３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "http://kinari-cafe.com/",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39607,
+                    34.49386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アトラス忠岡カイロプラクティック院",
+                "address": "忠岡町忠岡北１－７－１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://chiropractor-atlastadaoka.business.site",
+                "industry": "その他",
+                "type": "カイロプラクティック施術院",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39665,
+                    34.49329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "忠岡サービスステーション",
+                "address": "忠岡町忠岡北１－６－８",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "ガソリンスタンド",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39662,
+                    34.49292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "まいどおおきに食堂　泉北忠岡食堂",
+                "address": "忠岡町忠岡北１－６－３２",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39662,
+                    34.49292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泉北忠岡食堂",
+                "address": "忠岡町忠岡北１－６－３２",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "食堂",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39662,
+                    34.49292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "理容サービス　忠岡店",
+                "address": "忠岡町忠岡北１－６－３１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "http://www.waka-matsu.jp/",
+                "industry": "生活必需サービス",
+                "type": "理容室",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39662,
+                    34.49292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックPoohさん",
+                "address": "忠岡町忠岡北１－６－１２さつき６６　２階",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39662,
+                    34.49292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ショットバー　Ｆ",
+                "address": "忠岡町忠岡北１－６－１２さつき６６　１階",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39662,
+                    34.49292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SNACKみゆき",
+                "address": "忠岡町忠岡北１－６－１２",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39662,
+                    34.49292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケさくら",
+                "address": "忠岡町忠岡北１－６－１２",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39662,
+                    34.49292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炭火焼in酒SPACE  銀風",
+                "address": "忠岡町忠岡北１－６－１２",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39662,
+                    34.49292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "シティホール　忠岡",
+                "address": "忠岡町忠岡北１－１－１８",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "冠婚葬祭",
+                "type": "葬儀業",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39792,
+                    34.49221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chandany",
+                "address": "忠岡町忠岡北１－１１－４１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39729,
+                    34.49499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お食事処　太平",
+                "address": "忠岡町忠岡北１－１１－４１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お食事処",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39729,
+                    34.49499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湯源郷　太平のゆ　忠岡店",
+                "address": "忠岡町忠岡北１－１１－４１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "http://www.taiheinoyu.jp",
+                "industry": "商業施設",
+                "type": "スーパー銭湯",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39729,
+                    34.49499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "髪剪處　忠岡店",
+                "address": "忠岡町忠岡北１－１１－４１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://www.kamikiridokoro.co.jp/salons/tadaoka.html",
+                "industry": "生活必需物資供給",
+                "type": "美容室",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39729,
+                    34.49499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "第一回泉州沖縄祭り",
+                "address": "忠岡町忠岡南２－５－１５",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39146,
+                    34.49102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼　乙姫",
+                "address": "忠岡町忠岡南２－１３－１１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39102,
+                    34.49303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "若松食堂",
+                "address": "忠岡町忠岡南３ー６ー１９",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "食堂居酒屋",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.38837,
+                    34.49481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美吉",
+                "address": "忠岡町忠岡南１－８－１４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39569,
+                    34.48846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶　ひばり",
+                "address": "忠岡町忠岡南１－６－１６",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39716,
+                    34.48802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "秀ちゃん",
+                "address": "忠岡町忠岡南１－６－１３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "バー",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39716,
+                    34.48802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "飲食店",
+                "address": "忠岡町忠岡南１－５－３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3972,
+                    34.48861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶ふるーる",
+                "address": "忠岡町忠岡南１－５－３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3972,
+                    34.48861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋とし",
+                "address": "忠岡町忠岡南１－４－３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39648,
+                    34.48929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "オクカメラ",
+                "address": "忠岡町忠岡南１－３－１２",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://www.okucamera.co.jp/",
+                "industry": "その他",
+                "type": "カメラ・DPE",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39658,
+                    34.48846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "忠岡本店",
+                "address": "忠岡町忠岡南１－３－１２",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://www.okucamera.co.jp/",
+                "industry": "その他",
+                "type": "カメラ・DPE",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39658,
+                    34.48846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "つじ整骨院",
+                "address": "忠岡町忠岡南１－２２－１８",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "その他",
+                "type": "整骨院",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39575,
+                    34.48903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "トラヤキ",
+                "address": "忠岡町忠岡南１－１８－２３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "飲食店",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39575,
+                    34.48903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼みなみ一丁目",
+                "address": "忠岡町忠岡南１－１６－１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3954,
+                    34.48981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "コーヒーハウスふくろう",
+                "address": "忠岡町忠岡南１－１４－１３",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://ameblo.jp/coffee3jp",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶店",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39485,
+                    34.49017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炭火焼き鳥　もみじ",
+                "address": "忠岡町忠岡東２－８－５",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4019,
+                    34.48899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "七五三屋",
+                "address": "忠岡町忠岡東２－１６－２７",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://www.facebook.com/1242220352543459/",
+                "industry": "食事提供施設",
+                "type": "お好み焼き屋",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39948,
+                    34.49089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶サンルーム",
+                "address": "忠岡町忠岡東１－３４－１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶店",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40097,
+                    34.48744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ｎ白木屋 忠岡東口駅前店",
+                "address": "忠岡町忠岡東１－１３２－６　ショップ南海忠岡　１階",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39932,
+                    34.48562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶　リボン",
+                "address": "忠岡町忠岡東１－２１－４０",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39883,
+                    34.49047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ここぽん",
+                "address": "忠岡町忠岡東１－２１－３４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39883,
+                    34.49047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックLOVE",
+                "address": "忠岡町忠岡東１－２１－３４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "カラオケスナック",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39883,
+                    34.49047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "越中五位山村",
+                "address": "忠岡町忠岡東１－２１－３４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39883,
+                    34.49047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋",
+                "address": "忠岡町忠岡東１－２１－３４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39883,
+                    34.49047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鶏人",
+                "address": "忠岡町忠岡東１－２１－３４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39883,
+                    34.49047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "東一番街",
+                "address": "忠岡町忠岡東１－２１－３４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39883,
+                    34.49047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "karaokejun",
+                "address": "忠岡町忠岡東１－２１－３４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39883,
+                    34.49047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KARAOKE成",
+                "address": "忠岡町忠岡東１－２１－３４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39883,
+                    34.49047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　あそこ",
+                "address": "忠岡町忠岡東１－２１－３４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39883,
+                    34.49047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "三代目　中華料理　やっこ",
+                "address": "忠岡町忠岡東１－２１－３１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華料理店",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39883,
+                    34.49047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックみぃ",
+                "address": "忠岡町忠岡東１－２１ー３４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39883,
+                    34.49047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "イング忠岡校",
+                "address": "忠岡町忠岡東１－２０－２６",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://www.ing-school.jp/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39828,
+                    34.48966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "じょい整体整骨院",
+                "address": "忠岡町忠岡東１－２０－２２",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://joydeenjoy.com/",
+                "industry": "その他",
+                "type": "整骨院",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39828,
+                    34.48966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　遥",
+                "address": "忠岡町忠岡東１－２７１－１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39972,
+                    34.48527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "忠岡東1番街",
+                "address": "忠岡町忠岡東１－２７１－１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39972,
+                    34.48527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪信用金庫　忠岡支店",
+                "address": "忠岡町忠岡東１－１８－１４",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "信用金庫",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39861,
+                    34.48889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "食べ処　呑み処　いまむら",
+                "address": "忠岡町忠岡東１－１６－１　スペース西村　一階",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3983,
+                    34.48813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "じゃんぼ總本店　忠岡駅前店",
+                "address": "忠岡町忠岡東１－１５－１９",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39804,
+                    34.48845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美容室チャーム",
+                "address": "忠岡町忠岡東１－１５－１８",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39804,
+                    34.48845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "やきとり大吉　忠岡店",
+                "address": "忠岡町忠岡東１－１４－１７",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39772,
+                    34.48778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶　茜",
+                "address": "忠岡町忠岡東１一８一１８",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40004,
+                    34.48809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "皐蘆",
+                "address": "忠岡町忠岡東１－２６０",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.40004,
+                    34.48809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "パドック",
+                "address": "忠岡町忠岡中１－２－１０",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39671,
+                    34.48968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CBBASE",
+                "address": "忠岡町忠岡中１－１１－２５",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.39758,
+                    34.4897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉みげん",
+                "address": "忠岡町高月北１－４－１",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.41614,
+                    34.47848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "園",
+                "address": "忠岡町高月北１－１－１６",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.41528,
+                    34.47866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リハこどもデイ フクシア",
+                "address": "忠岡町高月南３－８－３７",
+                "icon": "restaurant",
+                "munic": "忠岡町",
+                "hp": "https://ground-ivy.co.jp/kids/",
+                "industry": "その他",
+                "type": "障がい児通所支援事業",
+                "url": "tadaokachou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.41383,
+                    34.47789
+                ]
+            }
+        }
+    ]
+}

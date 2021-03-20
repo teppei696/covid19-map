@@ -1,0 +1,6305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉大門",
+                "address": "大阪狭山市茱萸木６－９５０の１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5531,
+                    34.4849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケスタジオ　都呂々",
+                "address": "大阪狭山市茱萸木６－９５０－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ喫茶",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5531,
+                    34.4849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "テッパンキッチン　るぱん",
+                "address": "大阪狭山市茱萸木６－９５０－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お好み焼き。居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5531,
+                    34.4849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "翠陽",
+                "address": "大阪狭山市茱萸木６－９５０－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華料理店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5531,
+                    34.4849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉1129　狭山店",
+                "address": "大阪狭山市茱萸木６－９２３－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.matsuya-gr.com/shop/list.php?s_id=3",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉レストラン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5531,
+                    34.4849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アチェルボ",
+                "address": "大阪狭山市茱萸木６－８０８　",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "イタリア料理店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55133,
+                    34.48578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼き樹菜",
+                "address": "大阪狭山市茱萸木６－８０５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55247,
+                    34.48594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼　樹菜",
+                "address": "大阪狭山市茱萸木６ー８０５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55247,
+                    34.48594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "つけ麺純情屋",
+                "address": "大阪狭山市茱萸木６－７８１－４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55222,
+                    34.48646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マッハ車検 大阪狭山店",
+                "address": "大阪狭山市茱萸木６－１９３４－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://yoshidaauto.co.jp/",
+                "industry": "個人向けサービス",
+                "type": "自動車",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55397,
+                    34.48403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新車市場 大阪狭山店",
+                "address": "大阪狭山市茱萸木６－１９３４－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://yoshidaauto.co.jp/",
+                "industry": "個人向けサービス",
+                "type": "自動車",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55397,
+                    34.48403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LaVie",
+                "address": "大阪狭山市茱萸木６－１９２１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.apakabar-co.jp",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5531,
+                    34.4849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋家庭料理穂菜",
+                "address": "大阪狭山市茱萸木６５６－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55269,
+                    34.48375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中華料理　清流",
+                "address": "大阪狭山市茱萸木２－４７９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華料理",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55106,
+                    34.49124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "日産大阪販売株式会社　狭山北店",
+                "address": "大阪狭山市茱萸木２－４５０－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "自動車ディーラー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55106,
+                    34.49124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "缶詰BAR　３６９　さやま",
+                "address": "大阪狭山市茱萸木２－４２８－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55106,
+                    34.49124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "十割蕎麦　香寿庵　狭山別館",
+                "address": "大阪狭山市茱萸木２－４２８－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55106,
+                    34.49124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "然",
+                "address": "大阪狭山市茱萸木２－３９８－２４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ランチ店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55106,
+                    34.49124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼きジャンボ",
+                "address": "大阪狭山市茱萸木２－３２５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54947,
+                    34.49303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪スバル（株）狭山店",
+                "address": "大阪狭山市茱萸木７－２０９７－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "その他",
+                "type": "自動車ディーラー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55742,
+                    34.47944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "残波岬",
+                "address": "大阪狭山市茱萸木７－１３４７－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55545,
+                    34.48108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶たろう",
+                "address": "大阪狭山市茱萸木７－１３４７－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55545,
+                    34.48108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アルファーオートカンパニー",
+                "address": "大阪狭山市茱萸木７－１２７６－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "自動車販売店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55472,
+                    34.48215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Momo Nails",
+                "address": "大阪狭山市茱萸木７－１１８０　パルネット２Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "ネイル、マツエクサロン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55472,
+                    34.48215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミスタードーナツＲ３１０さやまショップ",
+                "address": "大阪狭山市茱萸木７－１１８０",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55472,
+                    34.48215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "狭山店",
+                "address": "大阪狭山市茱萸木７－２０９４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "カーディーラー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55455,
+                    34.48036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "香瑞",
+                "address": "大阪狭山市茱萸木４ー６３－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54811,
+                    34.48974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和食さと　狭山店",
+                "address": "大阪狭山市茱萸木４－４８４－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ファミレス",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55009,
+                    34.49009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "りらくる狭山くみの木店",
+                "address": "大阪狭山市茱萸木４－４４８－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://relxle.com/",
+                "industry": "その他",
+                "type": "リラクゼーションスペース",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55009,
+                    34.49009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "びっくりドンキー 大阪狭山店",
+                "address": "大阪狭山市茱萸木４－３７２－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.bms-inc.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ハンバーグレストラン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54903,
+                    34.49198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "トヨタカローラ南海株式会社　狭山店",
+                "address": "大阪狭山市茱萸木４－３７１－１　",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://nankai.corolla-dealer.jp/store/sayama",
+                "industry": "個人向けサービス",
+                "type": "自動車ディーラー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54903,
+                    34.49198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "香の川製麺狭山くみの木店",
+                "address": "大阪狭山市茱萸木４－３２６－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54903,
+                    34.49198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪狭山",
+                "address": "大阪狭山市茱萸木４－３０４－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.kiraku-g.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "とんかつ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54903,
+                    34.49198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ酒場 y.s",
+                "address": "大阪狭山市茱萸木４－２４４－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54721,
+                    34.49276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "狭山亀の甲店",
+                "address": "大阪狭山市茱萸木３－９７－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54689,
+                    34.49695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "八剣食堂　亀の甲交差点前店",
+                "address": "大阪狭山市茱萸木３－９７－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54689,
+                    34.49695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "讃岐うどん　いってつ",
+                "address": "大阪狭山市茱萸木３－２４５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54808,
+                    34.49385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "イル・ディスティーノ",
+                "address": "大阪狭山市茱萸木３－１６１　２Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54765,
+                    34.49547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ごはんcafe　girasole",
+                "address": "大阪狭山市茱萸木３－１６０",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54765,
+                    34.49547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "㈱大阪さやま交通",
+                "address": "大阪狭山市茱萸木３－１３８１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://travel.willer.co.jp/",
+                "industry": "その他",
+                "type": "高速乗合バス",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54765,
+                    34.49547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ館 大阪狭山店",
+                "address": "大阪狭山市茱萸木３－１００－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://karaokekan.jp/index.html",
+                "industry": "遊興施設",
+                "type": "カラオケ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54689,
+                    34.49695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "産直焼肉ビーファーズ　さやま本店",
+                "address": "大阪狭山市茱萸木５－６９５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://beefars.com/restaurant/yakiniku/sayama",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉レストラン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55206,
+                    34.48721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Papillon",
+                "address": "大阪狭山市茱萸木５－６５６－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "スナック",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55125,
+                    34.48809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "lirio",
+                "address": "大阪狭山市茱萸木５－６５６－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55125,
+                    34.48809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック遊名人",
+                "address": "大阪狭山市茱萸木５－６５６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55125,
+                    34.48809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックここ路",
+                "address": "大阪狭山市茱萸木５－６５６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55125,
+                    34.48809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ネッツトヨタ南海株式会社　狭山店",
+                "address": "大阪狭山市茱萸木５－６１４－１　",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://nankai.netz-toyota-dealer.jp/store/sayama",
+                "industry": "個人向けサービス",
+                "type": "自動車ディーラ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55125,
+                    34.48809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カレーハウスCoCo壱番屋大阪狭山くみの木店",
+                "address": "大阪狭山市茱萸木５－５０７－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カレーハウス",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55067,
+                    34.48908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ダイソー大阪狭山くみの木店",
+                "address": "大阪狭山市茱萸木５－５０７－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "ディスカウントストア",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55067,
+                    34.48908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "しゃぶ葉大阪狭山店",
+                "address": "大阪狭山市茱萸木１－９６－１\t",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.skylark.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ファミリーレストラン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54793,
+                    34.49746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "にしむら鍼灸治療院",
+                "address": "大阪狭山市東茱萸木１－１７５７－１８４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.nishimura-harikyu.com/",
+                "industry": "その他",
+                "type": "鍼灸院",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54793,
+                    34.49746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "granci",
+                "address": "大阪狭山市茱萸木６―７８１－４　エレガンスくみのき１Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.apakabar-co.jp",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54863,
+                    34.49611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ビッグボーイ　狭山店",
+                "address": "大阪狭山市茱萸木１－２７０３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54782,
+                    34.49878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "kinboshi pasta cafe",
+                "address": "大阪狭山市茱萸木１－２７０２－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54782,
+                    34.49878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "山海居酒屋 夜市",
+                "address": "大阪狭山市茱萸木１－２６９－５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54919,
+                    34.4944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉あそこ",
+                "address": "大阪狭山市茱萸木１－２１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54942,
+                    34.49824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶スマイル",
+                "address": "大阪狭山市茱萸木１ー１６０",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54919,
+                    34.4944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "麺屋ふくちぁん　狭山店",
+                "address": "大阪狭山市茱萸木１－１５５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.fukuchan.co.jp/brand_menya/menya.htm",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ラーメン店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54863,
+                    34.49611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "riff design labo",
+                "address": "大阪狭山市茱萸木１－１４３８－６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.riff-hair.com",
+                "industry": "その他",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54919,
+                    34.4944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ピザハット狭山亀の甲店",
+                "address": "大阪狭山市茱萸木１１０－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://pizzahut.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ピザデリバリー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54874,
+                    34.49676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ワンカルビ狭山店",
+                "address": "大阪狭山市半田６－１１９７－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5549,
+                    34.499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "とりでん狭山店",
+                "address": "大阪狭山市半田６－１１９０－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55687,
+                    34.49914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "さん天　金剛店",
+                "address": "大阪狭山市半田６－１１８３－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://sato-res.com/santen/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "天ぷら屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55687,
+                    34.49914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "T.D.S(Tomomi Dance Space)ダンス＆カルチャースクール",
+                "address": "大阪狭山市半田６－１１５７－１　２Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://tomomitds.com",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "ダンス・バレエ・ヨガスクール",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55687,
+                    34.49914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鉄板居酒屋まんぷく",
+                "address": "大阪狭山市半田６－１１２９－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55647,
+                    34.5001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炭火焼鳥ときわや",
+                "address": "大阪狭山市半田６－１１２９－１３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼鳥屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55647,
+                    34.5001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "華恋",
+                "address": "大阪狭山市半田２－５５４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55954,
+                    34.49389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "立ち呑み処ひろ",
+                "address": "大阪狭山市半田２－５５４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "立ち呑み処",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55954,
+                    34.49389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ぎょうざ屋実は...29",
+                "address": "大阪狭山市半田２－４６８－４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55907,
+                    34.49379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック　クラウン",
+                "address": "大阪狭山市半田２－３５７－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55807,
+                    34.49294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ　のこ",
+                "address": "大阪狭山市半田２－３５７－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55807,
+                    34.49294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "みわカイロプラクティック整体院",
+                "address": "大阪狭山市半田２－２９０－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.miwachiro.com/",
+                "industry": "生活必需サービス",
+                "type": "整体",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55725,
+                    34.49166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "肉処さだ源",
+                "address": "大阪狭山市半田２－２５１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "精肉専門店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55725,
+                    34.49166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ワインバー　グランヴァン",
+                "address": "大阪狭山市半田２－２４８－３　パインリバー１Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "ワインバー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55608,
+                    34.49246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スティル",
+                "address": "大阪狭山市半田２－２２４－６１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.steel-hc.com/",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55818,
+                    34.49385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鉄板ダイニング夢元",
+                "address": "大阪狭山市半田２－２２４－６１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55818,
+                    34.49385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EyelashsalonBullseye　金剛店",
+                "address": "大阪狭山市半田２－４６７－８　３階",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "まつ毛エクステサロン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55815,
+                    34.49187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "狭山高校内食堂",
+                "address": "大阪狭山市半田４－１５１０",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55038,
+                    34.49514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪府立狭山高等学校",
+                "address": "大阪狭山市半田４－１５１０",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "運動施設・遊戯施設",
+                "type": "運動施設・遊戯施設",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55038,
+                    34.49514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ジョー　ズッカー",
+                "address": "大阪狭山市半田３－１７４５－６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5554,
+                    34.49228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋 こやまん",
+                "address": "大阪狭山市半田３－１７４５－６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5554,
+                    34.49228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "うをしげ",
+                "address": "大阪狭山市半田３－１７４４－１１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.uwosige.jp/",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5553,
+                    34.49291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ波",
+                "address": "大阪狭山市半田３－１７４４－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5553,
+                    34.49291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たこ焼き　curu curu",
+                "address": "大阪狭山市半田３－１６１１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55212,
+                    34.49401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スシロー狭山店",
+                "address": "大阪狭山市半田５－１２２９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.akindo-sushiro.co.jp/",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55334,
+                    34.49737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ じゅまん",
+                "address": "大阪狭山市半田１７４５－１３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55447,
+                    34.49564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "創彩食堂ICHIKA",
+                "address": "大阪狭山市半田１－８－７",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "食堂",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55766,
+                    34.49623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "馬渕個別 金剛校",
+                "address": "大阪狭山市半田１－６７２－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.willway.ne.jp/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55765,
+                    34.49779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鉄板バル　アンバー",
+                "address": "大阪狭山市半田１－６７２－１０",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55765,
+                    34.49779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIZZAOKA",
+                "address": "大阪狭山市半田１－６７１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://akr6185459512.owst.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ピッツァ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55899,
+                    34.49651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "レッドリボーン",
+                "address": "大阪狭山市半田１－６７１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "たこ焼き",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55899,
+                    34.49651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "骨付鳥　鳥福",
+                "address": "大阪狭山市半田１－６７１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55899,
+                    34.49651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hair House Chou-Chou",
+                "address": "大阪狭山市半田１－６６９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "その他",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55899,
+                    34.49651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "明光義塾　金剛教室",
+                "address": "大阪狭山市半田１－６５１－１　浦島第２ビル",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.meikogijuku.jp/school/osaka/osakasayama-shi/S0307/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55899,
+                    34.49651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "yogastudio KALANI",
+                "address": "大阪狭山市半田１－６４９　宮崎店舗２階奥",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.yogakalani.com",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "ヨガ教室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55766,
+                    34.49623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "パスタ超専門店 Okuda Pasta",
+                "address": "大阪狭山市半田１－６４７－３　１階店舗",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55869,
+                    34.49572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "現役大学受験専門塾　高学館　金剛校",
+                "address": "大阪狭山市半田１－６２４－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.kougakukan.jp",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55869,
+                    34.49633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "えんどう整骨院",
+                "address": "大阪狭山市半田１－６２４－１１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "医療機関",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55869,
+                    34.49633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "酒彩とっさま",
+                "address": "大阪狭山市半田１－６２２－１　ウェスティ金剛Ｂ１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55869,
+                    34.49572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VERDUR HOUSE",
+                "address": "大阪狭山市半田１－６２２－１　ウェスティ金剛３Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ショットバー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55869,
+                    34.49572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックれんと",
+                "address": "大阪狭山市半田１－６２２－１　ウエスティン金剛ＢＦ１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55869,
+                    34.49572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　KONGO GONBE",
+                "address": "大阪狭山市半田１－６２２－１　",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55869,
+                    34.49572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KONGO GONBE",
+                "address": "大阪狭山市半田１－６２２－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55869,
+                    34.49572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "かわち",
+                "address": "大阪狭山市半田１－６２２－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "食堂（うどん　そば　定食　丼等）",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55869,
+                    34.49572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ｌｅ　ｃｏｃｏｎ",
+                "address": "大阪狭山市半田１－６２２－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://lecocon-facial.com",
+                "industry": "個人向けサービス",
+                "type": "エステサロン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55869,
+                    34.49572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "クラスモ金剛駅前店",
+                "address": "大阪狭山市半田１－６２０－４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://kongo-ekimae.clasmo.jp/",
+                "industry": "その他",
+                "type": "不動産仲介",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55869,
+                    34.49572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "イング金剛校",
+                "address": "大阪狭山市半田１－６１８－１　宮崎ビル２Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.ing-school.jp/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5589,
+                    34.49495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "味音",
+                "address": "大阪狭山市半田１－６１８－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "お弁当・お惣菜販売",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5589,
+                    34.49495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スタジオ　ピヨピヨ",
+                "address": "大阪狭山市半田１－５－８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55811,
+                    34.49545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "きらめき",
+                "address": "大阪狭山市半田１－２３５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "こなもん屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55811,
+                    34.49545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金剛酒場フリースタイル",
+                "address": "大阪狭山市半田１－５９５－１９　グランベール２　２階",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5589,
+                    34.49495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "一軒目",
+                "address": "大阪狭山市半田１－５９５－１９",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5589,
+                    34.49495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "八剣伝　金剛駅前店",
+                "address": "大阪狭山市半田１－５９５－１９",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5589,
+                    34.49495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HAIR　MAKE　UE2　SEED店",
+                "address": "大阪狭山市半田１－５９５－１２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.ue2.jp",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5589,
+                    34.49495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "馬渕教室 金剛駅前校",
+                "address": "大阪狭山市半田１－５９５－１０",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.willway.ne.jp/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5589,
+                    34.49495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "七福堂金剛店",
+                "address": "大阪狭山市半田１－３５ー１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "お好み焼きたこ焼き屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55765,
+                    34.49779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ディッパーダンイオン金剛",
+                "address": "大阪狭山市半田１－３５－１　イオン金剛店内",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://dipperdan.jp",
+                "industry": "その他",
+                "type": "クレープ店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55765,
+                    34.49779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "笑福亭",
+                "address": "大阪狭山市半田１－３５－１　イオン金剛店内",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ラーメン屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55765,
+                    34.49779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "イオン金剛店",
+                "address": "大阪狭山市半田１－３５－１　イオン金剛店３階",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.24028.jp/",
+                "industry": "生活必需物資供給",
+                "type": "スーパーマーケット",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55765,
+                    34.49779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "講談社すこやか教室",
+                "address": "大阪狭山市半田１－３５－１　イオン金剛店３階",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.kodansha-pal.co.jp",
+                "industry": "自動車教習所、学習塾等",
+                "type": "こども教室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55765,
+                    34.49779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ドムドム金剛店",
+                "address": "大阪狭山市半田１－３５－１　イオン金剛店１階",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "外食産業",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55765,
+                    34.49779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ハニーズイオン金剛店",
+                "address": "大阪狭山市半田１－３５－１　イオン金剛店　２Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "その他",
+                "type": "アパレル",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55765,
+                    34.49779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QBハウス　金剛店",
+                "address": "大阪狭山市半田１－３５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.qbhouse.co.jp/",
+                "industry": "生活必需サービス",
+                "type": "ヘアカット",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55765,
+                    34.49779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "串八珍",
+                "address": "大阪狭山市半田１－２２４－８４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55711,
+                    34.49471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KAINO金剛店",
+                "address": "大阪狭山市半田１－２２４－４８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://kaino.co.jp/",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55711,
+                    34.49471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "はりまや",
+                "address": "大阪狭山市半田１－２２４－１７８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "寿司屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55711,
+                    34.49471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鳥貴族　金剛店",
+                "address": "大阪狭山市半田１－２２４－１７８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.torikizoku.co.jp/shops/detail/316",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55711,
+                    34.49471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "履正スイミングクラブ金剛",
+                "address": "大阪狭山市半田１－１６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://risei-sc.com/kongo/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "スイミングクラブ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55766,
+                    34.49623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "セイハ英語学院 履正スイミング金剛教室",
+                "address": "大阪狭山市半田１－１６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.seiha.com/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "英会話学習教室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55766,
+                    34.49623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "コ・ス・パ　金剛",
+                "address": "大阪狭山市半田１－１１８６－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "フィットネスクラブ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55614,
+                    34.49811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大起水産回転寿司はなれ　金剛店",
+                "address": "大阪狭山市半田１－１１８６－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.daiki-suisan.co.jp/kongou_sushi/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "回転寿司",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55614,
+                    34.49811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LegoHair",
+                "address": "大阪狭山市半田１－１１８５－１　松本ビル１階",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://lego-hair.com/",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55765,
+                    34.49779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ドリームハート",
+                "address": "大阪狭山市半田１－１１６７－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.hibiki-ai.jp",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55765,
+                    34.49779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "くら寿司くみの木店",
+                "address": "大阪狭山市東茱萸木２－８４０－４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.kurasushi.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "回転寿司",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55345,
+                    34.48636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "がんこ大阪狭山店",
+                "address": "大阪狭山市東茱萸木２－７７５－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.gankofood.co.jp/shop/detail/wa-osakasayama",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "レストラン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55345,
+                    34.48636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "のみ処くい処琴彩狭山店",
+                "address": "大阪狭山市東茱萸木４－２１１５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55823,
+                    34.47988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TON-TOCO HAIR‘S トントコヘアーズ",
+                "address": "大阪狭山市東茱萸木３－２２８５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.558,
+                    34.48825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アルマリオ",
+                "address": "大阪狭山市東茱萸木１－７７９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容・美容業",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55302,
+                    34.48682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美容室アルマリオ",
+                "address": "大阪狭山市東茱萸木１－７７９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容・美容業",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55302,
+                    34.48682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "加寿屋　大阪狭山店",
+                "address": "大阪狭山市東茱萸木１－７４２－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://aburakasu.com/71592/%E5%BA%97%E8%88%97/#87",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55293,
+                    34.48772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "すき家　310大阪狭山店",
+                "address": "大阪狭山市東茱萸木１－６９１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "牛丼屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55293,
+                    34.48772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "樽っ子",
+                "address": "大阪狭山市東茱萸木１－６１３－８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55255,
+                    34.48869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "本格インド料理　プジャ",
+                "address": "大阪狭山市東茱萸木１－５０９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55188,
+                    34.48968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "おか田家",
+                "address": "大阪狭山市東茱萸木１－５０９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55188,
+                    34.48968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "本格インド料理プジャ狭山店",
+                "address": "大阪狭山市東茱萸木１ー５０９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55188,
+                    34.48968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "旬菜　花椿",
+                "address": "大阪狭山市東野西２－８３７　虹の湯　大阪狭山店内",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55511,
+                    34.52365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アーラキッチン",
+                "address": "大阪狭山市東野西２－８３６－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.instagram.com/ala__kitchen/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "イタリアン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55498,
+                    34.52387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "パリーネ狭山店",
+                "address": "大阪狭山市東野西４－７７６－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "パン屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55539,
+                    34.52702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "株式会社　落合モータース",
+                "address": "大阪狭山市東野西３－６８８－５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.o-motors.jp/",
+                "industry": "その他",
+                "type": "自動車整備・販売",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5571,
+                    34.52554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "狭山かがやき広場",
+                "address": "大阪狭山市東池尻６－１６４７",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.pref.osaka.lg.jp/nambugesui/index.html",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "屋外運動広場",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56255,
+                    34.51515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "梅の枝介護タクシー",
+                "address": "大阪狭山市東池尻２－１２８１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.city.osakasayama.osaka.jp/",
+                "industry": "その他",
+                "type": "介護タクシー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55594,
+                    34.51198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミュージックスタジオ１２３",
+                "address": "大阪狭山市東池尻４　１０３９－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55521,
+                    34.51492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "呑み処カントリーロード",
+                "address": "大阪狭山市東池尻１－１９０３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55931,
+                    34.50896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BANDE BETTER",
+                "address": "大阪狭山市池之原２－９６４－１０",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://bandebetter.net",
+                "industry": "その他",
+                "type": "服屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54526,
+                    34.50523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "狭山池之原食堂",
+                "address": "大阪狭山市池之原２－１１０５－４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "和食",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54692,
+                    34.5018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "餃子の王将　亀の甲店",
+                "address": "大阪狭山市池之原２－１１０４－４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華レストラン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54692,
+                    34.5018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ジョーシン 狭山店",
+                "address": "大阪狭山市池之原３　１０５２－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "家電量販店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54694,
+                    34.5027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和艸庵",
+                "address": "大阪狭山市池之原４－９７４－７",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54416,
+                    34.50512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大国うどん",
+                "address": "大阪狭山市池之原４－８９６－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "うどん屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54344,
+                    34.50734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鍋物酒場いっぷく",
+                "address": "大阪狭山市池之原４－８７２－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.ippku129.com/sp/",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54344,
+                    34.50734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "イタリア家庭料理グウフォ",
+                "address": "大阪狭山市池之原３－１０３１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "イタリア料理店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5455,
+                    34.50315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉くらべこ狭山店",
+                "address": "大阪狭山市池之原３　１０３９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://kurabeko.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5451,
+                    34.50176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "若丸",
+                "address": "大阪狭山市池之原１－９３９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5444,
+                    34.50748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉東野　狭山店",
+                "address": "大阪狭山市池之原１－８８５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5444,
+                    34.50748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丸亀製麺大阪狭山",
+                "address": "大阪狭山市池之原１－８２９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.marugame-seimen.com/",
+                "industry": "食事提供施設",
+                "type": "うどん",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54524,
+                    34.5088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶通",
+                "address": "大阪狭山市池尻中２－８－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55174,
+                    34.51133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "じゃじゃまる　みさき",
+                "address": "大阪狭山市池尻中２－１１－１４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55176,
+                    34.51065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sayama history cafe",
+                "address": "大阪狭山市池尻中２－狭山池博物館内",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5519,
+                    34.51036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪府立狭山池博物館",
+                "address": "大阪狭山市池尻中２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://sayamaikehaku.osakasayama.osaka.jp/",
+                "industry": "博物館、美術館、図書館",
+                "type": "博物館",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5519,
+                    34.51036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "無添加kitchen salon de bonheur",
+                "address": "大阪狭山市池尻中３－１８－２９",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://kitchen-bonheur.crayonsite.net/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "パン教室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55017,
+                    34.51076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "介護タクシー　きずな",
+                "address": "大阪狭山市池尻中１－２９－３６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://kizuna294.jimdofree.com/",
+                "industry": "その他",
+                "type": "介護タクシー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54791,
+                    34.51262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "懐石料理加賀",
+                "address": "大阪狭山市池尻中１－２９－２８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.kaga1995.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "日本料理店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54791,
+                    34.51262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dining わさび",
+                "address": "大阪狭山市池尻中１－２９",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54791,
+                    34.51262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "がんも",
+                "address": "大阪狭山市池尻中１－２６－１３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54808,
+                    34.51136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "さやま駅前整骨院",
+                "address": "大阪狭山市池尻中１－１－２　ショップ南海さやま１Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "その他",
+                "type": "整骨院",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54796,
+                    34.51682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "食堂やまだ",
+                "address": "大阪狭山市池尻自由丘１ー３ー２１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "食堂",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54701,
+                    34.51168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶　タイム",
+                "address": "大阪狭山市大野東２－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54796,
+                    34.47034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DOGGYM Shake!",
+                "address": "大阪狭山市大野東２０６９－４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55122,
+                    34.4729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ孫",
+                "address": "大阪狭山市大野中２３０－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54663,
+                    34.47152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大吉 狭山店",
+                "address": "大阪狭山市大野台６－１－９",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "焼鳥屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.53856,
+                    34.48365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ダイソー狭山ニュータウン店",
+                "address": "大阪狭山市大野台２－１－５８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "ディスカウントストア",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54469,
+                    34.4831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "奏カナデ鍼灸整骨院",
+                "address": "大阪狭山市大野台２－１－１７",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "その他",
+                "type": "整骨院",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54469,
+                    34.4831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "男爵狭山店",
+                "address": "大阪狭山市大野台２－１－１７",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.danshaku-sayama.com/",
+                "industry": "生活必需サービス",
+                "type": "理容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54469,
+                    34.4831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヘアーサロン　ピノキオ",
+                "address": "大阪狭山市大野台２－１９－６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "その他",
+                "type": "理容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5423,
+                    34.48321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炭火焼イタリアン　ラ・パーチェ",
+                "address": "大阪狭山市大野台２－１９－５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5423,
+                    34.48321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "グリーンアイランド",
+                "address": "大阪狭山市大野台２－１９－１１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://g-island.com/",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5423,
+                    34.48321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "すし処そら",
+                "address": "大阪狭山市大野台２－１９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5423,
+                    34.48321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "きよみ整骨院",
+                "address": "大阪狭山市大野台２－１９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "その他",
+                "type": "整骨院",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5423,
+                    34.48321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鉄板鍋屋　笑家",
+                "address": "大阪狭山市大野台２－１９－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ホルモン鍋屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5423,
+                    34.48321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "トータルエクササイズスタジオFeeLink",
+                "address": "大阪狭山市大野台２－１８－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://feelink.jp/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "ピラティススタジオ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5432,
+                    34.48246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "松陰塾大阪狭山校",
+                "address": "大阪狭山市大野台２－１４－１８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://showin-juku.jp/osakasayama/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54366,
+                    34.48213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヘアカットありも",
+                "address": "大阪狭山市大野台２－１４－１　西側店舗",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.arimocut.com/",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54366,
+                    34.48213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お食事処　しょうちゃん",
+                "address": "大阪狭山市大野台２－１３－８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54448,
+                    34.48268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "パソコン教室フレンドさやま",
+                "address": "大阪狭山市大野台２－１３－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.eonet.ne.ji/~pcsayama",
+                "industry": "自動車教習所、学習塾等",
+                "type": "パソコン教室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54448,
+                    34.48268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOB CAF",
+                "address": "大阪狭山市大野台２－１３－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.facebook.com/nobcafe",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ喫茶店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54448,
+                    34.48268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "太田鍼灸整骨院",
+                "address": "大阪狭山市大野台２－１３－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://ohta-seikotsuin.com",
+                "industry": "その他",
+                "type": "鍼灸整骨院",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54448,
+                    34.48268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大黒屋　たこ彦",
+                "address": "大阪狭山市大野台２－１３－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "たこ焼き屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54448,
+                    34.48268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マサルイカリ寿司株式会社　狭山店",
+                "address": "大阪狭山市大野台７－４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.53625,
+                    34.48439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salon de DeCo",
+                "address": "大阪狭山市大野台７－１－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理髪店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.53717,
+                    34.48458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salon de DeCo（サロンドデコ）",
+                "address": "大阪狭山市大野台７－１－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://coubic.com/salondedeco/379808",
+                "industry": "個人向けサービス",
+                "type": "理容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.53717,
+                    34.48458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cafe AINA HAINA",
+                "address": "大阪狭山市大野台４－３－１５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54652,
+                    34.47521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "渚",
+                "address": "大阪狭山市大野台４－３－１３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54652,
+                    34.47521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鮨・和菜の心　横山",
+                "address": "大阪狭山市大野台４－３－１２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "鮨屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54652,
+                    34.47521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "うす皮餃子専門店ぎょうざ太郎",
+                "address": "大阪狭山市大野台４－３－１１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54652,
+                    34.47521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大吉大野台店",
+                "address": "大阪狭山市大野台４－３－１１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼き鳥",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54652,
+                    34.47521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "葡萄の丘",
+                "address": "大阪狭山市大野台４－２－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://budonooka.owst.jp",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ベーカリーレストラン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54752,
+                    34.47557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "とんかつ鶴亀",
+                "address": "大阪狭山市大野台４－１－１８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54718,
+                    34.47649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カレーハウス　杏具",
+                "address": "大阪狭山市大野台４－１０－５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カレー屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54535,
+                    34.47537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アーセンウェア",
+                "address": "大阪狭山市大野台３－４－４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "レストラン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54449,
+                    34.47981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ステーキハウスメルロー",
+                "address": "大阪狭山市大野台３－２７－９",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54784,
+                    34.47847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "trattoria cibi",
+                "address": "大阪狭山市大野台３－２７－７",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54784,
+                    34.47847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COTTY",
+                "address": "大阪狭山市大野台３－１９－８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.riff-hair.com",
+                "industry": "その他",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5407,
+                    34.47904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ネイルサロンRay",
+                "address": "大阪狭山市大野台３－１８－１４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "ネイルサロン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5414,
+                    34.47925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "モダン和食　かみや",
+                "address": "大阪狭山市大野台５－１－７　高橋ハイツ１Ｆ西",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54037,
+                    34.48322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ももの木",
+                "address": "大阪狭山市大野台１－３２－２６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54834,
+                    34.47946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSMIC BLUE",
+                "address": "大阪狭山市大野台１－３２－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "その他",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54834,
+                    34.47946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "プチレストラントルテュ",
+                "address": "大阪狭山市大野台１－２５－１６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54762,
+                    34.4802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大いちょう 狭山店",
+                "address": "大阪狭山市大野台１－２３－１２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.ooichou.com",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ちゃんこ鍋料理",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54681,
+                    34.48157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Indian dining ハスノハナ",
+                "address": "大阪狭山市大野台１－１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "インド料理",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54608,
+                    34.48365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ハスノハナ",
+                "address": "大阪狭山市大野台１－１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "インド料理",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54608,
+                    34.48365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "遊魚材菜  昭",
+                "address": "大阪狭山市大野台１－１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54608,
+                    34.48365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "遊魚材菜 昭",
+                "address": "大阪狭山市大野台１－１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "飲食店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54608,
+                    34.48365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bar plum pot",
+                "address": "大阪狭山市西山台６－１－３　２０１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "Bar",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5424,
+                    34.49091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BREAD&",
+                "address": "大阪狭山市西山台６－１－１９",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "パン屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5424,
+                    34.49091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Soleil WAGURI",
+                "address": "大阪狭山市西山台６－１－１５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://r.gnavi.co.jp/c671100/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "フランス料理店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5424,
+                    34.49091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "京茶房くるみ",
+                "address": "大阪狭山市西山台６－１－１５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5424,
+                    34.49091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洋食のラグー",
+                "address": "大阪狭山市西山台６－１ー１９",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://ragout.crayonsite.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "洋食レストラン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5424,
+                    34.49091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "colorful-smile",
+                "address": "大阪狭山市西山台６－１７－６－９０６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://colorful-smile-space.jimdofree.com",
+                "industry": "集会場、公会堂",
+                "type": "レンタルスペース",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.53786,
+                    34.48906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼鳥たっかん",
+                "address": "大阪狭山市西山台６－１３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54126,
+                    34.4898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "パティスリーNANA",
+                "address": "大阪狭山市西山台２－１３－１８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品製造業",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54504,
+                    34.48473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ひろじい",
+                "address": "大阪狭山市西山台２－１３－１７",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "弁当、総菜",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54504,
+                    34.48473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "創作和食　風雅",
+                "address": "大阪狭山市西山台２－１３－１７",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://washoku-fuga.blogspot.com",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "和食",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54504,
+                    34.48473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炭火焼鳥まごころ",
+                "address": "大阪狭山市西山台３－五番七",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54298,
+                    34.48656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "べんてんそば",
+                "address": "大阪狭山市西山台３－５－８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54298,
+                    34.48656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "クチーナシラカワ",
+                "address": "大阪狭山市西山台３－２－５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54198,
+                    34.48769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉　一心",
+                "address": "大阪狭山市西山台３－２－５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54198,
+                    34.48769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉一心",
+                "address": "大阪狭山市西山台３－２ー５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://hitosara.com/0006135533/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54198,
+                    34.48769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶　寿々",
+                "address": "大阪狭山市西山台３－２－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54198,
+                    34.48769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "憩いのパソコン教室 すまいる",
+                "address": "大阪狭山市西山台３－１５－９",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.smile-pc.com/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "パソコン教室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54291,
+                    34.48402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ダン珈琲商会",
+                "address": "大阪狭山市西山台３－１３－８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54451,
+                    34.48378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リハビリ整体サロンKOKOJI",
+                "address": "大阪狭山市西山台３－５－１９　ラ・モアレ１ビル２Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://osaka-sayama-kokoji.com/",
+                "industry": "生活必需サービス",
+                "type": "整体院",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.53941,
+                    34.48841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AT介護タクシー　高橋　章",
+                "address": "大阪狭山市山本南３８－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.city.osakasayama.osaka.jp/",
+                "industry": "その他",
+                "type": "介護タクシー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.53687,
+                    34.50761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boston",
+                "address": "大阪狭山市山本南２１７－６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.apakabar-co.jp",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.53687,
+                    34.50761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喃風　大阪狭山店",
+                "address": "大阪狭山市山本東８００－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.nanpuu.co.jp/store/osaka-sayama/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お好み焼き屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54292,
+                    34.50969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炭火焼肉やまごろ",
+                "address": "大阪狭山市今熊６－３９７－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.yamagoro.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54358,
+                    34.49376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "のみ処くい処琴彩狭山西店",
+                "address": "大阪狭山市今熊６－３５４ー２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54358,
+                    34.49376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "レストラン　ミモザ",
+                "address": "大阪狭山市今熊６－３５４－１　サンハイツ今熊１Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54358,
+                    34.49376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "旬採酒場鉄板焼しげの亭",
+                "address": "大阪狭山市今熊６－３５４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54358,
+                    34.49376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "逢喜の郷",
+                "address": "大阪狭山市今熊７－１１１１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://ouki.jp",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ステーキハウス",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54066,
+                    34.49619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ハート",
+                "address": "大阪狭山市今熊４－６６５－３５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.53471,
+                    34.48833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼き　潤",
+                "address": "大阪狭山市今熊３－４３３－２３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54271,
+                    34.49234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックモグラ",
+                "address": "大阪狭山市今熊１－５４８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54468,
+                    34.49825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ふぐ厳",
+                "address": "大阪狭山市今熊１－８３－４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54355,
+                    34.49615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉みや狭山店",
+                "address": "大阪狭山市今熊１－７５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://miyasayama.owst.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54448,
+                    34.49685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "もりおか音楽教室",
+                "address": "大阪狭山市今熊１－７３－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://morioka-music.com",
+                "industry": "自動車教習所、学習塾等",
+                "type": "音楽教室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54355,
+                    34.49615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "おーじーライマン",
+                "address": "大阪狭山市今熊１－５５０－４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://ozworlds.jp/",
+                "industry": "その他",
+                "type": "障がい者福祉施設",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54573,
+                    34.49791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JOKER",
+                "address": "大阪狭山市今熊１－５４２－１　２０３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "バー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54573,
+                    34.49791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ラウンジ　ドルチェ",
+                "address": "大阪狭山市今熊１－５４２－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "ラウンジ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54573,
+                    34.49791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ｈｏｎｄａ　Ｃａｒｓ　大阪　狭山西店",
+                "address": "大阪狭山市今熊１－５２８",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.hondacars-osaka.jp/shop/sayamanishi/index.html",
+                "industry": "個人向けサービス",
+                "type": "自動車の販売及び関連するサービス",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54468,
+                    34.49825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "キッズ　アイ・ラボ",
+                "address": "大阪狭山市今熊１－１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://kids-i-labo.com/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "遊技場",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54573,
+                    34.49791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ビジョンメガネ　金剛店",
+                "address": "大阪狭山市金剛２－９－７",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.vision-megane.co.jp/shop/164/",
+                "industry": "生活必需物資供給",
+                "type": "メガネ屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56065,
+                    34.49939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "うどん天国",
+                "address": "大阪狭山市金剛２－１３－３６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55913,
+                    34.50243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "チャイニーズレストランコタン",
+                "address": "大阪狭山市金剛２－１３－３５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55913,
+                    34.50243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鶏酒彩 匠",
+                "address": "大阪狭山市金剛２－１３－３４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55913,
+                    34.50243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "うえむら鍼灸整骨院",
+                "address": "大阪狭山市金剛２－１３－２９",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "その他",
+                "type": "その他",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55913,
+                    34.50243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ジューダ　バレリーノ",
+                "address": "大阪狭山市金剛２－１３－２３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55913,
+                    34.50243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARMOLE",
+                "address": "大阪狭山市金剛１－９－６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56174,
+                    34.49302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶　パール",
+                "address": "大阪狭山市金剛１－９－６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ喫茶",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56174,
+                    34.49302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天ぷらと海鮮居酒屋　錦",
+                "address": "大阪狭山市金剛１－９－５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://nisikisushi.wixsite.com/konngou",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56174,
+                    34.49302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "肉マル水産",
+                "address": "大阪狭山市金剛１－９－５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56174,
+                    34.49302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケかえる",
+                "address": "大阪狭山市金剛１－９－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56174,
+                    34.49302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炭火焼鳥　千鳥",
+                "address": "大阪狭山市金剛１－９－３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56174,
+                    34.49302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "京進スクール・ワン 金剛教室",
+                "address": "大阪狭山市金剛１－３－５　宮崎ビル２Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.kyoshin.co.jp/s1/schooldetail/597/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55991,
+                    34.49389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カジュアルフレンチ　ダルシ",
+                "address": "大阪狭山市金剛１－３－５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55991,
+                    34.49389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "関西個別指導学院 金剛教室",
+                "address": "大阪狭山市金剛１－３－１金剛ナディスビル　４Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.kobetsu.co.jp/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55991,
+                    34.49389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ApaKabar",
+                "address": "大阪狭山市金剛１－３１　ナディスビル１Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.apakabar-co.jp",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55966,
+                    34.4955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "賃貸ショップ金剛",
+                "address": "大阪狭山市金剛１－１－１南海電鉄　金剛駅２階",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "賃貸住宅",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55966,
+                    34.4955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お菓子のデパートよしや金剛",
+                "address": "大阪狭山市金剛１－１－１金剛駅１階東側　",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.okashi.jp/",
+                "industry": "飲食料品供給",
+                "type": "菓子飲料販売",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55966,
+                    34.4955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ＵＲ賃貸ショップ金剛駅",
+                "address": "大阪狭山市金剛１－１－１　南海電鉄金剛駅２階",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "賃貸住宅店舗",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55966,
+                    34.4955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金剛駅店",
+                "address": "大阪狭山市金剛１－１－１　南海金剛駅内",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://nc-nomura.com",
+                "industry": "生活必需サービス",
+                "type": "クリーニング業",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55966,
+                    34.4955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ロッテリアショップ南海金剛店",
+                "address": "大阪狭山市金剛１－１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55966,
+                    34.4955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "街のみなと　南海金剛店",
+                "address": "大阪狭山市金剛１－１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.daiki-suisan.co.jp/nankaikongo_minato/",
+                "industry": "飲食料品供給",
+                "type": "水産物小売店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55966,
+                    34.4955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鶴橋粉舗てこや　金剛駅店",
+                "address": "大阪狭山市金剛１－１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://tekoya.com/",
+                "industry": "飲食料品供給",
+                "type": "たこ焼き屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55966,
+                    34.4955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "日光うどん",
+                "address": "大阪狭山市金剛１－１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "うどん店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55966,
+                    34.4955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和欧欲ばりバル　WAO",
+                "address": "大阪狭山市半田１－６２２－１　金剛ショッププロムナード１階右",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋バル",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.56194,
+                    34.49282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "littleisland",
+                "address": "大阪狭山市狭山２－９４４－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55466,
+                    34.50326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "レイアップ ネイル＆ビューティー",
+                "address": "大阪狭山市狭山２－９１２－４　２０１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://leiup-nail.com",
+                "industry": "個人向けサービス",
+                "type": "ネイル、エステ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55498,
+                    34.50423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "とりとり",
+                "address": "大阪狭山市狭山２－９１２－４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55498,
+                    34.50423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉さくら",
+                "address": "大阪狭山市狭山２－８９８－７　サンシャイン狭山１Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55507,
+                    34.50251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar mahalo",
+                "address": "大阪狭山市狭山２－８９８－７",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "カラオケバー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55507,
+                    34.50251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "時空間くりや",
+                "address": "大阪狭山市狭山３－２４３３－２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://kuriya-osakasayama.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェレストラン　ギャラリー　イベントスペース",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55469,
+                    34.5054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケレインボー大阪狭山店",
+                "address": "大阪狭山市大阪狭山市池之原３－１０５８ー２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.karaoke-rainbow.com",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "カラオケボックス",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55408,
+                    34.50656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar JIN",
+                "address": "大阪狭山市狭山５－７８４－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "バー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5582,
+                    34.5032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スタンドバー　Nest",
+                "address": "大阪狭山市狭山５－７８３　第２　松本ビル１Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.facebook.com/standbarNEST/",
+                "industry": "飲食料品供給",
+                "type": "バー",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5582,
+                    34.5032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "hair's matsumoto",
+                "address": "大阪狭山市狭山５－７８３",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "その他",
+                "type": "理容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5582,
+                    34.5032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "パソコン教室ZERO",
+                "address": "大阪狭山市狭山５－２３４４－５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5582,
+                    34.5032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "きらく寿司",
+                "address": "大阪狭山市狭山５－２２６０－９",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55881,
+                    34.50401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鮨処 一心",
+                "address": "大阪狭山市狭山５－２２５８－５　遊園駅前ビル１Ｆ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.hotpepper.jp/strJ001015311/",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55881,
+                    34.50401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ジャンボ酒場　大阪狭山市駅前店",
+                "address": "大阪狭山市狭山５－２２５８－５",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55881,
+                    34.50401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Studio With",
+                "address": "大阪狭山市狭山５－２２１３－２４",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "その他",
+                "type": "ダンススタジオ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55766,
+                    34.50528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪狭山市文化会館　SAYAKAホール",
+                "address": "大阪狭山市狭山１－８７５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://www.sayaka-hall.jp/",
+                "industry": "劇場、観覧場、映画館、演芸場",
+                "type": "文化会館",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55576,
+                    34.50174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "レストランSAYAKA",
+                "address": "大阪狭山市狭山１－８７５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "http://takomasa.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "たこ焼屋",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55576,
+                    34.50174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お食事処　一休西店",
+                "address": "大阪狭山市狭山１－８００－６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55688,
+                    34.50329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "グランブルー",
+                "address": "大阪狭山市狭山１－７９１－１　２０２",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "スナック ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55708,
+                    34.50182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anabelle",
+                "address": "大阪狭山市狭山１－７９１－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "スナック",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55708,
+                    34.50182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "美容アリス",
+                "address": "大阪狭山市狭山１－７８７－６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55708,
+                    34.50182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "亜登里絵",
+                "address": "大阪狭山市狭山１－７８７－２１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55708,
+                    34.50182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "エステティックサロンmilk",
+                "address": "大阪狭山市狭山１－７８７　ヴィーブル２－４Ａ",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://aesthetic-milk.com/home/",
+                "industry": "生活必需サービス",
+                "type": "エステティックサロン",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.55708,
+                    34.50182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ジョリーパスタ　岩室店",
+                "address": "大阪狭山市岩室２－２４５－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "https://www.jolly-pasta.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "パスタ・ピッツァ",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.53934,
+                    34.50239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マクドナルド狭山岩室店",
+                "address": "大阪狭山市岩室３－２７６",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54201,
+                    34.50185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "エナッ",
+                "address": "大阪狭山市岩室１－３３４－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54118,
+                    34.49988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ジュリアン",
+                "address": "大阪狭山市岩室１－３３４－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54118,
+                    34.49988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たなばた",
+                "address": "大阪狭山市岩室１－３３４－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54118,
+                    34.49988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リラクゼーションリゾート　スパヒルズ",
+                "address": "大阪狭山市岩室１－３３４－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "浴場業",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.54118,
+                    34.49988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "いわむろ",
+                "address": "大阪狭山市岩室１－２５２－１",
+                "icon": "restaurant",
+                "munic": "大阪狭山市",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "osakasayamashi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.53981,
+                    34.50098
+                ]
+            }
+        }
+    ]
+}

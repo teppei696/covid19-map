@@ -1,0 +1,1345 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丸智",
+                "address": "島本町青葉１－８－１４",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66359,
+                    34.87854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たけのこ治療院",
+                "address": "島本町青葉１－２－７　２０４",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "その他",
+                "type": "鍼灸院",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66464,
+                    34.8797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "やすふく整骨院",
+                "address": "島本町青葉１－２５－３６",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "https://yasufuku-seikotsuin.wixsite.com/yasufuku-seikotsuin",
+                "industry": "その他",
+                "type": "整骨院",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66245,
+                    34.87695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リストランテコンテ",
+                "address": "島本町水無瀬２－７－１",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66656,
+                    34.87737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "K＆K",
+                "address": "島本町水無瀬２－５－９",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66707,
+                    34.87761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鳥あそび",
+                "address": "島本町水無瀬２－５－７",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "その他",
+                "type": "居酒屋",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66707,
+                    34.87761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海鮮居酒屋　ひかり",
+                "address": "島本町水無瀬２－５ー７",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66707,
+                    34.87761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たちのみ チョットバー",
+                "address": "島本町水無瀬２－４－８",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "立ち飲み居酒屋",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6673,
+                    34.87806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "松陰塾 水無瀬駅前校",
+                "address": "島本町水無瀬２－４－４０",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "https://showin-juku.jp/minaseekimae/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6673,
+                    34.87806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "北おおさか信用金庫　島本支店",
+                "address": "島本町水無瀬２－４－３",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "https://www.kitaosaka-shinkin.co.jp/index.html",
+                "industry": "その他",
+                "type": "信用金庫",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6673,
+                    34.87806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケスナック&喫茶カトレア",
+                "address": "島本町水無瀬２－４－２２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "遊興施設",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6673,
+                    34.87806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヘアーサロン フジイ",
+                "address": "島本町水無瀬２－４－２１",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "http://shimamotocyannel.com/shop/fujii.html",
+                "industry": "生活必需サービス",
+                "type": "理美容室",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6673,
+                    34.87806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe and bar T's",
+                "address": "島本町水無瀬２－４－１９",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6673,
+                    34.87806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CLAPS HAIR",
+                "address": "島本町水無瀬２－４－１８",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "https://claps-hair.jimdofree.com/",
+                "industry": "個人向けサービス",
+                "type": "美容室",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6673,
+                    34.87806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック　CHA-CHA",
+                "address": "島本町水無瀬２－４－１",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6673,
+                    34.87806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たこ元　まるまる",
+                "address": "島本町水無瀬１－７０８－８",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "居酒屋",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66803,
+                    34.88052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Charm BAR",
+                "address": "島本町水無瀬１－７０８－８",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66803,
+                    34.88052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スキレットバルcon brio",
+                "address": "島本町水無瀬１－１８－９",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66747,
+                    34.87845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たこ勇",
+                "address": "島本町水無瀬１－１８－９",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品製造業",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66747,
+                    34.87845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ゴールフリー　水無瀬教室",
+                "address": "島本町水無瀬１－１８－１３　エクセル水無瀬２Ｆ",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "https://www.goalfree.co.jp/classroom/minase/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66747,
+                    34.87845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "かみや",
+                "address": "島本町水無瀬１－１８－１３　１０４",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "美容室",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66747,
+                    34.87845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ツボイ薬局",
+                "address": "島本町水無瀬１－１８－１３",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "その他",
+                "type": "薬局",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66747,
+                    34.87845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "みなせ",
+                "address": "島本町水無瀬１－１８－１３",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "うどん、蕎麦店",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66747,
+                    34.87845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ネスカフェ スタンド 水無瀬店",
+                "address": "島本町水無瀬１－１７－１２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "https://nestle.jp/entertain/cafe/nescafestand/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "コーヒースタンド",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66833,
+                    34.8784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "髪染め館",
+                "address": "島本町水無瀬１－１７－１２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "ヘアカラー専門店",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66833,
+                    34.8784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ちょい呑み のんた",
+                "address": "島本町水無瀬１－１７－１２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "https://takatsuki-scramble.com/nonta/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66833,
+                    34.8784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Go Star Indian Curry & Bar",
+                "address": "島本町水無瀬１－１７－１２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66833,
+                    34.8784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "音夢",
+                "address": "島本町水無瀬１－１６－６",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ喫茶",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66838,
+                    34.87884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青木接骨院",
+                "address": "島本町水無瀬１－１６－１８",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "http://sekkotsu-aoki.com/",
+                "industry": "その他",
+                "type": "接骨院",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66838,
+                    34.87884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "サロンド・M",
+                "address": "島本町水無瀬１－１６－１８",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66838,
+                    34.87884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fitness to BOND",
+                "address": "島本町水無瀬１－１５－２２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "運動施設",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66797,
+                    34.8788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "...Cafe Puku Puku",
+                "address": "島本町水無瀬１－１１－１３",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66852,
+                    34.87988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　ヨコちゃん",
+                "address": "島本町水無瀬１　モール街",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66728,
+                    34.87943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "旬を喰らう　天まる",
+                "address": "島本町水無瀬１　みなせモール内",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66728,
+                    34.87943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "藤寿司",
+                "address": "島本町若山台２－６－２　１０３",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.65895,
+                    34.89103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "おあしすデイサービス",
+                "address": "島本町若山台２－６",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "その他",
+                "type": "デイサービス",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.65895,
+                    34.89103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cache cache coucou",
+                "address": "島本町桜井３－４－１　島本町ふれあいセンター　Ｂ１",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66061,
+                    34.88286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋みやび",
+                "address": "島本町高浜２－１－１２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66913,
+                    34.87697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック　chao",
+                "address": "島本町高浜３－１－２７",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66812,
+                    34.87721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "すみれ",
+                "address": "島本町高浜３－１－２７",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66812,
+                    34.87721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和食さと　水無瀬店",
+                "address": "島本町高浜３－１－２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "http://www.sato-restauranto-systems.co.jp",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ファミリーレストラン",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66812,
+                    34.87721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼鳥一品料理薩摩",
+                "address": "島本町高浜３－１－１７　常井Ｂ１Ｆ",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66812,
+                    34.87721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "クリーニングルビー　グルメシティ水無瀬店",
+                "address": "島本町江川２－３－１",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "クリーニング",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.67006,
+                    34.8792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋ぽんちゃん 水無瀬店",
+                "address": "島本町江川２－１３－１　１０２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "https://r.gnavi.co.jp/jaxm9s6v0000/",
+                "industry": "食事提供施設",
+                "type": "居酒屋",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66887,
+                    34.87822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋ぽんちゃん",
+                "address": "島本町江川２－１３　ＵＲ水無瀬駅前団地１　１０２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66887,
+                    34.87822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "とんかつきのした",
+                "address": "島本町江川２－２５－１２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66913,
+                    34.87787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RiRaCourage",
+                "address": "島本町江川２－１１－５",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "その他",
+                "type": "リラクゼーション、エステ",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66959,
+                    34.8784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "あかせ整骨院　水無瀬院",
+                "address": "島本町江川２－１１－４",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "その他",
+                "type": "整骨院",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66959,
+                    34.8784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鍋・居酒屋 なっちゃん",
+                "address": "島本町江川２－１１－２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66959,
+                    34.8784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Go カラオケ",
+                "address": "島本町江川２－１１－２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66959,
+                    34.8784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "すし文",
+                "address": "島本町江川２－１１－２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品製造業",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66959,
+                    34.8784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鮮酔丸",
+                "address": "島本町江川２－１１－１６　葵ビル１０２",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66959,
+                    34.8784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ミュージックスクールノート",
+                "address": "島本町江川　２－１１－１６　葵ビル３０１",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "http://www.kanae-music.sakura.ne.jp/",
+                "industry": "その他",
+                "type": "音楽教室",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66959,
+                    34.8784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼鉄板焼き　あわちゃん",
+                "address": "島本町江川１－２３－４",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お好み焼き鉄板焼き",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.67256,
+                    34.88061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カレーハウスCoCo壱番屋島本町国道171号店",
+                "address": "島本町江川１－２３－３０",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カレー専門店",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.67256,
+                    34.88061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "風恋",
+                "address": "島本町広瀬２－５－８",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.67342,
+                    34.88711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "島本町立人権文化センター",
+                "address": "島本町広瀬２－２２－２７",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "http://www.shimamotocho.jp/kankou_bunka/syoukai/sisetuannai/1591945163056.html",
+                "industry": "集会場、公会堂",
+                "type": "隣保館",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.67612,
+                    34.88667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鶏焼肉HOME",
+                "address": "島本町広瀬４－２５－２５",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉屋",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66928,
+                    34.87949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "チャイナダイニング彩菜",
+                "address": "島本町広瀬４－２５－２５",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66928,
+                    34.87949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAFE DINING SOLT",
+                "address": "島本町広瀬４－２５－２３　２Ｆ",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66928,
+                    34.87949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ライフ",
+                "address": "島本町広瀬４－２２－２７",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66982,
+                    34.88052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "京進スクール・ワン　水無瀬教室",
+                "address": "島本町広瀬４－２０－２０",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "https://www.kyoshin.co.jp/s1/schooldetail/583/",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66953,
+                    34.88103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "きむら鍼灸整骨院",
+                "address": "島本町広瀬３－１－２６",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "http://www.kimura-clinic.link/",
+                "industry": "個人向けサービス",
+                "type": "鍼灸整骨院",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.67064,
+                    34.8856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "クリーニングルビー　万代水無瀬店",
+                "address": "島本町広瀬３－１－１８",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "クリーニング",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.67064,
+                    34.8856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "有限会社佐飛クリーニング店",
+                "address": "島本町広瀬５－７－３５",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "クリーニング店",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66814,
+                    34.8828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "やすらぎ接骨院",
+                "address": "島本町広瀬１－６－３　カッセル伊丹１０１室",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "",
+                "industry": "その他",
+                "type": "接骨院",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66911,
+                    34.88399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe La Vieしまもと",
+                "address": "島本町広瀬１－６－３　カッセルイタミ１０５",
+                "icon": "restaurant",
+                "munic": "島本町",
+                "hp": "https://cafelavie.exblog.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "shimamotochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.66911,
+                    34.88399
+                ]
+            }
+        }
+    ]
+}

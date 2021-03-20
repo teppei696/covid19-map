@@ -1,0 +1,565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たこ その2",
+                "address": "豊能町余野　２９３－５",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.49335,
+                    34.92579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "豊能町立中央公民館",
+                "address": "豊能町余野２６",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "http://www.town.toyono.osaka.jp/",
+                "industry": "集会場、公会堂",
+                "type": "貸館集会施設",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.49466,
+                    34.91879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cafe LAID-BACK",
+                "address": "豊能町余野１５８－４",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.49472,
+                    34.92071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カフェレイドバック",
+                "address": "豊能町余野１５８－４",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.49472,
+                    34.92071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "豊能町立郷土資料館",
+                "address": "豊能町余野１００８",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "http://www.town.toyono.osaka.jp/",
+                "industry": "博物館、美術館、図書館",
+                "type": "歴史資料展示施設",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.49736,
+                    34.9216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "にしうら",
+                "address": "豊能町木代７７６",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.50449,
+                    34.91512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ゆうまだよ",
+                "address": "豊能町東ときわ台２－１３－１７",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "その他",
+                "type": "たこ焼き屋",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44759,
+                    34.90473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "reborn豊能町",
+                "address": "豊能町東ときわ台３－１－２",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "その他",
+                "type": "医療サービス",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44504,
+                    34.90189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "公文式東ときわ台教室",
+                "address": "豊能町東ときわ台３－１－２",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "https://www.kumon.ne.jp/enter/search/classroom/1808390103/babykumon.html?lid=hist_000",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44504,
+                    34.90189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "上西書店",
+                "address": "豊能町東ときわ台３－１－２",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "書店",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44504,
+                    34.90189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "東ときわ台自治会館",
+                "address": "豊能町東ときわ台３－１－２",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "http://east-tokiwadai.net/",
+                "industry": "集会場、公会堂",
+                "type": "自治会館",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44504,
+                    34.90189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "豊能町立ユーベルホール",
+                "address": "豊能町東ときわ台１－２－５",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "http://www.town.toyono.osaka.jp/file/jubel/",
+                "industry": "劇場、観覧場、映画館、演芸場",
+                "type": "多目的文化ホール",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44258,
+                    34.90199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喜泰園",
+                "address": "豊能町新光風台２－１８－５",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42838,
+                    34.90722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶かりな",
+                "address": "豊能町新光風台２－１８－５",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42838,
+                    34.90722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tickle&flirt 〈ティコとフラート〉",
+                "address": "豊能町新光風台２－１３－２",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "https://www.instagram.com/tickleflirt/?hl=ja",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42928,
+                    34.90522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "豊能町立スポーツセンター　シートス",
+                "address": "豊能町新光風台３－１－１０",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "https://www.shisetsu.jp/town.toyono_ctos/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "多目的スポーツセンター",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.42697,
+                    34.90886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "オーベルジュ　ヤマガミ",
+                "address": "豊能町高山２３",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "https://www.satoyamasouken.co.jp",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.49043,
+                    34.88902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪北摂霊園",
+                "address": "豊能町高山２３５",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "https://www.reien.osaka-town.or.jp/",
+                "industry": "冠婚葬祭",
+                "type": "墓地公園",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.48947,
+                    34.88145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "豊能町立図書館",
+                "address": "豊能町光風台５－１－２",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "http://www.town.toyono.osaka.jp/",
+                "industry": "博物館、美術館、図書館",
+                "type": "書籍貸出閲覧施設",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4408,
+                    34.90039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "豊能町立西公民館",
+                "address": "豊能町光風台５－１－２",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "http://www.town.toyono.osaka.jp/",
+                "industry": "集会場、公会堂",
+                "type": "集会貸館施設",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4408,
+                    34.90039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "桜谷軽便鉄道",
+                "address": "豊能町吉川９６－４０",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "http://nakanoke.com/sakuradani/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "屋外アトラクション",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44601,
+                    34.90697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "（株）淡路屋",
+                "address": "豊能町吉川１４８",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "http://www.awajiya.org/",
+                "industry": "生活必需サービス",
+                "type": "呉服屋",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44386,
+                    34.9125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "かめたに 妙見口駅前店",
+                "address": "豊能町吉川１４３－３",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44386,
+                    34.9125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "津の国屋",
+                "address": "豊能町吉川１４３－３",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44386,
+                    34.9125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ雲母",
+                "address": "豊能町希望ヶ丘６－１３－１０",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ喫茶",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.50774,
+                    34.91688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ダイニング旬",
+                "address": "豊能町希望ケ丘５－２－４",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.51132,
+                    34.91367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "尾崎自動車工業株式会社",
+                "address": "豊能町ときわ台４－１７－２０",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "http://www.a-car.co.jp",
+                "industry": "生活必需サービス",
+                "type": "自動車整備業",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44362,
+                    34.90394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "かめたに　ときわ台店",
+                "address": "豊能町ときわ台５－８－１１",
+                "icon": "restaurant",
+                "munic": "豊能町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "toyonochou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.44247,
+                    34.90272
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,925 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ガーデンカフェ　キッチンハート",
+                "address": "河南町鈴美台１－８－４",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "http://kitchen-heart.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶店",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64833,
+                    34.48293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "エコ健システム株式会社",
+                "address": "河南町白木４２７",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "http://www.ecoken.jp/",
+                "industry": "その他",
+                "type": "事務所",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63542,
+                    34.48703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "社会福祉法人マイウェイ福祉の会　工房花水木",
+                "address": "河南町白木１０３５",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "その他",
+                "type": "菓子製造業（製パン）店舗なし",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6324,
+                    34.48785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ワールドヴィレッジ",
+                "address": "河南町白木１４５６－２",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "http://www.worldranch.co.jp",
+                "industry": "その他",
+                "type": "宿泊施設",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64018,
+                    34.47847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "かなんぴあ",
+                "address": "河南町白木１３７１－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "https://information.konamisportsclub.jp/trust/kananpia/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "スポーツクラブ",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63126,
+                    34.49225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "特進ゼミ・河南教室",
+                "address": "河南町白木１３５５－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62968,
+                    34.49277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "炉端　万長",
+                "address": "河南町白木１３５５－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62968,
+                    34.49277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "クリーニングルビー　サンプラザ河南町芸大前店",
+                "address": "河南町東山６７８",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "http://www.rby.jp/shop/osaka/ma-column/minamikawachigun/20170227-197/",
+                "industry": "生活必需サービス",
+                "type": "クリーニング",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63066,
+                    34.50868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "らーめん帝軒",
+                "address": "河南町東山６９１－４",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.625,
+                    34.51397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ビリヤード　ハスラー１０芸大前",
+                "address": "河南町東山６６９－２",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "ビリヤード場",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62762,
+                    34.51053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ラウンジ　BIBI",
+                "address": "河南町東山１０－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63066,
+                    34.50868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "寿司 菊一",
+                "address": "河南町東山１０－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63066,
+                    34.50868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "信濃橋百番",
+                "address": "河南町中７１０－３",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63206,
+                    34.48084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "クリーニングルビー スーパーセンターオークワ河南店",
+                "address": "河南町中４１５",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "http://www.rby.jp/shop/osaka/ma-column/minamikawachigun/20170227-198/",
+                "industry": "生活必需サービス",
+                "type": "クリーニング",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62749,
+                    34.48161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CUT SHOP ・ NAKA",
+                "address": "河南町中５４８－３",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "https://cutshop-naka.jimdofree.com",
+                "industry": "生活必需サービス",
+                "type": "理容店",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63112,
+                    34.47785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cafe little pine",
+                "address": "河南町中３８－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62994,
+                    34.48211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "旬彩三谷　創作和柳",
+                "address": "河南町中３４１－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "https://www.syunsai-mitani.jp",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "日本料理店",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63188,
+                    34.47103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケスタジオ　ジャム",
+                "address": "河南町大宝４－１－６",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "http://jkim.biz/jam/",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63637,
+                    34.50302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "公文式　大宝教室",
+                "address": "河南町大宝４－１９－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63776,
+                    34.50256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋いろり",
+                "address": "河南町大宝１－３２－９",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63501,
+                    34.50359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "そば工房　けんぞう",
+                "address": "河南町大宝１－３２－４",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63501,
+                    34.50359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国四川料理　梅花子",
+                "address": "河南町大宝１－３２－１７",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63501,
+                    34.50359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "てっぱんmieee",
+                "address": "河南町大宝１－３２－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63501,
+                    34.50359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "河茂寿司",
+                "address": "河南町大ケ塚２０７",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62691,
+                    34.50566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "レストラン&カフェ 愚留芽",
+                "address": "河南町神山４８６ー２７",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62645,
+                    34.47983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ　キッチン　リアン",
+                "address": "河南町神山１２１－４",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62506,
+                    34.47739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "歌の里　麦畑亭",
+                "address": "河南町寺田６１７－２",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63583,
+                    34.4958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "公文式　河南寺田教室",
+                "address": "河南町寺田２７４－３",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.63113,
+                    34.49489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ks hair",
+                "address": "河南町山城５８３－１１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62207,
+                    34.50298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "朝日屋河南店",
+                "address": "河南町大字寛弘寺８５７－９",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.61961,
+                    34.4934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "株式会社NRS本部　（全日本ロードサービススクール）",
+                "address": "河南町寛弘寺８４３－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "http://www.nrsg.co.jp/",
+                "industry": "その他",
+                "type": "研修及び講習機関",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6189,
+                    34.49271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喜祭",
+                "address": "河南町寛弘寺２４３",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62288,
+                    34.4826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ナッツカフェ",
+                "address": "河南町加納６９５",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64082,
+                    34.48852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "いこいの場かえる",
+                "address": "河南町一須賀７６９－４　２ｆ",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62869,
+                    34.50847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LiLy",
+                "address": "河南町一須賀７６９－４",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62869,
+                    34.50847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "かなんデリバリー",
+                "address": "河南町一須賀７６９－４",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "買物代行",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62869,
+                    34.50847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼き鉄板料理ゆう",
+                "address": "河南町一須賀７６８－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62665,
+                    34.50892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉樹樹",
+                "address": "河南町一須賀５４１－２",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62665,
+                    34.50892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉美の吉",
+                "address": "河南町一須賀５３８－３",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62593,
+                    34.51005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶店",
+                "address": "河南町一須賀１０４",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62552,
+                    34.50714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋じゃじゃまる",
+                "address": "河南町一須賀４７８－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62433,
+                    34.5129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼鳥屋わいに",
+                "address": "河南町一須賀４７７－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼鳥屋",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62633,
+                    34.51136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ 響",
+                "address": "河南町一須賀１９－４",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カラオケ喫茶",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62466,
+                    34.50646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "コトノハ",
+                "address": "河南町一須賀１５２－１",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6243,
+                    34.5103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "麻雀　園",
+                "address": "河南町一須賀１１３－６",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "運動施設・遊戯施設",
+                "type": "マージャン店",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62437,
+                    34.50938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "麻雀クラブ園",
+                "address": "河南町一須賀１１３",
+                "icon": "restaurant",
+                "munic": "河南町",
+                "hp": "",
+                "industry": "運動施設・遊戯施設",
+                "type": "マージャン店",
+                "url": "kananchou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.62437,
+                    34.50938
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金剛山麓 まつまさ",
+                "address": "千早赤阪村千早９５０",
+                "icon": "restaurant",
+                "munic": "千早赤阪村",
+                "hp": "http://www.matsumasa.org",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食店",
+                "url": "chihayaakasakamura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64561,
+                    34.4212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ウッディハート",
+                "address": "千早赤阪村千早７１",
+                "icon": "restaurant",
+                "munic": "千早赤阪村",
+                "hp": "http://woodyheart0911.com",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "chihayaakasakamura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6512,
+                    34.4134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "グリーン山荘　千早の風",
+                "address": "千早赤阪村大字千早１０８７",
+                "icon": "restaurant",
+                "munic": "千早赤阪村",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ",
+                "url": "chihayaakasakamura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.65305,
+                    34.41553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お食事処　為ちゃん",
+                "address": "千早赤阪村水分３３８",
+                "icon": "restaurant",
+                "munic": "千早赤阪村",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "chihayaakasakamura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.6256,
+                    34.46743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "株式会社メモリアルアートの大野屋",
+                "address": "千早赤阪村水分８５１",
+                "icon": "restaurant",
+                "munic": "千早赤阪村",
+                "hp": "https://www.ohnoya.co.jp/",
+                "industry": "個人向けサービス",
+                "type": "墓石販売",
+                "url": "chihayaakasakamura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.65053,
+                    34.44986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ダイニング河内屋　赤阪売店",
+                "address": "千早赤阪村水分１１７０",
+                "icon": "restaurant",
+                "munic": "千早赤阪村",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "chihayaakasakamura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64154,
+                    34.45843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ダイニング河内屋　千早売店",
+                "address": "千早赤阪村水分１１７０",
+                "icon": "restaurant",
+                "munic": "千早赤阪村",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "chihayaakasakamura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64154,
+                    34.45843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ＆cafeなごみ",
+                "address": "千早赤阪村小吹６８－８７２",
+                "icon": "restaurant",
+                "munic": "千早赤阪村",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "chihayaakasakamura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.60289,
+                    34.4383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ&cafeなごみ",
+                "address": "千早赤阪村小吹６８－８７２",
+                "icon": "restaurant",
+                "munic": "千早赤阪村",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "chihayaakasakamura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.60289,
+                    34.4383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fusion cafe",
+                "address": "千早赤阪村小吹６８－７８３",
+                "icon": "restaurant",
+                "munic": "千早赤阪村",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "料理店",
+                "url": "chihayaakasakamura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.60289,
+                    34.4383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "～手作りケーキとパンの店～　トマトハウス",
+                "address": "千早赤阪村小吹６８－２６５",
+                "icon": "restaurant",
+                "munic": "千早赤阪村",
+                "hp": "https://www.facebook.com/tomatohausu1989",
+                "industry": "飲食料品供給",
+                "type": "ケーキ屋",
+                "url": "chihayaakasakamura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.60289,
+                    34.4383
+                ]
+            }
+        }
+    ]
+}

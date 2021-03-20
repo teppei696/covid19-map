@@ -1,0 +1,2985 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "なか卯　熊取店",
+                "address": "熊取町野田２－１２－１１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://www.nakau.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "丼",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35141,
+                    34.40257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "熊取図書館",
+                "address": "熊取町野田４－２７１４－１－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.town.kumatori.lg.jp/shisetsu/tosyokan/index.html",
+                "industry": "博物館、美術館、図書館",
+                "type": "図書館",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35757,
+                    34.40205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ネコリパブリック大阪熊取町店",
+                "address": "熊取町野田３－２２９７－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.neco-republic.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "保護猫カフェ、ドッグカフェ",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35515,
+                    34.40204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋甚",
+                "address": "熊取町野田３－２２８９－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35516,
+                    34.40302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "のらや熊取店",
+                "address": "熊取町野田１－６－２",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.noraya.com/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "うどん屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3584,
+                    34.40102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　七武海",
+                "address": "熊取町野田１－２－１２　ネゴロビル１Ｆ",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35692,
+                    34.40131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "てまり",
+                "address": "熊取町野田１－２４－３",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35431,
+                    34.39886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "熊取町公民館・町民会館",
+                "address": "熊取町野田１－１－１２",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.town.kumatori.lg.jp/shisetsu/kouminkan/index.html",
+                "industry": "集会場、公会堂",
+                "type": "公民館",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35533,
+                    34.40151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOWA美容室",
+                "address": "熊取町美熊台１－５－２２",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容・美容業",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35336,
+                    34.38942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和風キッチン　まる",
+                "address": "熊取町東和苑１－６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35107,
+                    34.39328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶りぼん",
+                "address": "熊取町東和苑１－４",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35107,
+                    34.39328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "弓場商店",
+                "address": "熊取町長池１－１１　２０６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "たこ焼き屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35208,
+                    34.39205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼　愛ちゃん",
+                "address": "熊取町朝代東２－７－１　ニュー熊取タウン１階２",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35233,
+                    34.38678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "うまいもんや とも",
+                "address": "熊取町朝代東２－７－１　",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35233,
+                    34.38678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dining 志",
+                "address": "熊取町朝代東２－７－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35233,
+                    34.38678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "エムズダイナー",
+                "address": "熊取町朝代東２－７－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35233,
+                    34.38678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "愛ちゃん",
+                "address": "熊取町朝代東２－７－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お好み焼き",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35233,
+                    34.38678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "弁慶",
+                "address": "熊取町朝代東２－７－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35233,
+                    34.38678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "四川火鍋　辣王",
+                "address": "熊取町朝代東２－７－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35233,
+                    34.38678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H.C.DENIMS",
+                "address": "熊取町朝代東２－５－９",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "雑貨店",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35132,
+                    34.38741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶カラオケ　みわ",
+                "address": "熊取町朝代東２－５－１１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35132,
+                    34.38741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たこ焼き　Queens'",
+                "address": "熊取町朝代東２－５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35132,
+                    34.38741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "寿司一品料理岩男",
+                "address": "熊取町朝代東１－８－５３",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35118,
+                    34.38879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "味の里",
+                "address": "熊取町朝代東１－７－１３",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35037,
+                    34.38858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "もんちー",
+                "address": "熊取町朝代東１－ー７ー４",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35037,
+                    34.38858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "わらび",
+                "address": "熊取町朝代東１－６－７",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35033,
+                    34.38951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "餃子工房うまる",
+                "address": "熊取町朝代東１－６－７",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35033,
+                    34.38951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鶏焼気まま",
+                "address": "熊取町朝代東１－６－１５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35033,
+                    34.38951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ぼて八",
+                "address": "熊取町朝代東１－５－２９",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34975,
+                    34.3904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お食事処　彦治郎　",
+                "address": "熊取町朝代西１－７２４－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "食堂",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35419,
+                    34.38169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "えるぶぃす",
+                "address": "熊取町大宮３－１８６６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.36526,
+                    34.39459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お食事処　しげみん家",
+                "address": "熊取町大宮３－１５６３－１　ブラン松浪１Ｆ",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.36177,
+                    34.39453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洒樂QOO",
+                "address": "熊取町大宮３－１５６３－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "その他",
+                "type": "スナック",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.36177,
+                    34.39453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック　ホワイト",
+                "address": "熊取町大宮１－１４－１４",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3696,
+                    34.39747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "そば処 よしの",
+                "address": "熊取町大久保北２－５－２２",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34758,
+                    34.40839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "wood village",
+                "address": "熊取町大久保北２－２３",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "キッチンカー",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34753,
+                    34.41011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jijibaba",
+                "address": "熊取町大久保北２－１８－２６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お好み焼き鉄板焼き屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34662,
+                    34.40934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カフェ＆クラフトスペース　ほびっと",
+                "address": "熊取町大久保北２－１７－８",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://hobitto.wixsite.com/website",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "カフェ、レンタルスペース",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34743,
+                    34.40929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ペットショップ サニー",
+                "address": "熊取町大久保北２－１７－６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://pet-sunny.com/",
+                "industry": "商業施設",
+                "type": "ペット美容室",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34743,
+                    34.40929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナックゆう",
+                "address": "熊取町大久保北３－４２０－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34312,
+                    34.407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たこ焼きまきちゃん",
+                "address": "熊取町大久保北３－４２０－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34312,
+                    34.407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "はじめ、",
+                "address": "熊取町大久保北３－４２０－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34312,
+                    34.407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "本家さぬきや　熊取店",
+                "address": "熊取町大久保北３－３４１－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "和食",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34518,
+                    34.40688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スパゲティハウスたべるな",
+                "address": "熊取町大久保北３－１７３－４",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34604,
+                    34.40688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOCIO",
+                "address": "熊取町大久保北３－１７３－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34604,
+                    34.40688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "どんじゅう",
+                "address": "熊取町大久保北３－１７３－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼き鳥屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34604,
+                    34.40688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天ten",
+                "address": "熊取町大久保北３－１７３－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34604,
+                    34.40688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "エニタイムフィットネス熊取店",
+                "address": "熊取町大久保北３－１０２５－１　２Ｆ",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "フィットネスジム",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34518,
+                    34.40688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国亭",
+                "address": "熊取町大久保北１－１－２０",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華料理店",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34648,
+                    34.4059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ケアプランセンターまつ藤",
+                "address": "熊取町大久保南２－５－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "その他",
+                "type": "介護事業",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34352,
+                    34.39806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "(株)松藤テリー",
+                "address": "熊取町大久保南２－２７－１４",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "その他",
+                "type": "タオル製造",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.33902,
+                    34.39571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "こだわり肉　やきや",
+                "address": "熊取町大久保南２－２１－５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34056,
+                    34.39591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶イーグルス",
+                "address": "熊取町大久保南２－１０－３",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶店、軽食",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34215,
+                    34.39731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "つろぎ",
+                "address": "熊取町大久保南４－１３５１－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://www.tsurogi.com/",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3419,
+                    34.39552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ　てんてん",
+                "address": "熊取町大久保南３－１９７６－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34457,
+                    34.38897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶　たまねぎ",
+                "address": "熊取町大久保南３－１９７６－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34457,
+                    34.38897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "パティスリー　ル・プルニエ",
+                "address": "熊取町大久保南３－１３９２－１の２１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://www.yasakaen.com",
+                "industry": "飲食料品供給",
+                "type": "菓子製造業",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34312,
+                    34.39411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "障害者支援施設　くまとり弥栄園",
+                "address": "熊取町大久保南３－１３８０－１の３",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://www.yasakaen.com",
+                "industry": "その他",
+                "type": "福祉施設",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34312,
+                    34.39411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ゆかり整体整骨院",
+                "address": "熊取町大久保東２－８－１６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://yukari-seitai.com/",
+                "industry": "個人向けサービス",
+                "type": "整骨院",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34653,
+                    34.39568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼きコナヤ",
+                "address": "熊取町大久保東２－８－１０",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34653,
+                    34.39568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ひまわり",
+                "address": "熊取町大久保東１－５－２０",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34561,
+                    34.40231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケレインボー熊取店",
+                "address": "熊取町大久保東１－３－２",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケボックス",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34567,
+                    34.40288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ココハウス",
+                "address": "熊取町大久保東１－１－１８",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.facebook.com/kokohousetop/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "レストラン",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34618,
+                    34.40428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rsalon",
+                "address": "熊取町大久保東１－１２－４",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://www14.plala.or.jp/R-salon/",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3456,
+                    34.40126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鉄板バル　じゅじゅ",
+                "address": "熊取町大久保中２－７－７",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34291,
+                    34.40216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ぎょーざやさん",
+                "address": "熊取町大久保中２－４－７",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://gyo-zayasan.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "餃子専門店",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34468,
+                    34.40221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "みのや",
+                "address": "熊取町大久保中２－２８－６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34044,
+                    34.40426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ビストロリュドラガール",
+                "address": "熊取町大久保中２－２８－４",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://m.facebook.com/ruedelagare",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "フランス料理",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34044,
+                    34.40426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "海鮮酒場 季楽",
+                "address": "熊取町大久保中２－２６－６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34108,
+                    34.40386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "あて処呑み処　呑",
+                "address": "熊取町大久保中２－２４－３",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34171,
+                    34.40503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "はなみずき亭",
+                "address": "熊取町大久保中２－２４－３",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34171,
+                    34.40503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カット&パーマ　カインド",
+                "address": "熊取町大久保中２－１－２１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容・美容業",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34459,
+                    34.40321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "季節料理　松ふじ",
+                "address": "熊取町大久保中２－１０－１１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34384,
+                    34.40359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ハンス熊取店",
+                "address": "熊取町大久保中１－９－７",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://hansyougashi.com",
+                "industry": "その他",
+                "type": "洋菓子製造販売・喫茶",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34373,
+                    34.40532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焙煎と珈琲　織の花",
+                "address": "熊取町大久保中１－７－３８",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "移動販売",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34378,
+                    34.40627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焙煎と珈琲 織の花。",
+                "address": "熊取町大久保中１－７－３８",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://orinohana.thebase.in/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "移動カフェ",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34378,
+                    34.40627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "珈琲館 熊取店",
+                "address": "熊取町大久保中１－７－２８",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://www.kohikan.jp",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶店",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34378,
+                    34.40627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ワンカルビ　熊取店",
+                "address": "熊取町大久保中１－７－２６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼肉",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34378,
+                    34.40627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "どんたく屋　熊取店",
+                "address": "熊取町大久保中１－１－２６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34555,
+                    34.40475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "学生服のノグチ 熊取店",
+                "address": "熊取町大久保中１－１－２６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "服屋（学生服）",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34555,
+                    34.40475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　四季",
+                "address": "熊取町大久保中１－１－２６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34555,
+                    34.40475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ居酒屋　純",
+                "address": "熊取町大久保中１－１－２５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34555,
+                    34.40475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "串カツえべっさん　熊取店",
+                "address": "熊取町大久保中１－１－２５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34555,
+                    34.40475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "串カツえべっさん熊取店",
+                "address": "熊取町大久保中１－１－２５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "その他",
+                "type": "串カツ店",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34555,
+                    34.40475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉かみ屋",
+                "address": "熊取町大久保中１－１－２５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34555,
+                    34.40475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "キッチン725",
+                "address": "熊取町大久保中１－１－２２",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34555,
+                    34.40475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋のぶろう",
+                "address": "熊取町大久保中１－１－２２",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34555,
+                    34.40475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼きまるも",
+                "address": "熊取町大久保中１ー１－２５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お好み焼き屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34555,
+                    34.40475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "駅下にぎわい館",
+                "address": "熊取町大久保中１－１７－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://kumatori-kankou.com/",
+                "industry": "その他",
+                "type": "観光案内所",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34148,
+                    34.4058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "W Peace Sing",
+                "address": "熊取町大久保中１－１０－４０　ドリータウン２Ｆ",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34361,
+                    34.40479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Acoustic Live Cafe Bar 小春",
+                "address": "熊取町大久保中１－１０－４０　",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://koharu.chips.jp/info/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "Acoustic Live Cafe Bar",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34361,
+                    34.40479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "hana87",
+                "address": "熊取町大久保中１－１０－４０",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "バー",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34361,
+                    34.40479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "八剣伝熊取駅前店",
+                "address": "熊取町大久保中１－１０－４０",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34361,
+                    34.40479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スイ―ツスリール369",
+                "address": "熊取町大久保中１－１０―１５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "パンケーキカフェ",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34361,
+                    34.40479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ふらっと",
+                "address": "熊取町大久保中１－２５　サンチェリー内",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34383,
+                    34.40533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スナック サジタリアス",
+                "address": "熊取町大久保中１－２５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品製造業",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34383,
+                    34.40533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BELLE FAMME",
+                "address": "熊取町青葉台２－２－２",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.b-famme.com/",
+                "industry": "個人向けサービス",
+                "type": "エステティックサロン",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.33907,
+                    34.39684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "花の静",
+                "address": "熊取町成合西２１５０－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "その他",
+                "type": "花屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35767,
+                    34.37327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "食堂 あらまつ",
+                "address": "熊取町新野田２－１１－７",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.aramatsu.net",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35445,
+                    34.4079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶　かのん",
+                "address": "熊取町小谷北２－４－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.37833,
+                    34.39642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "みなみかわ",
+                "address": "熊取町小谷北２－１－２６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "懐石料理・仕出し店",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.37599,
+                    34.39543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居酒屋　舞",
+                "address": "熊取町小谷北１－１９－２０",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3752,
+                    34.3955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南川食料品店",
+                "address": "熊取町小谷南３－１０－２",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "青果販売",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.37621,
+                    34.39502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たから洲　熊取店",
+                "address": "熊取町小垣内３－５－５６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "寿司　割烹",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.36316,
+                    34.39972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TE kara TE",
+                "address": "熊取町小垣内３－５－２４",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.36316,
+                    34.39972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "オリジナルグッズ工房　スタジオ・デブリ",
+                "address": "熊取町小垣内１－１０－１８　中内ビル３０１室",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.instagram.com/st.debris/",
+                "industry": "その他",
+                "type": "オリジナルグッズ制作販売",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.36111,
+                    34.39857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼肉鞍馬",
+                "address": "熊取町小垣内１－１０－１４",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.36111,
+                    34.39857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "柳-Ryu-",
+                "address": "熊取町七山西１２４３－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "その他",
+                "type": "居酒屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35551,
+                    34.41118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ハワイアンリラクゼーションサロンPUKALANI",
+                "address": "熊取町山の手台２－１０－１６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "エステティック",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35944,
+                    34.39205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PUKALANI",
+                "address": "熊取町山の手台２－１０－１６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "エステティック",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35944,
+                    34.39205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "甲田儀タオル",
+                "address": "熊取町桜が丘２－１６－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "その他",
+                "type": "藍染商品製造",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34966,
+                    34.40611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶スナック　チャオ",
+                "address": "熊取町桜が丘１－２－１７",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "スナック",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35217,
+                    34.4046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大学スーパー",
+                "address": "熊取町桜が丘１－２－１５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食料品販売",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35217,
+                    34.4046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "池内工務店",
+                "address": "熊取町桜が丘１－２－１５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "その他",
+                "type": "建築",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35217,
+                    34.4046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "自家製麺 ら～めん麺虎",
+                "address": "熊取町紺屋２－６－５　シャーメゾン紺屋１０３",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://mentigris.com",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3517,
+                    34.40352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "すき家　170熊取店",
+                "address": "熊取町紺屋２－５－５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "牛丼屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35126,
+                    34.40319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "餃子の王将 泉南熊取店",
+                "address": "熊取町紺屋２－３－１６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://map.ohsho.co.jp/b/ohsho/info/1256/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華料理レストラン",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35286,
+                    34.40275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "丸亀製麺熊取",
+                "address": "熊取町紺屋２－２７－１１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.marugame-seimen.com/",
+                "industry": "食事提供施設",
+                "type": "うどん",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34706,
+                    34.40527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "株式会社リウイルトラスト　熊取店",
+                "address": "熊取町紺屋２－２６－７",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.e-will.co.jp",
+                "industry": "その他",
+                "type": "不動産業",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34778,
+                    34.40495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "蕎麦処 泉州路",
+                "address": "熊取町紺屋２－２３－６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34856,
+                    34.40454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マクドナルド外環熊取町店",
+                "address": "熊取町紺屋２－２２－１６",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3495,
+                    34.40411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "タチリュウコンディショニングジム 熊取店",
+                "address": "熊取町紺屋２－２１－１７",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://tachiryugym.com/#Osaka-Kumatori",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "スポーツクラブ",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35059,
+                    34.40413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "リサイクルマート熊取店",
+                "address": "熊取町紺屋１－９－１３",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://www.recyclemart-kumatori.com/",
+                "industry": "その他",
+                "type": "質屋",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34935,
+                    34.40367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Watt’s hair design",
+                "address": "熊取町紺屋１－２６－７　ジュネスビル２　１０４",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "美容室",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34802,
+                    34.40425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大阪神戸湾岸支部 くまとり森下道場",
+                "address": "熊取町紺屋１－２６－７",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://www.shinkyokushin-wangan.net/doujou/morisita.html",
+                "industry": "自動車教習所、学習塾等",
+                "type": "空手教室",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34802,
+                    34.40425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中学受験の阿水塾",
+                "address": "熊取町紺屋１－２６－３　ジュネスビル３階",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://www.asuijuku.com",
+                "industry": "自動車教習所、学習塾等",
+                "type": "中学受験学習塾",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34802,
+                    34.40425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ケーズデンキ　じゃんぼスクエア熊取店",
+                "address": "熊取町紺屋１－２６－１６　じゃんぼスクエア熊取２階",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "家電量販店",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34802,
+                    34.40425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "山唄",
+                "address": "熊取町大字五門東２－７－３",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35301,
+                    34.39825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "エミ美容室",
+                "address": "熊取町五門東２－７－５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "その他",
+                "type": "美容室",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35301,
+                    34.39825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "教育・子どもセンター",
+                "address": "熊取町五門東２－３－５",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "集会場、公会堂",
+                "type": "公共施設",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.356,
+                    34.3981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "楠プランニング",
+                "address": "熊取町五門東４－５－４",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "その他",
+                "type": "オフィス事務全般",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35022,
+                    34.39392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ヘアーサロンシミズ",
+                "address": "熊取町五門東３－６－１３",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "生活必需サービス",
+                "type": "理容店",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35382,
+                    34.39476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "泉州味処　冬美",
+                "address": "熊取町五門東３－３１－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "そうざい製造販売",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35092,
+                    34.39712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cukka",
+                "address": "熊取町五門東３－２０－１０",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "その他",
+                "type": "雑貨店",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35216,
+                    34.3967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アシスト鍼灸整骨院",
+                "address": "熊取町五門東３－１－２２　中川ビル２Ｆ",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "個人向けサービス",
+                "type": "鍼灸整骨院",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35706,
+                    34.39729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIGAR FOOTBALL STADIUM",
+                "address": "熊取町五門西２－２－８",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://ligar-football.com/",
+                "industry": "運動施設・遊戯施設",
+                "type": "スポーツクラブなどの屋内運動施設",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35124,
+                    34.39826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR Bon Bon",
+                "address": "熊取町五門西４－２２３３－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34628,
+                    34.3995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "株式会社アライヴ",
+                "address": "熊取町五門西１－１２－８　井松ビル１０２",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://alive-ins.co.jp/",
+                "industry": "その他",
+                "type": "保険代理店",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34795,
+                    34.40086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "公文式五門西教室",
+                "address": "熊取町五門西１－１２－８",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.kumon.ne.jp/enter/search/classroom/1754150415/index.html",
+                "industry": "自動車教習所、学習塾等",
+                "type": "学習塾",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.34795,
+                    34.40086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "重要文化財　中家住宅",
+                "address": "熊取町五門西１－１１－１８",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.town.kumatori.lg.jp/shisetsu/nakakezyuutaku/index.html",
+                "industry": "博物館、美術館、図書館",
+                "type": "重要文化財",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.3486,
+                    34.40061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "熊取交流センター（煉瓦館）",
+                "address": "熊取町五門西１－１０－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.town.kumatori.lg.jp/shisetsu/rengakan/index.html",
+                "industry": "集会場、公会堂",
+                "type": "公共施設",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35043,
+                    34.40073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "洋食&フレンチレストラン　プードル",
+                "address": "熊取町五門西１－１０－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35043,
+                    34.40073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "㈱じばしん",
+                "address": "熊取町五門西１－１０",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "生活必需物資供給",
+                "type": "タオル類販売",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.35043,
+                    34.40073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "地鳥茶屋　鳥喜",
+                "address": "熊取町久保２－１１２５－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "http://toriyoshi.net/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "地鳥料理専門店",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.36687,
+                    34.39262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "熊取町立総合体育館",
+                "address": "熊取町久保５－３－１　",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "https://www.central.co.jp/club/p-kumatoricho/index.html",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "総合運動施設　プール・トレーニングジム・アリーナ・会議室",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.37196,
+                    34.39019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "熊取北コミュニティルーム",
+                "address": "熊取町希望が丘２－６－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "集会場、公会堂",
+                "type": "集会場",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.36493,
+                    34.40459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "和み",
+                "address": "熊取町希望が丘４－１３－３１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "キッチンカーにて、くまコロ、スープ、ドリンク、アルコール等",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.36403,
+                    34.40596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ちゃいなたうん",
+                "address": "熊取町希望が丘３－５－２２",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華専用",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.36197,
+                    34.40541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南海くまとり・つばさが丘販売センター",
+                "address": "熊取町つばさが丘北２－１４－１",
+                "icon": "restaurant",
+                "munic": "熊取町",
+                "hp": "",
+                "industry": "展示場",
+                "type": "住宅販売、リフォーム",
+                "url": "kumatorichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.37117,
+                    34.38463
+                ]
+            }
+        }
+    ]
+}

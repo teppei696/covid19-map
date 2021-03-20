@@ -1,0 +1,1325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "とんかつKYK　関西国際空港店",
+                "address": "田尻町泉州空港中１－１　旅客ターミナルビル３階",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "とんかつ店",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goryo関空店",
+                "address": "田尻町泉州空港中１－１　旅客ターミナルビル２０９",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://www.kansai-airport.or.jp/shop-and-dine/dine/d007",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "喫茶軽食",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "関空 英國屋アゼリア",
+                "address": "田尻町泉州空港中１－１　旅客ターミナルビル　４Ｆ",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "マルゲリータキッチン関西空港",
+                "address": "田尻町泉州空港中１－１　関西国際空港旅客第一ターミナル３Ｆ",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "洋食",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "がんこ関西国際空港店",
+                "address": "田尻町泉州空港中１－１　関西国際空港旅客ターミナルビル３Ｆ",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://www.gankofood.co.jp/shop/detail/su-kansai-airport",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "レストラン",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "がんこ関西国際空港国際ゲート店",
+                "address": "田尻町泉州空港中１－１　ＫＩＸエアサイドアベニュー内",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://www.gankofood.co.jp/shop/detail/su-international-gate",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "レストラン",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カードメンバーズラウンジ　アネックス六甲",
+                "address": "田尻町泉州空港中１－１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カードメンバーズラウンジ　六甲",
+                "address": "田尻町泉州空港中１－１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カードメンバーズラウンジ「金剛」",
+                "address": "田尻町泉州空港中１－１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "その他",
+                "type": "その他",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カードメンバーズラウンジ「比叡」",
+                "address": "田尻町泉州空港中１－１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新関西国際空港株式会社",
+                "address": "田尻町泉州空港中１－１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "http://www.nkiac.co.jp/",
+                "industry": "その他",
+                "type": "空港設置管理",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "starbucks関西国際空港4階",
+                "address": "田尻町泉州空港中１　関西国際空港旅客ターミナルビル４階",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "そじ坊・関西国際空港店",
+                "address": "田尻町泉州空港中１　関西国際空港旅客ターミナルビル３Ｆ",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鎌倉パスタ　関西国際空港店",
+                "address": "田尻町泉州空港中１　関西国際空港旅客ターミナルビル３Ｆ",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://www.saint-marc-hd.com/kamakura/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "生パスタ専門店",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "どうとんぼり神座　関西国際空港店",
+                "address": "田尻町泉州空港中１　関西国際空港旅客ターミナルビル３Ｆ",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "http://kamukura.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "ラーメン店",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "starbucks関西国際空港2階",
+                "address": "田尻町泉州空港中１　関西国際空港旅客ターミナルビル２階",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "starbucks関西国際空港1階",
+                "address": "田尻町泉州空港中１　関西国際空港旅客ターミナルビル１階",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "紅虎餃子房　関西空港店",
+                "address": "田尻町泉州空港中１　関西国際空港旅客ターミナルビル　３Ｆ",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "中華",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sports CLUB Bar  Spo Spo",
+                "address": "田尻町泉州空港中１　関西国際空港旅客ターミナル３Ｆ",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "遊興施設",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "杵屋関西国際空港店",
+                "address": "田尻町泉州空港中１　関西国際空港旅客ターミナル３Ｆ",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "商業施設",
+                "type": "うどん屋",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ぼてぢゅう　関西国際空港店",
+                "address": "田尻町泉州空港中１　関西国際空港内旅客ターミナルビル３Ｆ",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://www.botejyu.co.jp/jp/shop/osaka_kanku/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "お好み焼",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ぼてぢゅう屋台　関空町家小路店",
+                "address": "田尻町泉州空港中１　関西国際空港内旅客ターミナルビル２Ｆ",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://www.botejyu.co.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "焼そば屋",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KIXエアサイドラウンジ",
+                "address": "田尻町泉州空港中１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "グローバルWiFi関西国際空港店",
+                "address": "田尻町泉州空港中１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://townwifi.com/receive/kansai/",
+                "industry": "その他",
+                "type": "WiFiレンタル・SIMカード販売店舗",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "杵屋　関西国際空港店　3F",
+                "address": "田尻町泉州空港中１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://www.gourmet-kineya.co.jp/",
+                "industry": "食事提供施設",
+                "type": "うどん",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOSDO関西国際空港店",
+                "address": "田尻町泉州空港中１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "飲食店",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.24118,
+                    34.42951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "田尻町営プール",
+                "address": "田尻町大字吉見７１３－２",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://sports-tajiri.jp/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "屋外プール",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.28859,
+                    34.3928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ　ピース",
+                "address": "田尻町吉見６８８－３",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.28938,
+                    34.39242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAKABA鈴",
+                "address": "田尻町吉見６７５－９",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.28835,
+                    34.39148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼き鳥酒場ヨシミヤ",
+                "address": "田尻町吉見６０７－１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29062,
+                    34.39126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "焼鳥酒場ヨシミヤ",
+                "address": "田尻町吉見６０７－１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29062,
+                    34.39126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe rest bar Gulp",
+                "address": "田尻町吉見６０２－１　シンセーロ吉見１Ｆ",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.28909,
+                    34.39181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼 あらちゃん",
+                "address": "田尻町吉見４２２－３",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29036,
+                    34.38847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ　FAM",
+                "address": "田尻町吉見４２２－３",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29036,
+                    34.38847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケFAM",
+                "address": "田尻町吉見４２２－３",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "バー",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29036,
+                    34.38847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ソウル亭",
+                "address": "田尻町吉見４２２－３",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "食事提供施設",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29036,
+                    34.38847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "愛花",
+                "address": "田尻町吉見４２２－３",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29036,
+                    34.38847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "居笑屋天国　田尻店",
+                "address": "田尻町大字吉見１６８－２",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "http://www.kk-tengoku.jp/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.28931,
+                    34.38618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天国田尻店",
+                "address": "田尻町吉見１６８－２",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "gnavi.co.jp/amp/k307911/",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.28931,
+                    34.38618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ喫茶　はぴねす",
+                "address": "田尻町吉見１０８ー３",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "カラオケ喫茶",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29485,
+                    34.38694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ祐",
+                "address": "田尻町吉見１０８－３",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "飲食料品供給",
+                "type": "食品製造業",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29485,
+                    34.38694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barふりすたいる",
+                "address": "田尻町吉見１０８－１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "遊興施設",
+                "type": "バー",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29485,
+                    34.38694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "たじりふれ愛センター",
+                "address": "田尻町嘉祥寺９３３－４",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "集会場、公会堂",
+                "type": "保健福祉センター",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29323,
+                    34.39903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "田尻町多目的グラウンド",
+                "address": "田尻町嘉祥寺８８３－５",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://sports-tajiri.jp/",
+                "industry": "体育館、水泳場、ボーリング場、運動施設、遊技場",
+                "type": "屋内・屋外グラウンド",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.28891,
+                    34.3963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "アイシングクッキーwmommy",
+                "address": "田尻町嘉祥寺８６７－６",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "商業施設",
+                "type": "生活必需サービス以外のサービス業を営む店舗",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.28986,
+                    34.39594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "oyadoya",
+                "address": "田尻町嘉祥寺８６３－２１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://oyadoya.amebaownd.com/",
+                "industry": "その他",
+                "type": "民泊",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29059,
+                    34.39668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "グラスサンドアート教室",
+                "address": "田尻町嘉祥寺７７３－１２",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "その他",
+                "type": "製造業全般",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.28958,
+                    34.39516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "鉄板焼き居酒屋　とんことんたかの",
+                "address": "田尻町嘉祥寺６９６－１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29124,
+                    34.39609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "喫茶シャンボール",
+                "address": "田尻町嘉祥寺６９２－６",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29182,
+                    34.39522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HondaCars泉南田尻",
+                "address": "田尻町嘉祥寺６６９－１４",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://honda.gr.jp/hondacars-sennantajiri/",
+                "industry": "個人向けサービス",
+                "type": "自動車販売、車検、点検整備",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29268,
+                    34.39597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "韓国料理 焼肉 マダン",
+                "address": "田尻町嘉祥寺６５５－８",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29373,
+                    34.39547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "嘉祥寺代行店",
+                "address": "田尻町嘉祥寺６４９－３",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "その他",
+                "type": "フェイシャルエステサロン",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29373,
+                    34.39547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "お好み焼 水無月",
+                "address": "田尻町嘉祥寺６４１－１３",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29407,
+                    34.39656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "スローダンサー",
+                "address": "田尻町嘉祥寺６４１－１３",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29407,
+                    34.39656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "割烹双月",
+                "address": "田尻町嘉祥寺６１８－１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "居酒屋",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29459,
+                    34.39817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ホームセンターコーナンPROりんくう羽倉崎店",
+                "address": "田尻町大字嘉祥寺６０５－１１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://www.hc-kohnan.com/",
+                "industry": "生活必需物資供給",
+                "type": "ホームセンター",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29459,
+                    34.39817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ホームセンターコーナンりんくう羽倉崎店",
+                "address": "田尻町嘉祥寺６０５－１の１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://www.hc-kohnan.com/",
+                "industry": "生活必需物資供給",
+                "type": "ホームセンター",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29459,
+                    34.39817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "からくさスプリングホテル関西エアゲート",
+                "address": "田尻町嘉祥寺５８８",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "https://karaksahotels.com/kansai/",
+                "industry": "生活必需サービス",
+                "type": "ホテル",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29529,
+                    34.39688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高浦商店",
+                "address": "田尻町嘉祥寺５３５－１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "飲食店(居酒屋含む)",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29488,
+                    34.39374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "カラオケ＆喫茶たえ",
+                "address": "田尻町嘉祥寺４２８－３",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食事提供施設",
+                "type": "喫茶店",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29126,
+                    34.39446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ホテルユタカウイング",
+                "address": "田尻町嘉祥寺３５２－６",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "その他",
+                "type": "宿泊業",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29344,
+                    34.39317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "クリーニングルビー　イオンタウン羽倉崎店",
+                "address": "田尻町嘉祥寺３３８８－５　",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "http://www.rby.jp/shop/osaka/sa-column/sennangun/20170227-195/",
+                "industry": "生活必需サービス",
+                "type": "クリーニング",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29581,
+                    34.39911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IN THE BARBER　イオンタウン羽倉崎店",
+                "address": "田尻町嘉祥寺３３８８－５",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "http://www.waka-matsu.jp/",
+                "industry": "生活必需サービス",
+                "type": "理容室",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29581,
+                    34.39911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "田尻町立公民館",
+                "address": "田尻町嘉祥寺１１２０－１２",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "http://www.town.tajiri.osaka.jp/kakuka/kyoikuiinkai/shakaikyouikuka/new_sisetsu/new_kouminkan/index.html",
+                "industry": "集会場、公会堂",
+                "type": "公民館",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.28804,
+                    34.39511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "活魚寿司",
+                "address": "田尻町嘉祥寺３９－１",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "食堂、レストラン、喫茶店等",
+                "type": "回転寿司",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.29388,
+                    34.39233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "龍成",
+                "address": "田尻町吉見１０５９－４",
+                "icon": "restaurant",
+                "munic": "田尻町",
+                "hp": "",
+                "industry": "その他",
+                "type": "建設業",
+                "url": "tajirichou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.147537,
+                    36.102146
+                ]
+            }
+        }
+    ]
+}
