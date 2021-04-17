@@ -38,7 +38,7 @@
           var hp = e.features[0].properties.hp;
           var html = '<p>' + name + '<br>' + address
           if (hp != '') {
-            html += '<br>HP: ' + hp
+            html += '<br>HP: <a href="' + hp + '" target="_blank">' + hp + '</a>'
           }
           html += '</p>'
           while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
