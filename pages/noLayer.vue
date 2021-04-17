@@ -7,7 +7,7 @@
 <script>
   import mapboxgl from 'mapbox-gl'
   import 'mapbox-gl/dist/mapbox-gl.css';
-  import Data from '@/data/data.json'
+  // import Data from '@/data/data.json'
   export default {
     data() {
       return {
