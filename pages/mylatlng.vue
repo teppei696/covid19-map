@@ -7,7 +7,6 @@
 <script>
   import mapboxgl from 'mapbox-gl'
   import 'mapbox-gl/dist/mapbox-gl.css';
-  import Data from '@/data/data.json'
   export default {
     data() {
       return {
@@ -38,15 +37,24 @@
           zoom: 15,
           center: center
         })
-        this.setMap(this.map, center);
+        this.getData(this.map, center);
       },
-      setMap(map, center) {
+      getData(map, center) {
+        var endpoint = 'http://localhost:3000/api?lat=' + center[1] + '&lng=' + center[0]
+        const response = this.$axios.$get(endpoint).then( response => {
+          console.log('response data', response)
+          this.setMap(map, center, response)
+        }).catch( error => {
+          console.log("response error", error)
+        })
+      },
+      setMap(map, center, data) {
         var nav = new mapboxgl.NavigationControl();
         map.addControl(nav, "top-left");
         map.on('load', () => {
           map.addSource('places', {
             'type': 'geojson',
-            'data': Data
+            'data': data
           });
           map.addLayer({
             'id': 'places',
@@ -79,7 +87,35 @@
           map.on('mouseleave', 'places', function (e) {
             this.getCanvas().style.cursor = '';
           });
+          map.on('moveend', () => {
+            this.resetMap(this.map)
+          });
         });
+      },
+      resetMap(map) {
+        var center = map.getCenter()
+        var endpoint = 'http://localhost:3000/api?lat=' + center.lat + '&lng=' + center.lng
+        const response = this.$axios.$get(endpoint).then( response => {
+          console.log('response data', response)
+          map.removeLayer('places')
+          map.removeSource('places')
+          map.addSource('places', {
+            'type': 'geojson',
+            'data': response
+          });
+          map.addLayer({
+            'id': 'places',
+            'type': 'symbol',
+            'source': 'places',
+            'layout': {
+              'icon-image': 'restaurant-15',
+              'icon-allow-overlap': true
+            }
+          });
+        }).catch( error => {
+          console.log("response error", error)
+        })
+        
       }
     }
   }
