@@ -94,7 +94,7 @@
       },
       resetMap(map) {
         var center = map.getCenter()
-        var endpoint = 'http://localhost:3000/api?lat=' + center.lat + '&lng=' + center.lng
+        var endpoint = '/api?lat=' + center.lat + '&lng=' + center.lng
         const response = this.$axios.$get(endpoint).then( response => {
           console.log('response data', response)
           map.removeLayer('places')
