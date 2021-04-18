@@ -1,6 +1,13 @@
 require('dotenv').config();
 const {TOKEN} = process.env;
 
+var env = process.env.NODE_ENV || 'development';
+if (env === 'development' || env === 'test') {
+  var API_URL = 'http://localhost:3000'
+} else {
+  var API_URL = process.env.API_URL
+}
+
 export default {
   mode: 'universal', //or spa
   // Global page headers: https://go.nuxtjs.dev/config-head
@@ -53,5 +60,7 @@ export default {
   },
 
   serverMiddleware: ['~/api'],
-  axios: {}
+  axios: {
+    baseURL: API_URL
+  }
 }
