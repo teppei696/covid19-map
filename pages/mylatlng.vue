@@ -40,7 +40,7 @@
         this.getData(this.map, center);
       },
       getData(map, center) {
-        var endpoint = 'http://localhost:3000/api?lat=' + center[1] + '&lng=' + center[0]
+        var endpoint = '/api?lat=' + center[1] + '&lng=' + center[0]
         const response = this.$axios.$get(endpoint).then( response => {
           console.log('response data', response)
           this.setMap(map, center, response)
